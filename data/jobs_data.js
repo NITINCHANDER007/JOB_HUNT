@@ -1,8 +1,197 @@
 // Job Hunt Intelligence - Unified Master Job Database
-// Total Active Opportunities: 185
+// Total Active Opportunities: 178
 window.INITIAL_JOBS_DATA = [
   {
     "id": 1,
+    "company": "EXL",
+    "title": "Gen AI Engineer",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Noida, Uttar Pradesh, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-24 10:30:00",
+    "postedTime": "4 days ago",
+    "link": "https://www.linkedin.com/jobs/view/4446731185",
+    "description": "We are seeking a talented and driven GenAI Engineer with 3–6 years of experience to join our dynamic team. In this role, you will leverage your analytical skills, machine learning expertise, and Generative AI capabilities to manage Gen AI pipelines / workflows, extract insights from unstructured datasets, build intelligent AI solutions, and contribute to the development of innovative, scalable sys",
+    "contactEmail": "careers@exl.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://www.linkedin.com/company/exl-service?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "EXL Talent Team",
+    "matchRationale": "Technical alignment for Gen AI Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for Gen AI Engineer | Nitin Chander",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Gen AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 2,
+    "company": "EXL",
+    "title": "Agentic/AI engineers with Claude/code/LLM skills1",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Noida, Uttar Pradesh, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-23 12:30:00",
+    "postedTime": "5 days ago",
+    "link": "https://www.linkedin.com/jobs/view/4446733164",
+    "description": "Key Responsibilities * Design and build agentic LLM solutions (single- and multi-agent patterns) to solve real business problems across domains (e.g., customer support, document intelligence, knowledge retrieval). * Build RAG pipelines end-to-end: data ingestion → chunking/embeddings → vector search → retrieval orchestration → response synthesis, with measurable quality. * Implement prompt enginee",
+    "contactEmail": "careers@exl.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://www.linkedin.com/company/exl-service?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "EXL Talent Team",
+    "matchRationale": "Technical alignment for Agentic/AI engineers with Claude/code/LLM skills1 matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for Agentic/AI engineers with Claude/code/LLM skills1 | Nitin Chander",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Agentic/AI engineers with Claude/code/LLM skills1 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 3,
+    "company": "UST",
+    "title": "AI Engineer",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Bengaluru, Karnataka, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-15 10:00:00",
+    "postedTime": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/4459540173",
+    "description": "Role Description * 5+ years of professional experience in AI/ML development, software engineering, or testing. * Hands-on experience with Copilot, Claude, OpenAI, or other LLM-based platforms. * Dedicated testing and QA experience within AI/ML systems. * Proven experience delivering production-grade AI applications. * Experience working with multi-model AI ecosystems across OpenAI, Anthropic, Micr",
+    "contactEmail": "careers@ust.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://www.linkedin.com/company/ustglobal?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "UST Talent Team",
+    "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
+    "coldEmailBody": "Hi UST Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 4,
+    "company": "SimCorp",
+    "title": "Lead AI Engineer",
+    "fitScore": 74,
+    "fitTier": "Medium",
+    "location": "Noida, Uttar Pradesh, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-15 10:00:00",
+    "postedTime": "1 week ago",
+    "link": "https://www.linkedin.com/jobs/view/4425806186",
+    "description": "What Makes Us, Us Join some of the most innovative thinkers in FinTech as we lead the evolution of financial technology. If you are an innovative, curious, collaborative person who embraces challenges and wants to grow, learn and pursue outcomes with our prestigious financial clients, say Hello to SimCorp! At its foundation, SimCorp is guided by our values — caring, customer success-driven, collab",
+    "contactEmail": "careers@simcorp.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://dk.linkedin.com/company/simcorp?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "SimCorp Talent Team",
+    "matchRationale": "Technical alignment for Lead AI Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for Lead AI Engineer | Nitin Chander",
+    "coldEmailBody": "Hi SimCorp Team,\n\nI am writing to express my strong interest in the Lead AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 5,
+    "company": "Mobility Global",
+    "title": "AI Engineer",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Bengaluru, Karnataka, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-14 10:00:00",
+    "postedTime": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/4468922949",
+    "description": "Why Mobility Global? At Mobility Global, our mission is to provide the trusted information that helps billions of people build, sell, and own vehicles with confidence. As we shape the next generation of automotive intelligence through innovation, AI, and industry-leading data, we're creating new opportunities for our customers, our business, and our people. Join a team singularly focused on transf",
+    "contactEmail": "careers@mobilityglobal.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://www.linkedin.com/company/mbtygl?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "Mobility Global Talent Team",
+    "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
+    "coldEmailBody": "Hi Mobility Global Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 6,
+    "company": "Tata Consultancy Services",
+    "title": "Generative AI Engineer",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Bengaluru, Karnataka, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-19 10:00:00",
+    "postedTime": "1 week ago",
+    "link": "https://in.linkedin.com/jobs/view/generative-ai-engineer-at-tata-consultancy-services-4480215258?trk=public_jobs_topcard-title",
+    "description": "JOB DESCRIPTION Python Developer - Generative AI & Azure SN Required Information Details Role Python Developer - Generative AI & Azure Primary Skills Python Development; azure Secondary Skills UI Development; Web-Based Application Development; Agentic AI Knowledge Location Bangalore, Hyderabad Detailed Skill and Role Requirements Must Have Technical / Functional Skills * Strong hands-on Python dev",
+    "contactEmail": "careers@tataconsultancyservices.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://in.linkedin.com/company/tata-consultancy-services?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "Tata Consultancy Services Talent Team",
+    "matchRationale": "Technical alignment for Generative AI Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for Generative AI Engineer | Nitin Chander",
+    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 7,
+    "company": "Infosys",
+    "title": "Python Developer - Agentic AI / LLM / RAG Engineer",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Bengaluru East, Karnataka, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-10-08 10:00:00",
+    "postedTime": "2 weeks ago",
+    "link": "https://www.linkedin.com/jobs/view/4467149024",
+    "description": "Required Skills Strong programming experience in Python. Hands-on experience with LLMs, Generative AI, Agentic AI, and RAG architectures. Experience with LangChain, LangGraph, CrewAI, AutoGen, LlamaIndex, or equivalent frameworks. Knowledge of vector databases such as Pinecone, ChromaDB, Weaviate, FAISS, or Azure AI Search. Experience with REST APIs, FastAPI, Flask, or Django. Understanding of emb",
+    "contactEmail": "careers@infosys.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://in.linkedin.com/company/infosys?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "Infosys Talent Team",
+    "matchRationale": "Technical alignment for Python Developer - Agentic AI / LLM / RAG Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for Python Developer - Agentic AI / LLM / RAG Engineer | Nitin Chander",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the Python Developer - Agentic AI / LLM / RAG Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true
+  },
+  {
+    "id": 8,
     "company": "Discover Dollar",
     "title": "AI Engineer Intern",
     "fitScore": 93,
@@ -28,7 +217,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 2,
+    "id": 9,
     "company": "Evam Labs",
     "title": "AI Engineer",
     "fitScore": 93,
@@ -54,7 +243,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 3,
+    "id": 10,
     "company": "AryaXAI",
     "title": "AI Agent Engineer Intern",
     "fitScore": 93,
@@ -80,7 +269,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 4,
+    "id": 11,
     "company": "ThinkNovaa",
     "title": "Artificial Intelligence Intern",
     "fitScore": 94,
@@ -106,7 +295,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 5,
+    "id": 12,
     "company": "ThinkNovaa",
     "title": "Machine Learning Intern",
     "fitScore": 94,
@@ -132,7 +321,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 6,
+    "id": 13,
     "company": "Devryxa",
     "title": "Web Development Intern",
     "fitScore": 94,
@@ -158,7 +347,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 7,
+    "id": 14,
     "company": "Jobs4PanIndia",
     "title": "Artificial Intelligence Intern",
     "fitScore": 94,
@@ -184,7 +373,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 8,
+    "id": 15,
     "company": "Vortenza Systems",
     "title": "FULLSTACK WEB DEVELOPMENT INTERN",
     "fitScore": 94,
@@ -210,7 +399,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 9,
+    "id": 16,
     "company": "Dexterz Technology",
     "title": "Full Stack Web Developer Intern",
     "fitScore": 94,
@@ -236,7 +425,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 10,
+    "id": 17,
     "company": "ThinkNovaa",
     "title": "Full Stack Developer Intern",
     "fitScore": 94,
@@ -262,7 +451,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 11,
+    "id": 18,
     "company": "Devryxa",
     "title": "FULLSTACK WEB DEVELOPMENT INTERN",
     "fitScore": 94,
@@ -288,7 +477,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 12,
+    "id": 19,
     "company": "Noether Data Labs",
     "title": "Artificial Intelligence Engineer Intern",
     "fitScore": 94,
@@ -314,7 +503,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 13,
+    "id": 20,
     "company": "Woosong University",
     "title": "Marketing And Business Development Intern",
     "fitScore": 94,
@@ -340,7 +529,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 14,
+    "id": 21,
     "company": "Crossing Infotech",
     "title": "Artificial Intelligence Intern (Python, Machine Learning, NLP, Prompt Engineering) | Remote",
     "fitScore": 94,
@@ -366,7 +555,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 15,
+    "id": 22,
     "company": "Medi Nex Workforce",
     "title": "Data Science | Entry Level | Fresher Internship (Python, Statistics, Machine Learning Basics)",
     "fitScore": 94,
@@ -392,7 +581,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 16,
+    "id": 23,
     "company": "MediNex Workforce",
     "title": "Machine Learning | Entry Level | Fresher Internship (Python, Scikit-learn, Model Evaluation)",
     "fitScore": 94,
@@ -418,7 +607,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 17,
+    "id": 24,
     "company": "Crossing Infotech",
     "title": "Machine Learning Intern (Python, Scikit-learn, Pandas, Data Preprocessing) | Remote",
     "fitScore": 94,
@@ -444,7 +633,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 18,
+    "id": 25,
     "company": "Vortenza Systems",
     "title": "Data Science Intern",
     "fitScore": 94,
@@ -470,7 +659,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 19,
+    "id": 26,
     "company": "Vortenza Systems",
     "title": "BUSINESS ANALYTICS INTERN",
     "fitScore": 94,
@@ -496,7 +685,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 20,
+    "id": 27,
     "company": "Webs IT Solution",
     "title": "BUSINESS ANALYTICS INTERN",
     "fitScore": 94,
@@ -522,7 +711,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 21,
+    "id": 28,
     "company": "Webs IT Solution",
     "title": "DATA ANALYST INTERN",
     "fitScore": 94,
@@ -548,7 +737,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 22,
+    "id": 29,
     "company": "Devryxa",
     "title": "DATA ANALYST INTERN",
     "fitScore": 94,
@@ -574,7 +763,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 23,
+    "id": 30,
     "company": "ThinkNovaa",
     "title": "Backend Developer Intern",
     "fitScore": 93,
@@ -600,7 +789,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 24,
+    "id": 31,
     "company": "Jobs4PanIndia",
     "title": "Back End Developer Intern",
     "fitScore": 93,
@@ -626,7 +815,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 25,
+    "id": 32,
     "company": "AuthBridge",
     "title": "Intern - Data Analytics",
     "fitScore": 93,
@@ -652,7 +841,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 26,
+    "id": 33,
     "company": "Jobs4PanIndia",
     "title": "Cyber Security Intern",
     "fitScore": 93,
@@ -678,7 +867,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 27,
+    "id": 34,
     "company": "Crossing Infotech",
     "title": "Software Developer Intern (Python, Java, SQL, Git) | Remote",
     "fitScore": 93,
@@ -704,7 +893,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 28,
+    "id": 35,
     "company": "Dexterz Technology",
     "title": "Data Analyst Intern",
     "fitScore": 93,
@@ -730,7 +919,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 29,
+    "id": 36,
     "company": "LinkedIn",
     "title": "Staff Data Scientist, Applied Science",
     "fitScore": 85,
@@ -756,7 +945,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 30,
+    "id": 37,
     "company": "HRM Counsel",
     "title": "Python Developer",
     "fitScore": 85,
@@ -782,7 +971,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 31,
+    "id": 38,
     "company": "OpenAI",
     "title": "Incident Commander, Detection & Response - APAC",
     "fitScore": 85,
@@ -808,7 +997,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 32,
+    "id": 39,
     "company": "The Career Company | India",
     "title": "AI Program Manager",
     "fitScore": 85,
@@ -834,7 +1023,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 33,
+    "id": 40,
     "company": "SHRIRAM GENERAL INSURANCE CO. LTD.",
     "title": "Artificial Intelligence Engineer",
     "fitScore": 85,
@@ -860,7 +1049,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 34,
+    "id": 41,
     "company": "GE Vernova",
     "title": "Research Scientist - Machine Learning",
     "fitScore": 85,
@@ -886,7 +1075,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 35,
+    "id": 42,
     "company": "Infosys",
     "title": "Sustainability Consulting",
     "fitScore": 85,
@@ -912,7 +1101,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 36,
+    "id": 43,
     "company": "OyeLabs",
     "title": "Project Management Internship",
     "fitScore": 83,
@@ -938,7 +1127,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 37,
+    "id": 44,
     "company": "Gryphon Cyber Private Limited",
     "title": "Business Intelligence & Research Intern",
     "fitScore": 83,
@@ -964,7 +1153,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 38,
+    "id": 45,
     "company": "Meta",
     "title": "Data Scientist, Product",
     "fitScore": 82,
@@ -990,7 +1179,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 39,
+    "id": 46,
     "company": "Clove Hong Kong Ltd.",
     "title": "【長期インターン】ソフトウェアエンジニア",
     "fitScore": 80,
@@ -1016,7 +1205,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 40,
+    "id": 47,
     "company": "SHRIRAM GENERAL INSURANCE CO. LTD.",
     "title": "Python Developer",
     "fitScore": 80,
@@ -1042,7 +1231,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 41,
+    "id": 48,
     "company": "Stealth AI Startup",
     "title": "Data Verification Intern",
     "fitScore": 78,
@@ -1068,7 +1257,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 42,
+    "id": 49,
     "company": "Anvaya Automation",
     "title": "Business Development Intern",
     "fitScore": 78,
@@ -1094,7 +1283,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 43,
+    "id": 50,
     "company": "Joblet-AI",
     "title": "AI Ethics Analyst",
     "fitScore": 75,
@@ -1120,7 +1309,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 44,
+    "id": 51,
     "company": "HRM Counsel",
     "title": "Research Analyst",
     "fitScore": 70,
@@ -1169,7 +1358,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Direct hands-on experience in RAG, LangChain, and clean Python backend engineering.",
     "status": "Not Applied",
     "notes": "",
-    "id": 45
+    "id": 52
   },
   {
     "company": "Level AI",
@@ -1195,7 +1384,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 46
+    "id": 53
   },
   {
     "company": "InvoLead",
@@ -1221,7 +1410,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 47
+    "id": 54
   },
   {
     "company": "Jumio Corporation",
@@ -1247,7 +1436,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 48
+    "id": 55
   },
   {
     "company": "Innova ESI",
@@ -1273,7 +1462,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 49
+    "id": 56
   },
   {
     "company": "Ad Astra Consultants",
@@ -1299,7 +1488,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 50
+    "id": 57
   },
   {
     "company": "Cognite",
@@ -1325,7 +1514,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 51
+    "id": 58
   },
   {
     "company": "ByteDance",
@@ -1351,7 +1540,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "High-throughput data quality validation, SQL fluency, and Python scripting.",
     "status": "Not Applied",
     "notes": "",
-    "id": 52
+    "id": 59
   },
   {
     "company": "NatWest Group",
@@ -1377,7 +1566,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Predictive modeling, financial transaction data handling, and Gurugram availability.",
     "status": "Not Applied",
     "notes": "",
-    "id": 53
+    "id": 60
   },
   {
     "company": "Fractal Analytics",
@@ -1403,7 +1592,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Solid machine learning foundations, enterprise database optimization, and Python microservices.",
     "status": "Not Applied",
     "notes": "",
-    "id": 54
+    "id": 61
   },
   {
     "company": "Google",
@@ -1429,7 +1618,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "BigQuery & cloud data pipelines, Python AI serving, and Gurugram location.",
     "status": "Not Applied",
     "notes": "",
-    "id": 55
+    "id": 62
   },
   {
     "company": "Noether Data Labs",
@@ -1455,7 +1644,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "LangChain agentic workflows, vector search optimization, and remote delivery.",
     "status": "Not Applied",
     "notes": "",
-    "id": 56
+    "id": 63
   },
   {
     "company": "Heads Up For Tails",
@@ -1481,7 +1670,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "REST API development, database optimization, and Gurugram proximity.",
     "status": "Not Applied",
     "notes": "",
-    "id": 57
+    "id": 64
   },
   {
     "company": "GoodSpace AI",
@@ -1507,7 +1696,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Local Delhi NCR candidate with proven technical projects and rapid onboarding capabilities.",
     "status": "Not Applied",
     "notes": "",
-    "id": 58
+    "id": 65
   },
   {
     "company": "BharatCode",
@@ -1533,10 +1722,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Python microservice development, clean code standards, and agile remote delivery.",
     "status": "Not Applied",
     "notes": "",
-    "id": 59
+    "id": 66
   },
   {
-    "id": 60,
+    "id": 67,
     "company": "Crossing Infotech",
     "title": "Python Developer Intern (Python, SQL, Git)",
     "fitScore": 85,
@@ -1585,7 +1774,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Predictive modeling, tabular analytics, and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 61
+    "id": 68
   },
   {
     "company": "Tiger Analytics",
@@ -1611,7 +1800,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Analytical problem solving backed by database optimization and clean code principles.",
     "status": "Not Applied",
     "notes": "",
-    "id": 62
+    "id": 69
   },
   {
     "company": "Treva",
@@ -1637,7 +1826,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "FastAPI microservices, vector similarity search, and high-velocity shipping.",
     "status": "Not Applied",
     "notes": "",
-    "id": 63
+    "id": 70
   },
   {
     "company": "eTeam",
@@ -1663,10 +1852,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Production RAG implementation, LangChain/Vector databases, and rapid remote onboarding.",
     "status": "Not Applied",
     "notes": "",
-    "id": 64
+    "id": 71
   },
   {
-    "id": 65,
+    "id": 72,
     "company": "MediNex Workforce",
     "title": "Python Developer Intern",
     "fitScore": 78,
@@ -1692,7 +1881,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 66,
+    "id": 73,
     "company": "Sony Research India",
     "title": "Data Science Intern",
     "fitScore": 90,
@@ -1741,7 +1930,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Prompt engineering, RAG retrieval systems, and FastAPI deployment.",
     "status": "Not Applied",
     "notes": "",
-    "id": 67
+    "id": 74
   },
   {
     "company": "Siemens Energy",
@@ -1767,7 +1956,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Energy domain context from NTPC + production LangChain RAG pipeline.",
     "status": "Not Applied",
     "notes": "",
-    "id": 68
+    "id": 75
   },
   {
     "company": "American Express",
@@ -1793,10 +1982,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Fraud detection machine learning pipeline, precision-recall optimization, and Gurugram location.",
     "status": "Not Applied",
     "notes": "",
-    "id": 69
+    "id": 76
   },
   {
-    "id": 70,
+    "id": 77,
     "company": "Tikko Desk",
     "title": "AI Engineer Intern",
     "fitScore": 67,
@@ -1845,10 +2034,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "NTPC energy domain familiarity, hands-on RAG architectures, and Noida on-site availability.",
     "status": "Not Applied",
     "notes": "",
-    "id": 71
+    "id": 78
   },
   {
-    "id": 72,
+    "id": 79,
     "company": "Unified Mentor Private Limited",
     "title": "PYTHON DEVELOPMENT INTERN",
     "fitScore": 94,
@@ -1874,7 +2063,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 73,
+    "id": 80,
     "company": "UM IT PRIVATE LIMITED",
     "title": "Machine Learning Intern",
     "fitScore": 94,
@@ -1900,7 +2089,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 74,
+    "id": 81,
     "company": "MediNex Workforce",
     "title": "Artificial Intelligence Intern (Remote)",
     "fitScore": 94,
@@ -1926,7 +2115,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 75,
+    "id": 82,
     "company": "Crossing Infotech",
     "title": "Python Developer Intern (Python, SQL, Git, Programming) | Remote",
     "fitScore": 93,
@@ -1952,7 +2141,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 76,
+    "id": 83,
     "company": "MediNex Workforce",
     "title": "Python Developer Intern (Remote)",
     "fitScore": 93,
@@ -1978,7 +2167,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 77,
+    "id": 84,
     "company": "Sparks To Ideas",
     "title": "Machine Learning Internship",
     "fitScore": 90,
@@ -2004,7 +2193,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 78,
+    "id": 85,
     "company": "Polestar Analytics",
     "title": "AI Engineer",
     "fitScore": 90,
@@ -2030,7 +2219,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 79,
+    "id": 86,
     "company": "Alimentiv",
     "title": "Senior Data Engineer (India)",
     "fitScore": 90,
@@ -2079,7 +2268,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 80
+    "id": 87
   },
   {
     "company": "PwC Acceleration Center India",
@@ -2105,7 +2294,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 81
+    "id": 88
   },
   {
     "company": "JATO Dynamics",
@@ -2131,7 +2320,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 82
+    "id": 89
   },
   {
     "company": "Trail",
@@ -2157,7 +2346,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 83
+    "id": 90
   },
   {
     "company": "SourcingXPress",
@@ -2183,7 +2372,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 84
+    "id": 91
   },
   {
     "company": "Infosys Finacle",
@@ -2209,7 +2398,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 85
+    "id": 92
   },
   {
     "company": "Epsilon",
@@ -2235,7 +2424,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 86
+    "id": 93
   },
   {
     "company": "4flow",
@@ -2261,10 +2450,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 87
+    "id": 94
   },
   {
-    "id": 88,
+    "id": 95,
     "company": "EXL",
     "title": "Data Scientist",
     "fitScore": 82,
@@ -2290,7 +2479,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 89,
+    "id": 96,
     "company": "Coducer Technologies Private Limited",
     "title": "AI Engineer Intern",
     "fitScore": 78,
@@ -2339,10 +2528,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Automated ETL development, SQL optimization, and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 90
+    "id": 97
   },
   {
-    "id": 91,
+    "id": 98,
     "company": "Aiingo Technologies LLP",
     "title": "AI Engineer Intern",
     "fitScore": 78,
@@ -2391,7 +2580,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Vector database optimization, FastAPI endpoints, and open-source model experimentation.",
     "status": "Not Applied",
     "notes": "",
-    "id": 92
+    "id": 99
   },
   {
     "company": "Razorpay",
@@ -2417,7 +2606,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Fintech fraud detection ML, XGBoost precision-recall tuning, and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 93
+    "id": 100
   },
   {
     "company": "Gryphon Cyber",
@@ -2443,7 +2632,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Anomaly detection foundations, Python data manipulation, and Delhi availability.",
     "status": "Not Applied",
     "notes": "",
-    "id": 94
+    "id": 101
   },
   {
     "company": "Rempact",
@@ -2469,7 +2658,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Full stack Python integration, agile delivery, and Delhi location.",
     "status": "Not Applied",
     "notes": "",
-    "id": 95
+    "id": 102
   },
   {
     "company": "Wissen Technology",
@@ -2495,10 +2684,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "LLM agentic workflows, financial data modeling, and FastAPI backend services.",
     "status": "Not Applied",
     "notes": "",
-    "id": 96
+    "id": 103
   },
   {
-    "id": 97,
+    "id": 104,
     "company": "Gabeo.ai",
     "title": "Machine Learning Engineer",
     "fitScore": 90,
@@ -2524,7 +2713,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 98,
+    "id": 105,
     "company": "IBM",
     "title": "Data Engineer-Data Platforms-Google",
     "fitScore": 85,
@@ -2550,7 +2739,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 99,
+    "id": 106,
     "company": "Infosys",
     "title": "Databricks Data Engineer",
     "fitScore": 85,
@@ -2576,7 +2765,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 100,
+    "id": 107,
     "company": "Evolver",
     "title": "GenAI Engineer (Python)",
     "fitScore": 54,
@@ -2625,7 +2814,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Noida-based candidate with hands-on Python data pipeline experience.",
     "status": "Not Applied",
     "notes": "",
-    "id": 101
+    "id": 108
   },
   {
     "company": "CV3",
@@ -2651,7 +2840,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Python workflow automation, LLM API orchestration, and Gurugram availability.",
     "status": "Not Applied",
     "notes": "",
-    "id": 102
+    "id": 109
   },
   {
     "company": "AuthBridge",
@@ -2677,7 +2866,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Direct fraud detection project, IDEMIA identity dataset experience, and Gurugram location.",
     "status": "Not Applied",
     "notes": "",
-    "id": 103
+    "id": 110
   },
   {
     "company": "Babaclick",
@@ -2703,7 +2892,7 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "End-to-end Python AI backend integration and Gurugram on-site availability.",
     "status": "Not Applied",
     "notes": "",
-    "id": 104
+    "id": 111
   },
   {
     "company": "Hatch Group",
@@ -2729,10 +2918,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "New Delhi on-site availability and hands-on Python/ML engineering.",
     "status": "Not Applied",
     "notes": "",
-    "id": 105
+    "id": 112
   },
   {
-    "id": 106,
+    "id": 113,
     "company": "Tower Research Capital",
     "title": "Intern – AI/ML",
     "fitScore": 73,
@@ -2781,10 +2970,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied Generative AI, RAG architecture, and production Python API engineering.",
     "status": "Not Applied",
     "notes": "",
-    "id": 107
+    "id": 114
   },
   {
-    "id": 108,
+    "id": 115,
     "company": "Lynx Analytics",
     "title": "AI Engineer",
     "fitScore": 56,
@@ -2833,10 +3022,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Delhi on-site availability, supply chain data modeling, and automated dashboard development.",
     "status": "Not Applied",
     "notes": "",
-    "id": 109
+    "id": 116
   },
   {
-    "id": 110,
+    "id": 117,
     "company": "EXL",
     "title": "Westfield Lead Data Engineer",
     "fitScore": 80,
@@ -2862,7 +3051,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 111,
+    "id": 118,
     "company": "CredHive",
     "title": "Software Engineer Intern",
     "fitScore": 93,
@@ -2888,7 +3077,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 112,
+    "id": 119,
     "company": "Turing",
     "title": "Forward-Deployed AI Engineer",
     "fitScore": 52,
@@ -2914,7 +3103,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 113,
+    "id": 120,
     "company": "Dimakh Consultants",
     "title": "AI/ML Intern",
     "fitScore": 86,
@@ -2963,10 +3152,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Strong CS fundamentals, mathematical problem-solving, and database engineering.",
     "status": "Not Applied",
     "notes": "",
-    "id": 114
+    "id": 121
   },
   {
-    "id": 115,
+    "id": 122,
     "company": "Revvity",
     "title": "Full-Stack AI Engineering Intern",
     "fitScore": 68,
@@ -2992,7 +3181,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 116,
+    "id": 123,
     "company": "Dimakh Consultants Pvt.Ltd",
     "title": "AI/ML Intern",
     "fitScore": 93,
@@ -3018,7 +3207,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 117,
+    "id": 124,
     "company": "Tata Consultancy Services",
     "title": "Generative AI Engineer / Developer",
     "fitScore": 85,
@@ -3044,7 +3233,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 118,
+    "id": 125,
     "company": "Electronic Arts (EA)",
     "title": "Data Science Intern",
     "fitScore": 70,
@@ -3070,7 +3259,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 119,
+    "id": 126,
     "company": "Zinnia",
     "title": "Software Engineer I – AI & ML",
     "fitScore": 74,
@@ -3096,7 +3285,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 120,
+    "id": 127,
     "company": "Anaplan",
     "title": "Senior Data Engineer",
     "fitScore": 88,
@@ -3122,7 +3311,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 121,
+    "id": 128,
     "company": "Tata Consultancy Services",
     "title": "AIML Engineer",
     "fitScore": 85,
@@ -3171,10 +3360,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI, semantic retrieval, and enterprise software engineering.",
     "status": "Not Applied",
     "notes": "",
-    "id": 122
+    "id": 129
   },
   {
-    "id": 123,
+    "id": 130,
     "company": "Albertsons Companies India",
     "title": "Advanced Engineer Software - AI/Agentic [T500-30273]",
     "fitScore": 93,
@@ -3200,7 +3389,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 124,
+    "id": 131,
     "company": "Albertsons Companies India",
     "title": "Engineer Software - AI/Agentic AI [T500-30274]",
     "fitScore": 93,
@@ -3226,7 +3415,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 125,
+    "id": 132,
     "company": "Scyverge",
     "title": "AI/ML Intern",
     "fitScore": 82,
@@ -3252,7 +3441,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 126,
+    "id": 133,
     "company": "Venxr",
     "title": "Generative AI Engineering Intern",
     "fitScore": 92,
@@ -3278,7 +3467,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 127,
+    "id": 134,
     "company": "Venxr",
     "title": "Generative AI Engineering Intern — Venxr",
     "fitScore": 93,
@@ -3304,7 +3493,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 128,
+    "id": 135,
     "company": "Amazon",
     "title": "Data Engineer I",
     "fitScore": 93,
@@ -3330,7 +3519,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 129,
+    "id": 136,
     "company": "Pine Labs",
     "title": "Lead Engineer AI",
     "fitScore": 90,
@@ -3356,7 +3545,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 130,
+    "id": 137,
     "company": "EaseMyTrip.com",
     "title": "Generative AI Engineer",
     "fitScore": 85,
@@ -3382,7 +3571,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 131,
+    "id": 138,
     "company": "Infosys",
     "title": "AWS Data Engineer",
     "fitScore": 80,
@@ -3408,7 +3597,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 132,
+    "id": 139,
     "company": "Thales",
     "title": "Data Scientist",
     "fitScore": 90,
@@ -3457,10 +3646,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Noida local candidate with prior corporate backend internship credentials.",
     "status": "Not Applied",
     "notes": "",
-    "id": 133
+    "id": 140
   },
   {
-    "id": 134,
+    "id": 141,
     "company": "Evam Labs",
     "title": "AI Engineer (Full-Time)",
     "fitScore": 58,
@@ -3486,7 +3675,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 135,
+    "id": 142,
     "company": "Training Basket",
     "title": "LLM Engineer",
     "fitScore": 85,
@@ -3512,7 +3701,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 136,
+    "id": 143,
     "company": "AIMagic Technologies",
     "title": "AI/ML Engineer Intern",
     "fitScore": 72,
@@ -3561,10 +3750,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Econometric & statistical analysis, clean Python data modeling, and Delhi NCR / Gurugram on-site availability.",
     "status": "Not Applied",
     "notes": "",
-    "id": 137
+    "id": 144
   },
   {
-    "id": 138,
+    "id": 145,
     "company": "Lexsi Labs",
     "title": "AI Agent Engineer Intern",
     "fitScore": 93,
@@ -3613,10 +3802,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Curious, hands-on GenAI builder eager to push R&D into production.",
     "status": "Not Applied",
     "notes": "",
-    "id": 139
+    "id": 146
   },
   {
-    "id": 140,
+    "id": 147,
     "company": "The SmartBridge",
     "title": "AI Engineer Intern",
     "fitScore": 91,
@@ -3642,7 +3831,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 141,
+    "id": 148,
     "company": "IBM",
     "title": "Data Engineer II - Confluent",
     "fitScore": 93,
@@ -3668,7 +3857,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 142,
+    "id": 149,
     "company": "Kitopi",
     "title": "Senior Data Engineer",
     "fitScore": 90,
@@ -3694,7 +3883,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 143,
+    "id": 150,
     "company": "Digitap.ai",
     "title": "Python Development Intern",
     "fitScore": 89,
@@ -3720,7 +3909,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 144,
+    "id": 151,
     "company": "ArcelorMittal Digital Consulting",
     "title": "Python Developer Intern",
     "fitScore": 64,
@@ -3746,7 +3935,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 145,
+    "id": 152,
     "company": "ArcelorMittal Digital Consulting",
     "title": "Python_Intern",
     "fitScore": 93,
@@ -3772,7 +3961,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 146,
+    "id": 153,
     "company": "Digitap.ai",
     "title": "Python Development Internship in Bangalore",
     "fitScore": 90,
@@ -3798,7 +3987,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 147,
+    "id": 154,
     "company": "Syneos Health Commercial Solutions",
     "title": "Data Scientist",
     "fitScore": 85,
@@ -3824,7 +4013,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 148,
+    "id": 155,
     "company": "IQVIA",
     "title": "Data Engineer",
     "fitScore": 90,
@@ -3850,7 +4039,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 149,
+    "id": 156,
     "company": "Openjobs",
     "title": "AI Engineer Intern",
     "fitScore": 78,
@@ -3876,7 +4065,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 150,
+    "id": 157,
     "company": "TheJobsMap",
     "title": "Software Engineer Intern",
     "fitScore": 93,
@@ -3902,7 +4091,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 151,
+    "id": 158,
     "company": "Lexsi Labs / AryaXAI",
     "title": "AI Agent Engineer Intern",
     "fitScore": 90,
@@ -3928,7 +4117,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 152,
+    "id": 159,
     "company": "social taxi",
     "title": "AI Engineer Intern",
     "fitScore": 78,
@@ -3954,7 +4143,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 153,
+    "id": 160,
     "company": "Meril",
     "title": "Applied Scientist Intern",
     "fitScore": 65,
@@ -3980,7 +4169,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 154,
+    "id": 161,
     "company": "Discover Dollar Inc",
     "title": "AI Engineer Intern (Agentic AI & LLMs)",
     "fitScore": 94,
@@ -4006,7 +4195,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 155,
+    "id": 162,
     "company": "Sutra.AI",
     "title": "AI Engineer",
     "fitScore": 94,
@@ -4032,7 +4221,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 156,
+    "id": 163,
     "company": "Discover Dollar Inc",
     "title": "AI Engineer Intern",
     "fitScore": 93,
@@ -4058,7 +4247,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 157,
+    "id": 164,
     "company": "Meril",
     "title": "Applied Scientist",
     "fitScore": 93,
@@ -4107,10 +4296,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 158
+    "id": 165
   },
   {
-    "id": 159,
+    "id": 166,
     "company": "Polestar Analytics",
     "title": "Data Scientist",
     "fitScore": 82,
@@ -4136,7 +4325,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 160,
+    "id": 167,
     "company": "Training Basket",
     "title": "ML Intern",
     "fitScore": 84,
@@ -4162,7 +4351,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 161,
+    "id": 168,
     "company": "Lumenci",
     "title": "Product Intern",
     "fitScore": 78,
@@ -4188,7 +4377,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 162,
+    "id": 169,
     "company": "The Affordable Organic Store",
     "title": "Full Stack AI Engineer – AI Agents Intern",
     "fitScore": 88,
@@ -4214,7 +4403,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 163,
+    "id": 170,
     "company": "The Affordable Organic Store",
     "title": "Full Stack AI Engineer — AI Agents Internship in Hyderabad, Kompally",
     "fitScore": 93,
@@ -4240,7 +4429,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 164,
+    "id": 171,
     "company": "Sparks To Ideas",
     "title": "Python Internship",
     "fitScore": 88,
@@ -4266,7 +4455,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 165,
+    "id": 172,
     "company": "Sequoia",
     "title": "Senior Machine Learning Engineer",
     "fitScore": 85,
@@ -4292,7 +4481,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 166,
+    "id": 173,
     "company": "Sequoia",
     "title": "Lead Machine Learning Engineer",
     "fitScore": 85,
@@ -4318,7 +4507,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 167,
+    "id": 174,
     "company": "Polestar Analytics",
     "title": "Generative AI Engineer",
     "fitScore": 90,
@@ -4344,7 +4533,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 168,
+    "id": 175,
     "company": "VGreen Technology Solutions (VGreenTEK)",
     "title": "Senior Statistician/Senior Data Scientist_100% REMOTE",
     "fitScore": 87,
@@ -4370,7 +4559,7 @@ window.INITIAL_JOBS_DATA = [
     "notes": ""
   },
   {
-    "id": 169,
+    "id": 176,
     "company": "Alchimetis",
     "title": "AI Engineer Intern",
     "fitScore": 80,
@@ -4419,10 +4608,10 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailAngle": "Applied AI and Python data pipelines.",
     "status": "Not Applied",
     "notes": "",
-    "id": 170
+    "id": 177
   },
   {
-    "id": 171,
+    "id": 178,
     "company": "UKG",
     "title": "AI Data Engineer II",
     "fitScore": 85,
@@ -4444,370 +4633,6 @@ window.INITIAL_JOBS_DATA = [
     "coldEmailSubject": "AI Data Engineer II Application | Nitin Chander",
     "coldEmailBody": "Hi UKG Talent Team,\n\nI am writing to express my strong enthusiasm for the AI Data Engineer II position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
     "coldEmailAngle": "Direct project experience relevant to AI Data Engineer II.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 172,
-    "company": "DMI Finance Private Limited",
-    "title": "Senior Data Scientist",
-    "fitScore": 82,
-    "fitTier": "High",
-    "location": "Delhi, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-29 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/senior-data-scientist-at-dmi-finance-private-limited-4473206756?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/dmi-finance-private-limited/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "DMI Finance Private Limited Talent Team",
-    "description": "As a Senior Data Scientist, you are expected to break the business problem into a data science problem with clear demarcation of what we have, what we need and what needs to be done to ensure the business problem is solved with an optimal analytical model.\n\n\n\n\n1. Visualizing the scope of the project end to end\n\n * Identify the expected outcome\n * Figure out the data present and required for successful completion of the project\n * Defining the scope and effort needed for project execution\n * Devising monitoring frameworks\n\n\n\n\n2. Stakeholder management\n\n * You should be able to communicate with ",
-    "matchRationale": "Matches technical background in Python and Senior Data Scientist.",
-    "coldEmailSubject": "Senior Data Scientist Application | Nitin Chander",
-    "coldEmailBody": "Hi DMI Finance Private Limited Talent Team,\n\nI am writing to express my strong enthusiasm for the Senior Data Scientist position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Senior Data Scientist.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 173,
-    "company": "Tata Consultancy Services",
-    "title": "AWS Data Engineer",
-    "fitScore": 80,
-    "fitTier": "High",
-    "location": "Bangalore Urban, Karnataka, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-29 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/aws-data-engineer-at-tata-consultancy-services-4471266502?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/tata-consultancy-services/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Tata Consultancy Services Talent Team",
-    "description": "Dear Professionals\n\nGreetings from TCS!!!\n\nJob Title : AWS Data Engineer\n\nExperience : 8-12 Years\n\nLocation : Chennai/Pune/Hyderabad/Bangalore\n\nMode of Interview : Virtual\n\nResponsibilties :\n\n * Must have: Design and develop scalable data pipelines using AWS and Databricks.\n * Build and maintain ETL/ELT frameworks using Python and PySpark.\n * Process and transform large volumes of structured and unstructured data.\n * Develop data ingestion solutions from multiple source systems.\n * Optimize Spark jobs and Databricks workloads for performance and cost efficiency.\n * Design and implement data la",
-    "matchRationale": "Matches technical background in Python and AWS Data Engineer.",
-    "coldEmailSubject": "AWS Data Engineer Application | Nitin Chander",
-    "coldEmailBody": "Hi Tata Consultancy Services Talent Team,\n\nI am writing to express my strong enthusiasm for the AWS Data Engineer position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to AWS Data Engineer.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 174,
-    "company": "Accenture in India",
-    "title": "Custom Software Engineer",
-    "fitScore": 85,
-    "fitTier": "High",
-    "location": "Gurugram, Haryana, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-25 10:00:00",
-    "link": "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5729941-S2065314_en",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/accentureindia/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Accenture in India Talent Team",
-    "description": "Project Role : Custom Software Engineer\n\nProject Role Description : Develop custom software solutions to design, code, and enhance components across systems or applications. Use modern frameworks and agile practices to deliver scalable, high-performing solutions tailored to specific business needs.\n\nMust have skills : Python (Programming Language)\n\nGood to have skills : NA\n\nMinimum 2 Year(s) Of Experience Is Required\n\nEducational Qualification : 15 years full time education\n\nSummary:\n\nWe are looking for a GenAI/Agentic AI Developer with 2–5 years of hands-on software development experience and",
-    "matchRationale": "Matches technical background in Python and Custom Software Engineer.",
-    "coldEmailSubject": "Custom Software Engineer Application | Nitin Chander",
-    "coldEmailBody": "Hi Accenture in India Talent Team,\n\nI am writing to express my strong enthusiasm for the Custom Software Engineer position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Custom Software Engineer.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 175,
-    "company": "Optum India",
-    "title": "Senior AI/ML Engineer",
-    "fitScore": 85,
-    "fitTier": "High",
-    "location": "Noida, Uttar Pradesh, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-22 10:00:00",
-    "link": "https://careers.unitedhealthgroup.com/job/-/-/34088/100966510016?src=JB-22455&utm_source=linkedin.com&utm_medium=job_posting",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/optumindia/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Optum India Talent Team",
-    "description": "Optum is a global organization that delivers care, aided by technology to help millions of people live healthier lives. The work you do with our team will directly improve health outcomes by connecting people with the care, pharmacy benefits, data and resources they need to feel their best. Here, you will find a culture guided by inclusion, talented peers, comprehensive benefits and career development opportunities. Come make an impact on the communities we serve as you help us advance health optimization on a global scale. Join us to start Caring. Connecting. Growing together.\n\nPrimary Respon",
-    "matchRationale": "Matches technical background in Python and Senior AI/ML Engineer.",
-    "coldEmailSubject": "Senior AI/ML Engineer Application | Nitin Chander",
-    "coldEmailBody": "Hi Optum India Talent Team,\n\nI am writing to express my strong enthusiasm for the Senior AI/ML Engineer position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Senior AI/ML Engineer.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 176,
-    "company": "Emarlex Multiventure",
-    "title": "Data Scientist",
-    "fitScore": 87,
-    "fitTier": "High",
-    "location": "Gurgaon, Haryana, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-20 10:00:00",
-    "link": "https://www.emarlex.com/job-openings-for-data-scientist-gurgaon-1265751.htm",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/emarlex-multiventure-llp/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Emarlex Multiventure Talent Team",
-    "description": "Gurgaon\n\nLink Copied\n\nRSS Feed\n\nAbout Role\n\nâ€¢ We are actively seeking talented Data Scientists & Analysts proficient in Python to join our ambitious team dedicated to pushing the frontiers of AI technology.\n\nâ€¢ This opportunity is tailored for professionals who thrive on developing innovative solutions and aspire to be at the forefront of AI advancements.\n\nâ€¢ You will work with companies in the US looking to develop cutting-edge commercial and research AI solutions.\n\nâ€¢ You will write effective Python code to tackle complex issues but also use your business sense and analytical abilities ",
-    "matchRationale": "Matches technical background in Python and Data Scientist.",
-    "coldEmailSubject": "Data Scientist Application | Nitin Chander",
-    "coldEmailBody": "Hi Emarlex Multiventure Talent Team,\n\nI am writing to express my strong enthusiasm for the Data Scientist position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Data Scientist.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 177,
-    "company": "Oliver Wyman",
-    "title": "Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India",
-    "fitScore": 94,
-    "fitTier": "High",
-    "location": "Gurugram, Haryana, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-11 10:00:00",
-    "link": "https://careers.marsh.com/global/en/job/R_341756/Oliver-Wyman-Lead-Data-Engineer-Data-and-Analytics-DNA-Gurugram-India?utm_source=linkedin&utm_medium=phenom-feeds&source=LinkedIn_Slots",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/oliver-wyman/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Oliver Wyman Talent Team",
-    "description": "Practice Overview\n\nPractice: Data and Analytics (DNA) - Analytics Consulting\n\nLocation: Gurugram, India\n\nAt Oliver Wyman DNA, we partner with clients to solve tough strategic business challenges with the power of analytics, technology, and industry expertise. We drive digital transformation, create customer-focused solutions, and optimize operations for the future. Our goal is to achieve lasting results in collaboration with our clients and stakeholders. We value and offer opportunities for personal and professional growth. Join our entrepreneurial team focused on delivering impact globally.\n\n",
-    "matchRationale": "Matches technical background in Python and Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India.",
-    "coldEmailSubject": "Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India Application | Nitin Chander",
-    "coldEmailBody": "Hi Oliver Wyman Talent Team,\n\nI am writing to express my strong enthusiasm for the Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 178,
-    "company": "Funding Societies | Modalku Group",
-    "title": "Senior Data Scientist - Credit Risk",
-    "fitScore": 93,
-    "fitTier": "High",
-    "location": "Delhi, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-10 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/senior-data-scientist-credit-risk-at-funding-societies-modalku-group-4465636267?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/funding-societies-modalku/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Funding Societies | Modalku Group Talent Team",
-    "description": "Funding Societies | Modalku is the largest SME digital finance platform in Southeast Asia. We are licensed and operating in Singapore, Indonesia, Thailand, Malaysia and Vietnam, and backed by Sequoia India (Peak XV), Softbank Vision Fund, Khazanah and SMBC bank amongst many others. Funding Societies | Modalku provides business financing to small and medium-sized enterprises (SMEs), which is funded by individual and institutional investors, as well as payments solutions to SMEs and consumers.\n\nHere at Funding Societies | Modalku we live by our core values GETFS:\n\n\n * Grow Relentlessly: Strive t",
-    "matchRationale": "Matches technical background in Python and Senior Data Scientist - Credit Risk.",
-    "coldEmailSubject": "Senior Data Scientist - Credit Risk Application | Nitin Chander",
-    "coldEmailBody": "Hi Funding Societies | Modalku Group Talent Team,\n\nI am writing to express my strong enthusiasm for the Senior Data Scientist - Credit Risk position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Senior Data Scientist - Credit Risk.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 179,
-    "company": "EPAM Systems",
-    "title": "Lead Generative AI Developer",
-    "fitScore": 85,
-    "fitTier": "High",
-    "location": "Gurgaon, Haryana, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-09-03 10:00:00",
-    "link": "https://jobs.welcome.epam.in/vacancy/bltoqc5z6j9i6epjoea?city=Gurgaon&state=HAR&country=India&utm_medium=xml&utm_campaign=ta&utm_source=linkedin",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/epam-systems/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "EPAM Systems Talent Team",
-    "description": "We are looking for a Lead Generative AI Developer with AWS to design and build cutting-edge GenAI solutions using Amazon Bedrock and similar platforms. In this role, you will develop AI-powered applications, integrate foundation models with enterprise systems and ensure secure, responsible AI practices across business scenarios.\n\nResponsibilities\n\n\n * Design and build GenAI solutions using Amazon Bedrock or similar GenAI platforms\n * Integration with foundation models such as Anthropic Claude and Titan\n * Perform prompt engineering and optimization\n * Develop RAG (Retrieval Augmented Generatio",
-    "matchRationale": "Matches technical background in Python and Lead Generative AI Developer.",
-    "coldEmailSubject": "Lead Generative AI Developer Application | Nitin Chander",
-    "coldEmailBody": "Hi EPAM Systems Talent Team,\n\nI am writing to express my strong enthusiasm for the Lead Generative AI Developer position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Lead Generative AI Developer.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 180,
-    "company": "Narwal",
-    "title": "Data Scientist-Artificial Intelligence",
-    "fitScore": 82,
-    "fitTier": "High",
-    "location": "Bengaluru, Karnataka, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-08-19 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/data-scientist-artificial-intelligence-at-narwal-4456327315?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/narwal-ai/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Narwal Talent Team",
-    "description": "About Us\n\nNarwal, with its Global Delivery Model, strategically expands its reach across North America, the United Kingdom, and an offshore development centre in India. Delivery cutting edge AI, Data, and Quality Engineering solutions and consistently surpassing expectations. Narwal has achieved remarkable triple-digit growth rates year after year, earning accolades such as Inc. 5000, Best IT Services Company, Best Data Technology Company, and Partner of the Year with Tricentis.\n\nOur Vision: To be an expert in AI, Data, and Quality Engineering transformations, bold in our thinking and authenti",
-    "matchRationale": "Matches technical background in Python and Data Scientist-Artificial Intelligence.",
-    "coldEmailSubject": "Data Scientist-Artificial Intelligence Application | Nitin Chander",
-    "coldEmailBody": "Hi Narwal Talent Team,\n\nI am writing to express my strong enthusiasm for the Data Scientist-Artificial Intelligence position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Data Scientist-Artificial Intelligence.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 181,
-    "company": "AppSierra",
-    "title": "Data Engineer",
-    "fitScore": 80,
-    "fitTier": "High",
-    "location": "Noida, Uttar Pradesh, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-08-18 10:00:00",
-    "link": "https://jobs.pitchnhire.com/appsierra.com/data-engineer/019e2b70-e8cf-7a5f-b15d-7dfaf18008a2?utm_source=linkedin&utm_medium=web-application",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/appsierra/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "AppSierra Talent Team",
-    "description": "About The Role\n\nWe are seeking a skilled Data Engineer to join our team. The ideal candidate will have a solid background in data engineering, with expertise in AWS technologies and data processing frameworks.\n\nKey Responsibilities\n\n\n * Design and implement data pipelines using AWS services and PySpark.\n * Develop and optimize SQL queries for data extraction and transformation.\n * Monitor and maintain data workflows in Apache Airflow.\n * Collaborate with data scientists and analysts to understand data requirements.\n * Ensure data quality and integrity across all platforms.\n * Document data arc",
-    "matchRationale": "Matches technical background in Python and Data Engineer.",
-    "coldEmailSubject": "Data Engineer Application | Nitin Chander",
-    "coldEmailBody": "Hi AppSierra Talent Team,\n\nI am writing to express my strong enthusiasm for the Data Engineer position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Data Engineer.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 182,
-    "company": "InXiteOut",
-    "title": "Data Engineer II",
-    "fitScore": 85,
-    "fitTier": "High",
-    "location": "Bengaluru, Karnataka, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-08-17 10:00:00",
-    "link": "https://inxiteout.keka.com/careers/jobdetails/84675?source=linkedin",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/inxiteout/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "InXiteOut Talent Team",
-    "description": "Data Engineer – Azure & PySpark\n\nJob Summary\n\nWe are looking for a Data Engineer with 3+ years of experience in Python/PySpark, SQL, Data Warehousing, and Azure ETL to build scalable and reliable data pipelines.\n\nKey Responsibilities\n\n\n * Develop and maintain data pipelines using Python/PySpark.\n * Build ETL/ELT solutions using Azure Data Factory, Data Lake, Blob Storage, Databricks, Synapse, and Azure SQL.\n * Write complex SQL queries, stored procedures, and transformations.\n * Collaborate with business and technical teams to deliver data solutions.\n * Troubleshoot data and pipeline issues an",
-    "matchRationale": "Matches technical background in Python and Data Engineer II.",
-    "coldEmailSubject": "Data Engineer II Application | Nitin Chander",
-    "coldEmailBody": "Hi InXiteOut Talent Team,\n\nI am writing to express my strong enthusiasm for the Data Engineer II position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Data Engineer II.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 183,
-    "company": "ProcDNA",
-    "title": "[India] Senior Data Scientist",
-    "fitScore": 82,
-    "fitTier": "High",
-    "location": "Gurugram, Haryana, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-08-14 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/india-senior-data-scientist-at-procdna-4462269764?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/procdna/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "ProcDNA Talent Team",
-    "description": "Job Overview\n\nProcDNA is a global consulting firm. We fuse design thinking with cutting-edge tech to create game-changing Commercial Analytics and Technology solutions for our clients. We're a passionate team of 470+ across 9 offices, all growing and learning together since our launch during the pandemic. Here, you won't be stuck in a cubicle. Instead, you'll be out in the open water, shaping the future with brilliant minds. Ready to join our epic growth journey?\n\nWhat are we looking for?\n\nAs a Senior Data Scientist, you will play a key role in delivering end-to-end data science solutions acro",
-    "matchRationale": "Matches technical background in Python and [India] Senior Data Scientist.",
-    "coldEmailSubject": "[India] Senior Data Scientist Application | Nitin Chander",
-    "coldEmailBody": "Hi ProcDNA Talent Team,\n\nI am writing to express my strong enthusiasm for the [India] Senior Data Scientist position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to [India] Senior Data Scientist.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 184,
-    "company": "Serko",
-    "title": "Senior Data Engineer",
-    "fitScore": 85,
-    "fitTier": "High",
-    "location": "Bengaluru, Karnataka, India",
-    "salary": "₹3,000,000.00/yr - ₹4,000,000.00/yr",
-    "source": "LinkedIn",
-    "postedDate": "2026-08-11 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/senior-data-engineer-at-serko-4452184782?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/serko-ltd/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "Serko Talent Team",
-    "description": "Serko is a cutting-edge tech platform in global business travel & expense technology. When you join Serko, you become part of a team of passionate travellers and technologists bringing people together, using the world's leading business travel marketplace. We are proud to be an equal opportunity employer, we embrace the richness of diversity, showing up authentically to create a positive impact. There's an exciting road ahead of us, where travel needs real, impactful change. With offices in New Zealand, Australia, North America, and China, we are thrilled to be expanding our global footprint, ",
-    "matchRationale": "Matches technical background in Python and Senior Data Engineer.",
-    "coldEmailSubject": "Senior Data Engineer Application | Nitin Chander",
-    "coldEmailBody": "Hi Serko Talent Team,\n\nI am writing to express my strong enthusiasm for the Senior Data Engineer position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Senior Data Engineer.",
-    "status": "Not Applied",
-    "notes": ""
-  },
-  {
-    "id": 185,
-    "company": "NPS Prism",
-    "title": "Data Scientist II",
-    "fitScore": 85,
-    "fitTier": "High",
-    "location": "Gurugram, Haryana, India",
-    "salary": "₹20,000 – ₹40,000 / month (Est.)",
-    "source": "LinkedIn",
-    "postedDate": "2026-05-21 10:00:00",
-    "link": "https://in.linkedin.com/jobs/view/data-scientist-ii-at-nps-prism-4425791758?trk=public_jobs_topcard-title",
-    "contactEmail": "",
-    "emailVerified": false,
-    "companyLinkedIn": "https://www.linkedin.com/company/nps-prism/",
-    "companyLinkedInVerified": true,
-    "recruiterLinkedIn": "",
-    "recruiterLinkedInVerified": false,
-    "contactName": "NPS Prism Talent Team",
-    "description": "NPS Prism \n\nTitle: Data Scientist II (Work From Home)\n\nCompany Profile: \n\nNPS Prism is a market-leading, cloud-based SaaS business owned by Bain & Company. NPS Prism provides its customers with actionable insights and analysis that guide the creation of game-changing customer experiences. Based on rock-solid sampling, research, and analytic methodology, it lets customers see how they compare to their competitors on overall NPS®, and on every step of the customer journey. \n\nWith NPS Prism you can see where you’re strong, where you lag, and how customers feel about doing business with you and yo",
-    "matchRationale": "Matches technical background in Python and Data Scientist II.",
-    "coldEmailSubject": "Data Scientist II Application | Nitin Chander",
-    "coldEmailBody": "Hi NPS Prism Talent Team,\n\nI am writing to express my strong enthusiasm for the Data Scientist II position. As a Computer Science undergraduate at MAIT with hands-on experience developing machine learning pipelines, RAG architectures with LangChain, and Python microservices, I am eager to contribute.\n\nDuring my prior corporate internships at IDEMIA and NTPC, I cleaned and analyzed operational telemetry, optimized SQL data flows, and built an end-to-end Machine Learning Fraud Detection system evaluating precision-recall and ROC-AUC metrics. In addition, I engineered a production-grade Medical Literature Assistant utilizing hybrid search and vector databases.\n\nCould we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
-    "coldEmailAngle": "Direct project experience relevant to Data Scientist II.",
     "status": "Not Applied",
     "notes": ""
   }

@@ -19,7 +19,8 @@ TEST_SUITES = [
     ("Contact Link Interactions", "test_contact_clicks.py"),
     ("Live Refresh & Authentic Dates", "test_refresh_live_jobs.py"),
     ("Excel Download Format", "test_excel_export_format.py"),
-    ("Resume Upload & Role Slicer", "test_resume_upload_and_role_slicer.py")
+    ("Resume Upload & Role Slicer", "test_resume_upload_and_role_slicer.py"),
+    ("Autonomous Features Suite", "test_autonomous_features.py")
 ]
 
 def main():

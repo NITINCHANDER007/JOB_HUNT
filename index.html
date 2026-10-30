@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0b0f17">
   <title>Job Hunt Intelligence & Company Excel Exporter | Nitin Chander</title>
   <meta name="description" content="AI-curated job application dashboard with personalized cold emails and one-click Excel (.xlsx) export.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,7 +24,12 @@
   <header class="app-header">
     <div class="header-container">
       <div class="brand-section">
-        <div class="logo-icon">💼</div>
+        <div class="logo-icon" aria-hidden="true">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <rect x="2" y="7" width="20" height="14" rx="2" ry="2"/>
+            <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/>
+          </svg>
+        </div>
         <div class="brand-text">
           <h1>Job Hunt Intelligence</h1>
           <div class="brand-subtitle">Curated Matches & Cold Outreach Hub</div>
@@ -45,15 +51,15 @@
 
         <!-- Add New Company Button -->
         <button id="btnAddCompany" class="btn-secondary" title="Add a custom company to track">
-          <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
           </svg>
-          Add Role
+          <span>Add Role</span>
         </button>
 
         <!-- Upload Resume Button -->
         <button id="btnHeaderUploadResume" class="btn-resume-upload" title="Upload your resume to rank opportunities by fit">
-          <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 16a4 4 0 01-.88-7.903A5 5 0 1115.9 6L16 6a5 5 0 011 9.9M15 13l-3-3m0 0l-3 3m3-3v12"/>
           </svg>
           <span>Upload Resume</span>
@@ -67,7 +73,7 @@
               <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2zM15 8V3.5L18.5 7H15v1zm-2.8 5.5l1.8 3h-1.6l-1-1.8-1 1.8H8.8l1.8-3-1.7-2.9h1.6l.9 1.7.9-1.7h1.6l-1.6 2.9z"/>
             </svg>
             <span>Download Excel (.xlsx)</span>
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
               <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7"/>
             </svg>
           </button>
@@ -106,18 +112,31 @@
     <section class="resume-hub-card" id="resumeHubCard">
       <!-- Inactive State -->
       <div class="resume-hub-inactive" id="resumeHubInactive">
-        <div class="resume-hub-icon">📄</div>
+        <div class="resume-hub-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+            <polyline points="14 2 14 8 20 8"/>
+            <line x1="16" y1="13" x2="8" y2="13"/>
+            <line x1="16" y1="17" x2="8" y2="17"/>
+            <polyline points="10 9 9 9 8 9"/>
+          </svg>
+        </div>
         <div class="resume-hub-content">
           <div class="resume-hub-title">Match Opportunities by Your Resume</div>
           <div class="resume-hub-desc">Upload your resume (PDF, DOCX, TXT) to automatically extract skills and rank opportunities with your highest fit roles first.</div>
         </div>
         <div class="resume-hub-actions">
-          <button id="btnHubUploadResume" class="btn-primary" style="padding: 8px 16px; font-size: 0.86rem;">
-            <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/></svg>
+          <button id="btnHubUploadResume" class="btn-primary">
+            <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"/>
+            </svg>
             <span>Upload Resume</span>
           </button>
-          <button id="btnLoadDefaultResume" class="btn-secondary" style="padding: 8px 14px; font-size: 0.84rem;" title="Analyze using Nitin's default resume">
-            <span>⚡ Use Nitin's Resume</span>
+          <button id="btnLoadDefaultResume" class="btn-secondary" title="Analyze using Nitin's default resume">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
+              <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+            </svg>
+            <span>Use Nitin's Resume</span>
           </button>
         </div>
       </div>
@@ -134,11 +153,14 @@
             <span class="file-meta" id="activeResumeMeta">• 30 skills matched • Top Fit: 98%</span>
           </div>
           <div class="resume-hub-active-actions">
-            <button id="btnChangeResume" class="btn-secondary" style="padding: 5px 12px; font-size: 0.78rem;">
-              🔄 Change Resume
+            <button id="btnChangeResume" class="btn-secondary">
+              <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+              </svg>
+              <span>Change Resume</span>
             </button>
-            <button id="btnResetResumeOrder" class="btn-secondary" style="padding: 5px 12px; font-size: 0.78rem;" title="Reset back to Date Posted sorting">
-              ✕ Reset Order
+            <button id="btnResetResumeOrder" class="btn-secondary" title="Reset back to Date Posted sorting">
+              <span>✕ Reset Order</span>
             </button>
           </div>
         </div>
@@ -151,28 +173,47 @@
     <!-- KPI Metric Cards -->
     <section class="stats-grid">
       <div class="stat-card indigo">
-        <div class="stat-icon">📊</div>
+        <div class="stat-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 20V10M12 20V4M6 20v-6"/>
+          </svg>
+        </div>
         <div class="stat-info">
           <div class="stat-value" id="statTotalJobs">0</div>
           <div class="stat-label">Total Roles Scraped</div>
         </div>
       </div>
       <div class="stat-card emerald">
-        <div class="stat-icon">🔥</div>
+        <div class="stat-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"/>
+            <circle cx="12" cy="12" r="6"/>
+            <circle cx="12" cy="12" r="2"/>
+          </svg>
+        </div>
         <div class="stat-info">
           <div class="stat-value" id="statHighFit">0</div>
           <div class="stat-label">High Match (≥75% Fit)</div>
         </div>
       </div>
       <div class="stat-card cyan">
-        <div class="stat-icon">✉️</div>
+        <div class="stat-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+            <polyline points="22,6 12,13 2,6"/>
+          </svg>
+        </div>
         <div class="stat-info">
           <div class="stat-value" id="statColdEmails">10</div>
           <div class="stat-label">Cold Outreach Ready</div>
         </div>
       </div>
       <div class="stat-card amber">
-        <div class="stat-icon">⚡</div>
+        <div class="stat-icon" aria-hidden="true">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/>
+          </svg>
+        </div>
         <div class="stat-info">
           <div class="stat-value" id="statTracked">0</div>
           <div class="stat-label">Applications In-Progress</div>
@@ -185,7 +226,7 @@
       <!-- Search & Layout Switcher -->
       <div class="search-and-views">
         <div class="search-box">
-          <svg class="search-icon" width="18" height="18" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg class="search-icon" width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
           </svg>
           <input type="text" id="searchInput" class="search-input" placeholder="Search company, job title, keywords (e.g. AI Engineer, Python, RAG, Noida)...">
@@ -194,12 +235,12 @@
 
         <div class="view-toggles">
           <button id="viewTableBtn" class="view-btn active" title="Table View">
-            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M3 3h18v18H3V3zm16 16V9H5v10h14zm0-12V5H5v2h14z"/></svg>
-            Table
+            <svg width="15" height="15" fill="currentColor" viewBox="0 0 24 24"><path d="M3 3h18v18H3V3zm16 16V9H5v10h14zm0-12V5H5v2h14z"/></svg>
+            <span>Table</span>
           </button>
           <button id="viewGridBtn" class="view-btn" title="Card View">
-            <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M4 11h6V5H4v6zm0 8h6v-6H4v6zm8 0h6v-6h-6v6zm0-14v6h6V5h-6z"/></svg>
-            Cards
+            <svg width="15" height="15" fill="currentColor" viewBox="0 0 24 24"><path d="M4 11h6V5H4v6zm0 8h6v-6H4v6zm8 0h6v-6h-6v6zm0-14v6h6V5h-6z"/></svg>
+            <span>Cards</span>
           </button>
         </div>
       </div>
@@ -277,7 +318,7 @@
         </div>
 
         <!-- Sort Option -->
-        <div class="filter-group" style="margin-left: auto;">
+        <div class="filter-group sort-group">
           <label for="sortSelect" class="filter-label">Sort:</label>
           <select id="sortSelect" class="filter-select">
             <option value="date-desc" selected>Date Posted (Newest First)</option>
@@ -297,14 +338,15 @@
         <strong id="selectedCounter">0</strong> companies selected
       </div>
       <div class="selection-actions">
-        <button id="btnExportSelected" class="btn-excel" style="padding: 6px 14px; font-size: 0.82rem;">
-          📥 Download Selected as Excel
+        <button id="btnExportSelected" class="btn-excel">
+          <svg width="15" height="15" fill="currentColor" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/></svg>
+          <span>Download Selected as Excel</span>
         </button>
-        <button id="btnBulkStatus" class="btn-secondary" style="padding: 6px 14px; font-size: 0.82rem;">
-          Mark as Cold Emailed
+        <button id="btnBulkStatus" class="btn-secondary">
+          <span>Mark as Cold Emailed</span>
         </button>
-        <button id="btnDeselectAll" class="btn-secondary" style="padding: 6px 14px; font-size: 0.82rem;">
-          Deselect All
+        <button id="btnDeselectAll" class="btn-secondary">
+          <span>Deselect All</span>
         </button>
       </div>
     </section>
@@ -372,25 +414,25 @@
       <div class="modal-body">
         <!-- Overview Tab -->
         <div id="tabOverview" class="tab-pane active">
-          <div style="display: flex; gap: 16px; margin-bottom: 20px; flex-wrap: wrap;">
-            <div style="flex: 1; min-width: 200px; background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); border-radius: 10px; padding: 14px;">
-              <div style="font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase;">Match Probability</div>
-              <div id="modalFitScore" style="font-size: 1.5rem; font-weight: 800; color: #34d399; margin-top: 4px;">94% Fit</div>
-              <div id="modalFitTier" style="font-size: 0.8rem; color: var(--text-muted);">High Probability Role</div>
+          <div class="modal-stat-grid">
+            <div class="modal-stat-card">
+              <div class="modal-stat-label">Match Probability</div>
+              <div id="modalFitScore" class="modal-stat-val fit-color">94% Fit</div>
+              <div id="modalFitTier" class="modal-stat-sub">High Probability Role</div>
             </div>
-            <div style="flex: 1; min-width: 200px; background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); border-radius: 10px; padding: 14px;">
-              <div style="font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase;">Salary / Stipend</div>
-              <div id="modalSalary" style="font-size: 1.1rem; font-weight: 700; color: #38bdf8; margin-top: 4px; font-family: var(--font-mono);">₹25k - ₹40k/mo</div>
-              <div style="display: flex; gap: 8px; margin-top: 4px; align-items: center; flex-wrap: wrap;">
-                <span id="modalSource" style="font-size: 0.8rem; color: var(--text-muted);">Source: Indeed</span>
-                <span style="font-size: 0.8rem; color: var(--text-dim);">•</span>
-                <span id="modalPostedDate" style="font-size: 0.8rem; color: var(--text-muted);">Posted: Oct 9, 2026</span>
+            <div class="modal-stat-card">
+              <div class="modal-stat-label">Salary / Stipend</div>
+              <div id="modalSalary" class="modal-stat-val salary-color">₹25k - ₹40k/mo</div>
+              <div class="modal-meta-row">
+                <span id="modalSource" class="modal-stat-sub">Source: Indeed</span>
+                <span class="modal-stat-sep">•</span>
+                <span id="modalPostedDate" class="modal-stat-sub">Posted: Oct 9, 2026</span>
               </div>
             </div>
-            <div id="modalOverviewContactCard" style="flex: 1; min-width: 220px; background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); border-radius: 10px; padding: 14px;">
-              <div style="font-size: 0.75rem; color: var(--text-dim); text-transform: uppercase;">Target Recruiter / Contact</div>
-              <div id="modalOverviewContactName" style="font-size: 0.95rem; font-weight: 700; color: #fff; margin-top: 4px;">Founder / Talent Lead</div>
-              <div style="display: flex; gap: 8px; align-items: center; margin-top: 6px; flex-wrap: wrap;">
+            <div id="modalOverviewContactCard" class="modal-stat-card contact-card">
+              <div class="modal-stat-label">Target Recruiter / Contact</div>
+              <div id="modalOverviewContactName" class="modal-contact-name">Founder / Talent Lead</div>
+              <div class="modal-badge-row">
                 <a id="modalOverviewEmail" href="#" class="contact-badge contact-email-badge" title="Send email">✉ Email</a>
                 <a id="modalOverviewCompanyLinkedIn" href="#" target="_blank" rel="noopener noreferrer" class="contact-badge contact-company-badge" title="Company LinkedIn"><span>Company LinkedIn</span></a>
                 <a id="modalOverviewRecruiterLinkedIn" href="#" target="_blank" rel="noopener noreferrer" class="contact-badge contact-recruiter-search-badge" title="Recruiter LinkedIn"><span>Find Recruiter</span></a>
@@ -399,22 +441,25 @@
             </div>
           </div>
 
-          <div style="margin-bottom: 20px;">
-            <h4 style="font-size: 0.9rem; color: #fff; margin-bottom: 8px;">Why It's a Strong Fit for Nitin:</h4>
-            <div id="modalRationale" style="background: rgba(99, 102, 241, 0.08); border-left: 3px solid var(--accent-indigo); padding: 12px 16px; border-radius: 6px; font-size: 0.88rem; line-height: 1.5; color: #cbd5e1;">
+          <div class="modal-section">
+            <h4 class="modal-section-title">Why It's a Strong Fit for Nitin:</h4>
+            <div id="modalRationale" class="modal-rationale-box">
               Match details...
             </div>
           </div>
 
-          <div style="display: flex; gap: 12px; margin-top: 24px;">
-            <a id="modalApplyLink" href="#" target="_blank" class="btn-excel" style="background: var(--gradient-brand); text-decoration: none;">
+          <div class="modal-action-row">
+            <a id="modalApplyLink" href="#" target="_blank" class="btn-excel btn-apply-link">
               <span>Open Direct Application Link</span>
-              <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/>
               </svg>
             </a>
             <button id="modalSwitchToEmailBtn" class="btn-secondary">
-              ✉️ View Cold Email Pitch
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/>
+              </svg>
+              <span>View Cold Email Pitch</span>
             </button>
           </div>
         </div>
@@ -422,27 +467,27 @@
         <!-- Cold Email Tab -->
         <div id="tabEmail" class="tab-pane" style="display: none;">
           <!-- Recruiter & Founder Direct Contact Info -->
-          <div style="background: rgba(99, 102, 241, 0.1); border: 1px solid rgba(99, 102, 241, 0.25); border-radius: 8px; padding: 12px 16px; margin-bottom: 16px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+          <div class="modal-recruiter-banner">
             <div>
-              <div style="font-size: 0.72rem; text-transform: uppercase; color: var(--text-dim); font-weight: 700; letter-spacing: 0.05em;">Target Recruiter / Founder</div>
-              <div id="modalRecruiterName" style="font-weight: 700; color: #fff; font-size: 0.95rem; margin-top: 2px;">Founder / Talent Lead</div>
+              <div class="modal-stat-label">Target Recruiter / Founder</div>
+              <div id="modalRecruiterName" class="modal-contact-name">Founder / Talent Lead</div>
               <a id="modalContactEmail" href="#" class="modal-contact-link" title="Click to send email">careers@company.com</a>
             </div>
-            <div style="display: flex; gap: 8px; flex-wrap: wrap;">
-              <a id="modalCompanyLinkedIn" href="#" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="font-size: 0.78rem; padding: 6px 12px; text-decoration: none;">
+            <div class="modal-banner-actions">
+              <a id="modalCompanyLinkedIn" href="#" target="_blank" rel="noopener noreferrer" class="btn-secondary btn-mini">
                 <span>Company LinkedIn</span>
                 <svg width="12" height="12" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"/></svg>
               </a>
-              <a id="modalRecruiterLinkedIn" href="#" target="_blank" rel="noopener noreferrer" class="btn-secondary" style="font-size: 0.78rem; padding: 6px 12px; text-decoration: none;">
+              <a id="modalRecruiterLinkedIn" href="#" target="_blank" rel="noopener noreferrer" class="btn-secondary btn-mini">
                 <span>Find Recruiter</span>
                 <svg width="12" height="12" fill="none" viewBox="0 0 24 24" stroke="currentColor"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
               </a>
-              <button id="btnCopyContactEmail" type="button" class="btn-secondary" style="font-size: 0.78rem; padding: 6px 12px;">Copy Email</button>
+              <button id="btnCopyContactEmail" type="button" class="btn-secondary btn-mini">Copy Email</button>
             </div>
           </div>
 
-          <div style="margin-bottom: 12px; font-size: 0.84rem; color: var(--text-muted);">
-            <strong style="color: #67e8f9;">Outreach Angle:</strong> <span id="modalEmailAngle">Demonstrated RAG & Python backend experience.</span>
+          <div class="modal-outreach-angle">
+            <strong class="angle-label">Outreach Angle:</strong> <span id="modalEmailAngle">Demonstrated RAG & Python backend experience.</span>
           </div>
 
           <div class="email-box">
@@ -457,15 +502,15 @@
           </div>
 
           <div class="email-actions">
-            <button id="btnCopyEmail" class="btn-excel" style="background: var(--gradient-brand);">
-              <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <button id="btnCopyEmail" class="btn-excel btn-copy-full">
+              <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"/>
               </svg>
               <span>Copy Full Email to Clipboard</span>
             </button>
 
-            <a id="btnMailto" href="#" class="btn-secondary" style="text-decoration: none;">
-              <svg width="16" height="16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <a id="btnMailto" href="#" class="btn-secondary btn-mail-app">
+              <svg width="15" height="15" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/>
               </svg>
               <span>Open in Mail App</span>
@@ -475,17 +520,17 @@
 
         <!-- Full Description Tab -->
         <div id="tabDesc" class="tab-pane" style="display: none;">
-          <div id="modalFullDesc" style="background: rgba(0,0,0,0.3); padding: 18px; border-radius: 8px; border: 1px solid var(--border-subtle); font-size: 0.88rem; line-height: 1.6; color: #cbd5e1; white-space: pre-wrap; max-height: 400px; overflow-y: auto;">
+          <div id="modalFullDesc" class="modal-desc-box">
             Job description goes here...
           </div>
         </div>
 
         <!-- Tracker & Notes Tab -->
         <div id="tabNotes" class="tab-pane" style="display: none;">
-          <div style="display: flex; flex-direction: column; gap: 16px;">
+          <div class="modal-notes-stack">
             <div>
-              <label style="display: block; font-size: 0.8rem; text-transform: uppercase; color: var(--text-dim); margin-bottom: 6px; font-weight: 600;">Application Status</label>
-              <select id="modalStatusSelect" class="filter-select" style="width: 100%; max-width: 280px; padding: 10px;">
+              <label class="modal-form-label">Application Status</label>
+              <select id="modalStatusSelect" class="filter-select status-modal-select">
                 <option value="Not Applied">Not Applied</option>
                 <option value="Cold Emailed">Cold Emailed</option>
                 <option value="Applied">Applied</option>
@@ -496,12 +541,13 @@
             </div>
 
             <div>
-              <label style="display: block; font-size: 0.8rem; text-transform: uppercase; color: var(--text-dim); margin-bottom: 6px; font-weight: 600;">Personal Notes & Interview Log</label>
-              <textarea id="modalNotesText" class="search-input" rows="5" placeholder="Add contact names, interview rounds, salary discussion, dates, or notes (auto-saved locally)..." style="width: 100%; resize: vertical;"></textarea>
+              <label class="modal-form-label">Personal Notes & Interview Log</label>
+              <textarea id="modalNotesText" class="search-input notes-textarea" rows="5" placeholder="Add contact names, interview rounds, salary discussion, dates, or notes (auto-saved locally)..."></textarea>
             </div>
 
-            <button id="btnSaveNotes" class="btn-excel" style="align-self: flex-start;">
-              💾 Save Notes & Status
+            <button id="btnSaveNotes" class="btn-excel btn-save-notes">
+              <svg width="14" height="14" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7H5a2 2 0 00-2 2v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V3"/></svg>
+              <span>Save Notes & Status</span>
             </button>
           </div>
         </div>
@@ -512,7 +558,7 @@
 
   <!-- Add Custom Role Modal -->
   <div id="addCompanyModal" class="modal-overlay">
-    <div class="modal-dialog" style="max-width: 580px;">
+    <div class="modal-dialog add-dialog">
       <div class="modal-header">
         <div class="modal-header-info">
           <h2>Add New Company / Job</h2>
@@ -520,40 +566,40 @@
         </div>
         <button id="addModalCloseBtn" class="btn-close">✕</button>
       </div>
-      <form id="addJobForm" class="modal-body" style="gap: 14px;">
+      <form id="addJobForm" class="modal-body add-job-form">
         <div>
-          <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Company Name *</label>
+          <label class="modal-form-label">Company Name *</label>
           <input type="text" id="newCompany" class="search-input" required placeholder="e.g. OpenAI, Google, DeepMind">
         </div>
         <div>
-          <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Role Title *</label>
+          <label class="modal-form-label">Role Title *</label>
           <input type="text" id="newTitle" class="search-input" required placeholder="e.g. Generative AI Engineer Intern">
         </div>
-        <div style="display: flex; gap: 12px;">
-          <div style="flex: 1;">
-            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Location</label>
+        <div class="form-row">
+          <div class="form-col">
+            <label class="modal-form-label">Location</label>
             <input type="text" id="newLocation" class="search-input" placeholder="e.g. Bengaluru, Karnataka or Remote">
           </div>
-          <div style="flex: 1;">
-            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Estimated Salary / Stipend</label>
+          <div class="form-col">
+            <label class="modal-form-label">Estimated Salary / Stipend</label>
             <input type="text" id="newSalary" class="search-input" placeholder="e.g. ₹30,000 / month">
           </div>
         </div>
-        <div style="display: flex; gap: 12px;">
-          <div style="flex: 1;">
-            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Application Link</label>
+        <div class="form-row">
+          <div class="form-col">
+            <label class="modal-form-label">Application Link</label>
             <input type="url" id="newLink" class="search-input" placeholder="https://...">
           </div>
-          <div style="width: 120px;">
-            <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Fit Score %</label>
+          <div class="form-col-sm">
+            <label class="modal-form-label">Fit Score %</label>
             <input type="number" id="newFit" class="search-input" min="0" max="100" value="85">
           </div>
         </div>
         <div>
-          <label style="display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 4px;">Description / Notes</label>
+          <label class="modal-form-label">Description / Notes</label>
           <textarea id="newDesc" class="search-input" rows="3" placeholder="Brief job description or notes..."></textarea>
         </div>
-        <div style="display: flex; justify-content: flex-end; gap: 10px; margin-top: 10px;">
+        <div class="form-actions">
           <button type="button" id="btnAddCancel" class="btn-secondary">Cancel</button>
           <button type="submit" class="btn-excel">Save Role</button>
         </div>

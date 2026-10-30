@@ -23,7 +23,7 @@ import sys
 import webbrowser
 from pathlib import Path
 from datetime import datetime, timezone
-from typing import Optional
+from typing import Optional, List, Dict, Any
 
 import uvicorn
 from fastapi import FastAPI, HTTPException, BackgroundTasks, File, UploadFile
@@ -70,6 +70,35 @@ class ApplyResponse(BaseModel):
     session_id: str
     status: str
     message: str
+
+
+class EmailTestRequest(BaseModel):
+    to: Optional[str] = None
+    subject: Optional[str] = "Test Connection from Job Hunt Intelligence"
+    body: Optional[str] = "Your Gmail connection is working successfully!"
+
+
+class DiscoverRequest(BaseModel):
+    keywords: Optional[list] = None
+    locations: Optional[list] = None
+    platforms: Optional[list] = None
+    limit: Optional[int] = 20
+
+
+class MatchRequest(BaseModel):
+    job_id: Optional[str] = None
+    job_data: Optional[dict] = None
+
+
+class TrackerUpdateRequest(BaseModel):
+    job_id_or_id: str
+    status: str
+    notes: Optional[str] = None
+
+
+class AutomationRunRequest(BaseModel):
+    dry_run: bool = False
+    max_auto_apply: int = 3
 
 
 # ── API Routes ───────────────────────────────────────────────────────────── #
@@ -382,6 +411,190 @@ async def export_history():
 async def supported_sites():
     """Return the list of sites with automation support."""
     return list_supported_sites()
+
+
+# ── Gmail Integration Routes ─────────────────────────────────────────────── #
+
+@app.get("/api/gmail/status")
+async def gmail_status():
+    """Return Gmail OAuth 2.0 / App Password connection status."""
+    from gmail_service import gmail_client
+    return gmail_client.get_connection_status()
+
+
+@app.get("/api/gmail/auth-url")
+async def gmail_auth_url(redirect_uri: str = "http://localhost:5000/api/gmail/oauth-callback"):
+    """Return Google OAuth 2.0 authorization URL."""
+    from gmail_service import gmail_client
+    try:
+        url = gmail_client.get_auth_url(redirect_uri=redirect_uri)
+        return {"auth_url": url}
+    except FileNotFoundError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.get("/api/gmail/oauth-callback")
+async def gmail_oauth_callback(code: str, redirect_uri: str = "http://localhost:5000/api/gmail/oauth-callback"):
+    """Exchange authorization code for token and save credentials."""
+    from gmail_service import gmail_client
+    try:
+        res = gmail_client.exchange_code_for_token(code=code, redirect_uri=redirect_uri)
+        return res
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+
+@app.post("/api/gmail/send-test")
+async def gmail_send_test(req: EmailTestRequest):
+    """Send a test email to verify Gmail connectivity."""
+    from gmail_service import gmail_client
+    profile_email = req.to or get_safe_profile().get("email", "nitinchandra834@gmail.com")
+    res = gmail_client.send_email(
+        to=profile_email,
+        subject=req.subject or "Test Email from Job Hunt Intelligence",
+        html_body=f"<p>{req.body or 'Gmail is connected and working!'}</p>",
+        text_body=req.body or "Gmail is connected and working!"
+    )
+    return res
+
+
+# ── AI Job Discovery Routes ──────────────────────────────────────────────── #
+
+@app.get("/api/jobs/discover")
+async def trigger_job_discovery_get(limit: int = 15):
+    """Run targeted AI discovery with default parameters."""
+    from ai_job_discovery import job_discovery
+    try:
+        discovered = job_discovery.discover_jobs(limit=limit)
+        sync_res = job_discovery.sync_to_feed(discovered)
+        return {
+            "status": "success",
+            "discovered_count": len(discovered),
+            "sync": sync_res,
+            "sample": discovered[:5]
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/jobs/discover")
+async def trigger_job_discovery(req: DiscoverRequest):
+    """Run targeted AI discovery across platforms & career pages."""
+    from ai_job_discovery import job_discovery
+    try:
+        discovered = job_discovery.discover_jobs(
+            keywords=req.keywords,
+            locations=req.locations,
+            platforms=req.platforms,
+            limit=req.limit or 20
+        )
+        sync_res = job_discovery.sync_to_feed(discovered)
+        return {
+            "status": "success",
+            "discovered_count": len(discovered),
+            "sync": sync_res,
+            "sample": discovered[:5]
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+# ── AI Job Matching Routes ───────────────────────────────────────────────── #
+
+@app.post("/api/jobs/match-evaluate")
+async def evaluate_job_match(req: MatchRequest):
+    """Deeply evaluate a job description for candidate compatibility and eligibility."""
+    from ai_job_matcher import ai_matcher
+    import json
+
+    job = req.job_data
+    if not job and req.job_id:
+        jobs_path = BASE_DIR / "data" / "jobs_data.json"
+        if not jobs_path.exists():
+            jobs_path = BASE_DIR / "jobs_data.json"
+        if jobs_path.exists():
+            with open(jobs_path, "r", encoding="utf-8") as f:
+                all_jobs = json.load(f)
+            job = next((j for j in all_jobs if str(j.get("id")) == str(req.job_id)), None)
+
+    if not job:
+        raise HTTPException(status_code=404, detail="Job data or job_id not found")
+
+    evaluation = ai_matcher.evaluate_job(job)
+    return evaluation
+
+
+@app.get("/api/jobs/top-eligible")
+async def get_top_eligible_jobs(limit: int = 15):
+    """Return top eligible opportunities ranked by AI compatibility score."""
+    from ai_job_matcher import ai_matcher
+    import json
+
+    jobs_path = BASE_DIR / "data" / "jobs_data.json"
+    if not jobs_path.exists():
+        jobs_path = BASE_DIR / "jobs_data.json"
+    if not jobs_path.exists():
+        raise HTTPException(status_code=404, detail="jobs_data.json not found")
+
+    with open(jobs_path, "r", encoding="utf-8") as f:
+        all_jobs = json.load(f)
+
+    evaluated = ai_matcher.evaluate_batch(all_jobs[:100])
+    eligible = [j for j in evaluated if j.get("is_eligible")][:limit]
+    return eligible
+
+
+# ── Email Monitoring Routes ──────────────────────────────────────────────── #
+
+@app.get("/api/email-monitor/scan")
+@app.post("/api/email-monitor/scan")
+async def scan_application_emails(max_results: int = 25):
+    """Scan inbox for application confirmations, interview invites, and rejections."""
+    from email_monitor import email_monitor
+    results = email_monitor.scan_inbox(max_results=max_results)
+    return {"scanned_count": len(results), "emails": results}
+
+
+@app.post("/api/email-monitor/sync")
+async def sync_emails_with_tracker():
+    """Sync detected inbox status updates with SQLite application tracker."""
+    from email_monitor import email_monitor
+    res = email_monitor.sync_tracker()
+    return res
+
+
+# ── Application Tracking Routes ──────────────────────────────────────────── #
+
+@app.get("/api/tracker/summary")
+async def tracker_summary():
+    """Return statistical summary of all tracked applications."""
+    from apply_history import get_tracker_summary
+    return get_tracker_summary()
+
+
+@app.post("/api/tracker/update-status")
+async def update_tracker_status(req: TrackerUpdateRequest):
+    """Manually update application status and notes in the tracker."""
+    from apply_history import update_application_status
+    success = update_application_status(
+        job_id_or_id=req.job_id_or_id,
+        status=req.status,
+        notes=req.notes
+    )
+    return {"success": success, "status": req.status}
+
+
+# ── Daily Automation Routes ──────────────────────────────────────────────── #
+
+@app.post("/api/automation/run-daily")
+async def run_daily_automation(req: AutomationRunRequest, background_tasks: BackgroundTasks):
+    """Trigger the autonomous daily job hunting pipeline."""
+    from daily_automation import daily_runner
+    result = await daily_runner.run(
+        dry_run=req.dry_run,
+        max_auto_apply=req.max_auto_apply
+    )
+    return result
 
 
 # ── Static File Serving (serves the dashboard) ───────────────────────────── #

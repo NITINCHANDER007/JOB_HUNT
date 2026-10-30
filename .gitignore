@@ -15,6 +15,11 @@ ENV/
 exports/test_downloaded.xlsx
 exports/test_export.xlsx
 
+# Google OAuth tokens & secrets
+credentials.json
+token.json
+client_secret*.json
+
 # Logs
 *.log
 

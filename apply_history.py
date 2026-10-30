@@ -163,6 +163,65 @@ def export_history_excel(output_path: str):
     return output_path
 
 
+def get_tracker_summary() -> Dict[str, Any]:
+    """Return an executive statistical summary of all tracked applications."""
+    with _get_conn() as conn:
+        rows = [dict(r) for r in conn.execute("SELECT * FROM applications").fetchall()]
+
+    total = len(rows)
+    by_status = {}
+    for r in rows:
+        st = r.get("status", "Pending")
+        by_status[st] = by_status.get(st, 0) + 1
+
+    submitted = by_status.get(AppStatus.SUBMITTED, 0)
+    interviewing = by_status.get("Interviewing", 0)
+    offers = by_status.get("Offer", 0)
+    rejected = by_status.get("Rejected", 0)
+
+    # Response rate: (interviewing + offers + rejected) / submitted
+    response_rate = round(((interviewing + offers + rejected) / submitted * 100), 1) if submitted > 0 else 0.0
+
+    return {
+        "total_applications": total,
+        "submitted": submitted,
+        "interviewing": interviewing,
+        "offers": offers,
+        "rejected": rejected,
+        "response_rate_percent": response_rate,
+        "breakdown": by_status,
+        "last_updated": datetime.now(timezone.utc).isoformat()
+    }
+
+
+def update_application_status(job_id_or_id: Any, status: str, notes: Optional[str] = None) -> bool:
+    """Convenient helper to update status and notes by row id or job_id."""
+    with _get_conn() as conn:
+        # Check if integer ID
+        if isinstance(job_id_or_id, int) or (isinstance(job_id_or_id, str) and job_id_or_id.isdigit()):
+            conn.execute(
+                "UPDATE applications SET status = ?, notes = COALESCE(?, notes), last_action = ? WHERE id = ?",
+                (status, notes, f"Manual update to {status}", int(job_id_or_id))
+            )
+            return True
+        else:
+            conn.execute(
+                "UPDATE applications SET status = ?, notes = COALESCE(?, notes), last_action = ? WHERE job_id = ?",
+                (status, notes, f"Manual update to {status}", str(job_id_or_id))
+            )
+            return True
+
+
+def get_applications_by_status(status: str) -> List[Dict[str, Any]]:
+    """Return applications matching a specific status."""
+    with _get_conn() as conn:
+        rows = conn.execute(
+            "SELECT * FROM applications WHERE status = ? ORDER BY attempted_at DESC",
+            (status,)
+        ).fetchall()
+    return [dict(r) for r in rows]
+
+
 if __name__ == "__main__":
     init_db()
     print("History DB ready.")
