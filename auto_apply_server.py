@@ -101,6 +101,13 @@ class AutomationRunRequest(BaseModel):
     max_auto_apply: int = 3
 
 
+class QuestionAnswerRequest(BaseModel):
+    question_key: str
+    question_text: str
+    answer: str
+    qtype: Optional[str] = "text"
+
+
 # ── API Routes ───────────────────────────────────────────────────────────── #
 
 @app.get("/api/health")
@@ -384,6 +391,65 @@ async def abort_application(session_id: str):
         raise HTTPException(status_code=404, detail=f"Session {session_id} not found.")
     session.abort()
     return {"message": "Abort signal sent. Application will not be submitted."}
+
+
+@app.post("/api/apply/{session_id}/resume")
+async def resume_application(session_id: str):
+    """Resume a paused application after human verification or question answer."""
+    session = get_session(session_id)
+    if not session:
+        raise HTTPException(status_code=404, detail=f"Session {session_id} not found.")
+    session.resume()
+    return {"message": "Resume signal delivered to application session."}
+
+
+@app.post("/api/apply/{session_id}/answer")
+async def provide_application_answer(session_id: str, req: QuestionAnswerRequest):
+    """Provide an answer for an unknown screening question and resume."""
+    session = get_session(session_id)
+    if not session:
+        raise HTTPException(status_code=404, detail=f"Session {session_id} not found.")
+
+    from apply_engine.smart_form_filler import SmartFormFiller
+    filler = SmartFormFiller(None, {})
+    await filler.save_custom_answer(
+        question_key=req.question_key,
+        question_patterns=[req.question_text],
+        answer=req.answer,
+        qtype=req.qtype or "text"
+    )
+    session.resume()
+    return {"message": "Answer saved to Knowledge Base and session resumed.", "answer": req.answer}
+
+
+# ── Account Connection Routes (LinkedIn, Naukri, Indeed) ─────────────────── #
+
+@app.get("/api/accounts/status")
+async def get_accounts_status():
+    """Check connection status for LinkedIn, Naukri, and Indeed."""
+    from apply_engine.browser_session_manager import session_manager
+    return session_manager.get_account_status()
+
+
+@app.post("/api/accounts/connect/{platform}")
+async def connect_account_platform(platform: str):
+    """Launch interactive browser login to securely connect platform account."""
+    from apply_engine.browser_session_manager import session_manager
+    try:
+        res = await session_manager.connect_account(platform=platform)
+        return res
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/accounts/disconnect/{platform}")
+async def disconnect_account_platform(platform: str):
+    """Disconnect platform account and delete local session state."""
+    from apply_engine.browser_session_manager import session_manager
+    success = session_manager.disconnect_account(platform=platform)
+    return {"platform": platform, "disconnected": success}
 
 
 @app.get("/api/history")

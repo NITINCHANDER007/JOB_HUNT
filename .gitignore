@@ -28,3 +28,9 @@ client_secret*.json
 .idea/
 .DS_Store
 Thumbs.db
+
+# Browser sessions & cookies
+apply_engine/sessions/
+.browser_sessions/
+*_state.json
+*.state.json

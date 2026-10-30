@@ -1,0 +1,106 @@
+{
+  "_comment": "Candidate Q&A Knowledge Base. Verified responses for application screening questions. Never fabricate answers.",
+  "work_authorization": {
+    "question_patterns": [
+      "authorized to work",
+      "legally authorized",
+      "eligible to work",
+      "right to work"
+    ],
+    "answer": "Yes",
+    "type": "boolean"
+  },
+  "visa_sponsorship": {
+    "question_patterns": [
+      "require sponsorship",
+      "sponsorship now or in the future",
+      "need visa sponsorship"
+    ],
+    "answer": "No",
+    "type": "boolean"
+  },
+  "python_yoe": {
+    "question_patterns": [
+      "experience with python",
+      "years of python",
+      "how many years.*python"
+    ],
+    "answer": "2",
+    "type": "numeric"
+  },
+  "ml_yoe": {
+    "question_patterns": [
+      "experience with machine learning",
+      "experience with ai",
+      "years of.*machine learning",
+      "how many years.*ml"
+    ],
+    "answer": "2",
+    "type": "numeric"
+  },
+  "sql_yoe": {
+    "question_patterns": [
+      "experience with sql",
+      "years of sql",
+      "how many years.*database"
+    ],
+    "answer": "2",
+    "type": "numeric"
+  },
+  "relocation": {
+    "question_patterns": [
+      "willing to relocate",
+      "comfortable relocating",
+      "open to relocation"
+    ],
+    "answer": "Yes",
+    "type": "boolean"
+  },
+  "notice_period": {
+    "question_patterns": [
+      "notice period",
+      "how soon can you start",
+      "availability to start",
+      "when can you join"
+    ],
+    "answer": "0",
+    "type": "text"
+  },
+  "hybrid_remote": {
+    "question_patterns": [
+      "comfortable working in office",
+      "hybrid schedule",
+      "on-site in bengaluru",
+      "on-site in noida",
+      "on-site in gurugram"
+    ],
+    "answer": "Yes",
+    "type": "boolean"
+  },
+  "degree_status": {
+    "question_patterns": [
+      "highest level of education",
+      "degree level",
+      "currently enrolled"
+    ],
+    "answer": "Bachelor's Degree",
+    "type": "text"
+  },
+  "graduation_year": {
+    "question_patterns": [
+      "graduation year",
+      "year of graduation",
+      "passing year"
+    ],
+    "answer": "2027",
+    "type": "numeric"
+  },
+  "preferred_shift": {
+    "question_patterns": [
+      "preferred shift",
+      "work shift"
+    ],
+    "answer": "Day Shift",
+    "type": "text"
+  }
+}

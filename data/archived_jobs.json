@@ -449,5 +449,67 @@
     "prune_reasons": [
       "Older than 30 days (Posted: 2026-08-27 10:00:00)"
     ]
+  },
+  {
+    "id": 1793360162824,
+    "company": "KPMG India",
+    "title": "AI Engineer",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Bengaluru, Karnataka, India",
+    "salary": "Competitive",
+    "source": "LinkedIn",
+    "postedDate": "2026-06-06 10:00:00",
+    "postedTime": "4 months ago",
+    "link": "https://in.linkedin.com/jobs/view/ai-engineer-at-kpmg-india-4424661969?trk=public_jobs_topcard-title",
+    "description": "Full-time, on-site role for an AI Engineer (LLM & Application Development), based in Bengaluru, Mumbai, NCR or Hyderabad. Experience Level: 4–8 Years Role Overview We are looking for a skilled AI Engineer with a strong foundation in software engineering and production-grade application development. In this role, you will bridge the gap between cutting-edge AI research and practical, scalable softw",
+    "contactEmail": "careers@kpmgindia.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://in.linkedin.com/company/kpmgindia?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "KPMG India Talent Team",
+    "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
+    "coldEmailBody": "Hi KPMG India Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true,
+    "pruned_at": "2026-10-30T15:35:44.515287+00:00",
+    "prune_reasons": [
+      "Older than 30 days (Posted: 2026-06-06 10:00:00)"
+    ]
+  },
+  {
+    "id": 1793360162825,
+    "company": "FINAGG Technologies Private Limited",
+    "title": "AIML - AI ENGINEER",
+    "fitScore": 84,
+    "fitTier": "High",
+    "location": "Noida, Uttar Pradesh, India",
+    "salary": "₹37,000.00/yr - ₹45,000.00/yr",
+    "source": "LinkedIn",
+    "postedDate": "2026-05-27 10:00:00",
+    "postedTime": "5 months ago",
+    "link": "https://www.linkedin.com/jobs/view/4418823150",
+    "description": "FinAGG Technologies is a profitable fintech startup specializing in Supply Chain Finance, addressing the working capital needs of India's 70 million Micro, Small, and Medium Enterprises (MSMEs). Our mission is to boost India's retail GDP by 20%. With over 100,000 MSMEs on our platform and growing steadily, we are backed by distinguished investors such as SIDBI, Tata Capital, Blue Orchard (supporte",
+    "contactEmail": "careers@finaggtechnologiesprivatelimited.com",
+    "emailVerified": false,
+    "companyLinkedIn": "https://in.linkedin.com/company/finagg-technologies-private-limited?trk=public_jobs_topcard-org-name",
+    "companyLinkedInVerified": false,
+    "recruiterLinkedIn": "",
+    "recruiterLinkedInVerified": false,
+    "contactName": "FINAGG Technologies Private Limited Talent Team",
+    "matchRationale": "Technical alignment for AIML - AI ENGINEER matching Python, data pipelines, and AI systems.",
+    "coldEmailSubject": "Application for AIML - AI ENGINEER | Nitin Chander",
+    "coldEmailBody": "Hi FINAGG Technologies Private Limited Team,\n\nI am writing to express my strong interest in the AIML - AI ENGINEER opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
+    "status": "Not Applied",
+    "notes": "",
+    "isNew": true,
+    "pruned_at": "2026-10-30T15:35:44.515334+00:00",
+    "prune_reasons": [
+      "Older than 30 days (Posted: 2026-05-27 10:00:00)"
+    ]
   }
 ]

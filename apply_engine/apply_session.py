@@ -34,6 +34,8 @@ class ApplySession:
     _confirm_event: asyncio.Event = field(default_factory=asyncio.Event, repr=False)
     # Sync event: set when user aborts
     _abort_event: asyncio.Event = field(default_factory=asyncio.Event, repr=False)
+    # Sync event: set when user manually resumes after CAPTCHA or custom answer
+    _resume_event: asyncio.Event = field(default_factory=asyncio.Event, repr=False)
 
     created_at: str = field(
         default_factory=lambda: datetime.now(timezone.utc).isoformat()
@@ -79,6 +81,10 @@ class ApplySession:
     def abort(self):
         """Called when user clicks 'Abort'."""
         self._abort_event.set()
+
+    def resume(self):
+        """Called when user solves verification or provides answer."""
+        self._resume_event.set()
 
     async def wait_for_user_decision(self, timeout_seconds: int = 300) -> str:
         """
