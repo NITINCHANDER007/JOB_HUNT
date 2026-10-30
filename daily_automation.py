@@ -88,7 +88,19 @@ class DailyAutomationPipeline:
         # Step 2: AI Job Matching & Eligibility Screening                   #
         # ----------------------------------------------------------------- #
         print("\n[Step 2/5] Evaluating eligibility & compatibility...")
-        evaluated_jobs = ai_matcher.evaluate_batch(discovered_jobs)
+        candidate_pool = list(discovered_jobs)
+        if not candidate_pool:
+            jobs_file = BASE_DIR / "data" / "jobs_data.json"
+            if not jobs_file.exists():
+                jobs_file = BASE_DIR / "jobs_data.json"
+            if jobs_file.exists():
+                try:
+                    with open(jobs_file, "r", encoding="utf-8") as f:
+                        candidate_pool = json.load(f)[:max_discover]
+                except Exception:
+                    pass
+
+        evaluated_jobs = ai_matcher.evaluate_batch(candidate_pool)
         eligible_matches = [j for j in evaluated_jobs if j.get("is_eligible") and j.get("fit_score", 0) >= 70]
         print(f"  -> Evaluated {len(evaluated_jobs)} jobs. Top eligible matches: {len(eligible_matches)}")
 
