@@ -481,7 +481,7 @@ for c_key, match in job_matches.items():
         cold_angle = email_info['angle']
     else:
         cold_subj = f"Application for {role} | Nitin Chander"
-        cold_body = f"Hi {contact_name or comp + ' Team'},\n\nI am writing to express my strong interest in the {role} position. Experienced in Python data pipelines, RAG systems (LangChain, ChromaDB), and REST APIs with internships at IDEMIA and Paytm, I am eager to contribute.\n\nCould we schedule a quick 10-minute chat this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b"
+        cold_body = f"Hi {contact_name or comp + ' Team'},\n\nI am writing to express my strong interest in the {role} position. Experienced in Python data pipelines, RAG systems (LangChain, ChromaDB), and REST APIs with internships at IDEMIA and Paytm, I am eager to contribute.\n\nCould we schedule a quick 10-minute chat this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b"
         cold_angle = f"Focus on Python, RAG pipelines, and backend microservices."
 
     jid = len(master_list) + 1
@@ -587,7 +587,7 @@ for rj in raw_jobs:
         cold_angle = email_info['angle']
     else:
         cold_subj = f"Application for {clean_title} | Nitin Chander"
-        cold_body = f"Hi {contact_name or comp + ' Team'},\n\nI am writing to express my enthusiasm for the {clean_title} role at {comp}. With hands-on experience in Python backend engineering, LangChain RAG pipelines, and REST APIs, I am eager to make an immediate impact.\n\nCould we connect for a brief 10-minute call to discuss how my skill set aligns with your deliverables?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b"
+        cold_body = f"Hi {contact_name or comp + ' Team'},\n\nI am writing to express my enthusiasm for the {clean_title} role at {comp}. With hands-on experience in Python backend engineering, LangChain RAG pipelines, and REST APIs, I am eager to make an immediate impact.\n\nCould we connect for a brief 10-minute call to discuss how my skill set aligns with your deliverables?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b"
         cold_angle = f"Direct technical pitch matching {clean_title} responsibilities."
 
     jid = len(master_list) + 1

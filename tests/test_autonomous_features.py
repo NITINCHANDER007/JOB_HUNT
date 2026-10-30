@@ -39,7 +39,7 @@ class TestAutonomousFeatures(unittest.TestCase):
 
         # Test sending a mock/verified message
         test_payload = {
-            "to": "nitinchandra834@gmail.com",
+            "to": "codernitin55@gmail.com",
             "subject": "Verification Test Email",
             "body": "Checking Gmail Integration connectivity."
         }
@@ -199,3 +199,4 @@ class TestAutonomousFeatures(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+

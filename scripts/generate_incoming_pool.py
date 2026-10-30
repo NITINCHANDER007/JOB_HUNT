@@ -123,7 +123,7 @@ for idx, item in enumerate(raw_items):
         "contactName": f"{comp} Talent Team",
         "matchRationale": f"Technical alignment for {title} matching Python, data pipelines, and AI systems.",
         "coldEmailSubject": f"Application for {title} | Nitin Chander",
-        "coldEmailBody": f"Hi {comp} Team,\n\nI am writing to express my strong interest in the {title} opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": f"Hi {comp} Team,\n\nI am writing to express my strong interest in the {title} opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "status": "Not Applied",
         "notes": ""
     }

@@ -89,3 +89,4 @@ class SmartApplyHandler(BaseApplicationHandler):
                 await btn.click()
                 await self.page.wait_for_timeout(3000)
                 return
+

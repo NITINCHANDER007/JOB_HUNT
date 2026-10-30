@@ -1,7 +1,7 @@
 # Personalized Cold Outreach Emails for Top 10 High-Probability Roles
 
 **Candidate:** Nitin Chander  
-**Contact:** +91-8130489303 | nitinchandra834@gmail.com | [linkedin.com/in/nitin-chander-b6928120b](https://www.linkedin.com/in/nitin-chander-b6928120b)  
+**Contact:** +91-8130489303 | codernitin55@gmail.com | [linkedin.com/in/nitin-chander-b6928120b](https://www.linkedin.com/in/nitin-chander-b6928120b)  
 **Profile:** B.Tech CSE (MAIT Delhi, 2023–2027), Ex-Intern at IDEMIA, Paytm, NTPC  
 **Core Expertise:** Python, RAG, LangChain, ChromaDB, FastAPI/Flask, SQL, Scikit-Learn, MLflow  
 
@@ -33,7 +33,7 @@ Could we schedule a quick 10-minute chat this week to discuss how my backend and
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -58,7 +58,7 @@ I would welcome a brief 10-minute call to explore how my RAG skill set aligns wi
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -83,7 +83,7 @@ I’d love to connect for 10 minutes to discuss how my backend rigor and machine
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -108,7 +108,7 @@ I would appreciate the chance to discuss how my hands-on Python and GenAI experi
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -133,7 +133,7 @@ Could we connect for a brief 10-minute discussion on how I can assist in deployi
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -158,7 +158,7 @@ I would love a quick 10-minute call to share how my backend engineering experien
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -183,7 +183,7 @@ I would love to hop on a short 10-minute call to demonstrate how my AI agent and
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -208,7 +208,7 @@ I would welcome a brief 10-minute chat to discuss how my machine learning and ba
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -233,7 +233,7 @@ I would be thrilled to connect for a quick 10-minute conversation to learn more 
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```
 
@@ -258,6 +258,6 @@ Could we schedule a short 10-minute conversation to discuss how my machine learn
 
 Best regards,
 Nitin Chander
-+91-8130489303 | nitinchandra834@gmail.com
++91-8130489303 | codernitin55@gmail.com
 linkedin.com/in/nitin-chander-b6928120b
 ```

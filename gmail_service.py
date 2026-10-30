@@ -159,6 +159,8 @@ class GmailService:
 
     def send_email(self, to: str, subject: str, html_body: str, text_body: Optional[str] = None) -> Dict[str, Any]:
         """Send an email using Gmail API or SMTP fallback."""
+        from candidate_profile import sanitize_email
+        to = sanitize_email(to)
         service = self.get_service()
 
         if service:
@@ -287,3 +289,4 @@ class GmailService:
 
 # Singleton instance
 gmail_client = GmailService()
+

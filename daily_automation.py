@@ -53,7 +53,7 @@ class DailyAutomationPipeline:
         except Exception:
             return {
                 "full_name": "Nitin Chander",
-                "email": "nitinchandra834@gmail.com",
+                "email": "codernitin55@gmail.com",
                 "preferred_roles": ["AI Engineer Intern", "Generative AI", "ML Engineer Intern"],
                 "preferred_locations": ["Bengaluru", "Noida", "Gurgaon", "Delhi", "Remote"]
             }
@@ -140,7 +140,8 @@ class DailyAutomationPipeline:
         # ----------------------------------------------------------------- #
         print("\n[Step 5/5] Compiling and sending Daily Executive Email Report...")
         tracker_summary = get_tracker_summary()
-        candidate_email = self.profile.get("email", "nitinchandra834@gmail.com")
+        from candidate_profile import sanitize_email
+        candidate_email = sanitize_email(self.profile.get("email", "codernitin55@gmail.com"))
 
         report_html = self._generate_report_html(
             candidate_name=self.profile.get("full_name", "Nitin Chander"),

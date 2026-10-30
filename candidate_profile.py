@@ -13,6 +13,26 @@ _PROFILE_PATH = _BASE / "profile_config.json"
 
 _REQUIRED_FIELDS = ["full_name", "email", "phone", "resume_path"]
 
+FORBIDDEN_EMAIL = "nitinchandra834@gmail.com"
+ACTIVE_EMAIL = "codernitin55@gmail.com"
+OVERRIDE_CODEWORD = "USE KRLO nitinchandra834@gmail.com"
+
+
+def sanitize_email(email: str) -> str:
+    """
+    Strict security rule:
+    Never use 'nitinchandra834@gmail.com' in any operation at any cost.
+    Use 'codernitin55@gmail.com' instead.
+    Only permitted if explicit codeword 'USE KRLO nitinchandra834@gmail.com' is authorized.
+    """
+    if not email:
+        return ACTIVE_EMAIL
+    if FORBIDDEN_EMAIL in email.lower():
+        if os.environ.get("JOB_HUNT_EMAIL_CODEWORD") == OVERRIDE_CODEWORD:
+            return email
+        return ACTIVE_EMAIL
+    return email
+
 
 def load_profile() -> dict:
     """Load and validate candidate profile. Returns dict."""
@@ -24,6 +44,9 @@ def load_profile() -> dict:
 
     with open(_PROFILE_PATH, "r", encoding="utf-8") as f:
         profile = json.load(f)
+
+    # Sanitize email immediately
+    profile["email"] = sanitize_email(profile.get("email", ACTIVE_EMAIL))
 
     # Validate required fields
     missing = [f for f in _REQUIRED_FIELDS if not profile.get(f)]

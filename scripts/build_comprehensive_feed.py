@@ -43,7 +43,7 @@ targeted_roles = [
         "description": "The India Prosperity Initiative (TIPI) is committed to advancing pervasive prosperity across Indian society. As a Decision Scientist Intern, you will perform quantitative analyses, statistical modeling, econometric research, and data storytelling using Python, SQL, and data visualization tools to inform policy recommendations.",
         "matchRationale": "Strong fit for Nitin's statistical foundations, data manipulation in Pandas/NumPy, and quantitative analysis experience from NTPC and IDEMIA.",
         "coldEmailSubject": "Decision Scientist Intern – Quantitative Modeling & Python Analytics | Nitin Chander",
-        "coldEmailBody": "Hi TIPI Talent Team,\n\nI am writing to express my strong enthusiasm for the Decision Scientist Intern role in Gurugram. As a Computer Science undergraduate at MAIT with hands-on experience in statistical data analysis, Python modeling, and data pipelines, I am deeply inspired by TIPI's mission to drive pervasive prosperity.\n\nDuring my internships at IDEMIA and NTPC, I cleaned and analyzed complex operational datasets, engineered predictive models, and created clear visual dashboards. I also built an end-to-end Machine Learning fraud detection system evaluating metrics across precision, recall, and ROC-AUC.\n\nCould we schedule a brief 10-minute conversation to discuss how my quantitative skills can support TIPI's initiatives?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
+        "coldEmailBody": "Hi TIPI Talent Team,\n\nI am writing to express my strong enthusiasm for the Decision Scientist Intern role in Gurugram. As a Computer Science undergraduate at MAIT with hands-on experience in statistical data analysis, Python modeling, and data pipelines, I am deeply inspired by TIPI's mission to drive pervasive prosperity.\n\nDuring my internships at IDEMIA and NTPC, I cleaned and analyzed complex operational datasets, engineered predictive models, and created clear visual dashboards. I also built an end-to-end Machine Learning fraud detection system evaluating metrics across precision, recall, and ROC-AUC.\n\nCould we schedule a brief 10-minute conversation to discuss how my quantitative skills can support TIPI's initiatives?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
         "coldEmailAngle": "Econometric & statistical analysis, clean Python data modeling, and Delhi NCR / Gurugram on-site availability.",
         "status": "Not Applied",
         "notes": ""
@@ -68,7 +68,7 @@ targeted_roles = [
         "description": "eTeam is looking for an AI Intern (Generative AI) for a 6-month remote engagement. You will collaborate on live client AI/ML projects involving Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), prompt engineering, AI agent workflows, and backend API integration with Python.",
         "matchRationale": "Exceptional alignment with Nitin's Medical RAG system (LangChain, ChromaDB, vector embeddings) and FastAPI microservice background.",
         "coldEmailSubject": "AI Intern (Generative AI) – RAG & LangChain Project Experience | Nitin Chander",
-        "coldEmailBody": "Hi eTeam Talent Team,\n\nI was thrilled to see the Artificial Intelligence Intern opening focused on Generative AI. With direct hands-on experience architecting RAG pipelines using LangChain, ChromaDB vector stores, and FastAPI, I am prepared to contribute immediately.\n\nI built a production-grade Medical Literature Assistant integrating hybrid search, chunking strategies, and low-latency API serving. In addition, I have hands-on experience with LLM prompt engineering, OpenAI APIs, and containerized deployment via Docker.\n\nCould we connect for a brief 10-minute call to discuss how my GenAI background aligns with eTeam's active client engagements?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
+        "coldEmailBody": "Hi eTeam Talent Team,\n\nI was thrilled to see the Artificial Intelligence Intern opening focused on Generative AI. With direct hands-on experience architecting RAG pipelines using LangChain, ChromaDB vector stores, and FastAPI, I am prepared to contribute immediately.\n\nI built a production-grade Medical Literature Assistant integrating hybrid search, chunking strategies, and low-latency API serving. In addition, I have hands-on experience with LLM prompt engineering, OpenAI APIs, and containerized deployment via Docker.\n\nCould we connect for a brief 10-minute call to discuss how my GenAI background aligns with eTeam's active client engagements?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
         "coldEmailAngle": "Production RAG implementation, LangChain/Vector databases, and rapid remote onboarding.",
         "status": "Not Applied",
         "notes": ""
@@ -93,7 +93,7 @@ targeted_roles = [
         "description": "MARS Cosmetics is seeking a Business Intelligence Intern for its Supply Chain Operations team in Delhi. You will analyze warehouse, inventory, and logistics metrics, build automated Power BI / Python dashboards, identify distribution bottlenecks, and collaborate directly with operations managers.",
         "matchRationale": "Direct match for Nitin's E-Commerce analytics project, automated report generation, and data pipeline experience in Pandas and SQL.",
         "coldEmailSubject": "Business Intelligence Intern – Supply Chain Analytics & Python Dashboards | Nitin Chander",
-        "coldEmailBody": "Hi MARS Cosmetics Operations Team,\n\nI am writing to express my enthusiastic interest in the Business Intelligence Internship supporting your Supply Chain team in Delhi. As a final-year CS student with a strong background in Python analytics, SQL data modeling, and automated KPI dashboarding, I am eager to help optimize MARS's operational intelligence.\n\nI developed an E-Commerce Analytics pipeline tracking customer order fulfillment and supply logistics, automating multi-source data ingestion into clean reporting tables. I am based in Delhi and available for immediate on-site collaboration.\n\nCould we schedule a quick 10-minute conversation to discuss how my data analysis skills can support your supply chain team?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
+        "coldEmailBody": "Hi MARS Cosmetics Operations Team,\n\nI am writing to express my enthusiastic interest in the Business Intelligence Internship supporting your Supply Chain team in Delhi. As a final-year CS student with a strong background in Python analytics, SQL data modeling, and automated KPI dashboarding, I am eager to help optimize MARS's operational intelligence.\n\nI developed an E-Commerce Analytics pipeline tracking customer order fulfillment and supply logistics, automating multi-source data ingestion into clean reporting tables. I am based in Delhi and available for immediate on-site collaboration.\n\nCould we schedule a quick 10-minute conversation to discuss how my data analysis skills can support your supply chain team?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com\nlinkedin.com/in/nitin-chander-b6928120b",
         "coldEmailAngle": "Delhi on-site availability, supply chain data modeling, and automated dashboard development.",
         "status": "Not Applied",
         "notes": ""
@@ -118,7 +118,7 @@ targeted_roles = [
         "description": "ByteDance is hiring a Data Analyst Project Intern to evaluate data pipelines, quality benchmarks, and algorithmic performance metrics across global product platforms. Responsibilities include running exploratory data analysis, designing quality metrics dashboards, and writing robust SQL and Python processing scripts.",
         "matchRationale": "Strong fit for Nitin's data validation, statistical telemetry, and large-scale tabular processing skillset.",
         "coldEmailSubject": "Data Analyst Project Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi ByteDance Campus Recruiting Team,\n\nI am applying for the Data Analyst Project Intern role in Gurgaon. Having built analytics and quality audit pipelines using Python, SQL, and Pandas across multiple internship roles, I am eager to contribute to ByteDance's platform quality standards.\n\nCould we connect for a brief 10-minute conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi ByteDance Campus Recruiting Team,\n\nI am applying for the Data Analyst Project Intern role in Gurgaon. Having built analytics and quality audit pipelines using Python, SQL, and Pandas across multiple internship roles, I am eager to contribute to ByteDance's platform quality standards.\n\nCould we connect for a brief 10-minute conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "High-throughput data quality validation, SQL fluency, and Python scripting.",
         "status": "Not Applied",
         "notes": ""
@@ -143,7 +143,7 @@ targeted_roles = [
         "description": "Sony Research India conducts applied research in artificial intelligence, machine learning, and computer vision. As a Data Science Intern, you will assist researchers in curating experimental datasets, benchmarking state-of-the-art models, and implementing Python prototypes using PyTorch and Scikit-learn.",
         "matchRationale": "Superb match for Nitin's PyTorch, machine learning modeling, and experimental benchmarking background.",
         "coldEmailSubject": "Data Science Intern – Applied ML & PyTorch Modeling | Nitin Chander",
-        "coldEmailBody": "Hi Sony Research India Team,\n\nI am thrilled to apply for the Data Science Intern position in Bengaluru. As a Computer Science undergraduate specializing in AI/ML with practical experience in deep learning, PyTorch model evaluation, and experiment tracking via MLflow, I am enthusiastic about contributing to Sony's research initiatives.\n\nI would value the chance to discuss how my technical skills can support your research benchmarks.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Sony Research India Team,\n\nI am thrilled to apply for the Data Science Intern position in Bengaluru. As a Computer Science undergraduate specializing in AI/ML with practical experience in deep learning, PyTorch model evaluation, and experiment tracking via MLflow, I am enthusiastic about contributing to Sony's research initiatives.\n\nI would value the chance to discuss how my technical skills can support your research benchmarks.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "PyTorch modeling, rigorous benchmark evaluation, and deep ML foundations.",
         "status": "Not Applied",
         "notes": ""
@@ -168,7 +168,7 @@ targeted_roles = [
         "description": "Heads Up For Tails is hiring a Software Engineering Intern in Gurugram. You will build and optimize customer-facing backend APIs, maintain database performance, and write clean, modular Python and Node.js microservices.",
         "matchRationale": "Direct match for Nitin's backend microservices, REST APIs, and database tuning experience.",
         "coldEmailSubject": "Software Engineering Intern – Backend & API Development | Nitin Chander",
-        "coldEmailBody": "Hi HUFT Engineering Team,\n\nI am writing to express my interest in the Software Engineering Intern position in Gurugram. With experience developing RESTful APIs with FastAPI/Flask and optimizing database queries, I can hit the ground running on your microservices stack.\n\nCould we schedule a quick call to connect?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi HUFT Engineering Team,\n\nI am writing to express my interest in the Software Engineering Intern position in Gurugram. With experience developing RESTful APIs with FastAPI/Flask and optimizing database queries, I can hit the ground running on your microservices stack.\n\nCould we schedule a quick call to connect?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "REST API development, database optimization, and Gurugram proximity.",
         "status": "Not Applied",
         "notes": ""
@@ -193,7 +193,7 @@ targeted_roles = [
         "description": "Honeywell is seeking a Data Engineering Intern to design scalable data processing pipelines, automate ETL workflows, and maintain structured data repositories for industrial IoT and operational intelligence systems.",
         "matchRationale": "Aligned with Nitin's ETL pipeline construction, BigQuery experience, and tabular data management.",
         "coldEmailSubject": "Data Engineering Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Honeywell Early Careers Team,\n\nI am excited to apply for the Data Engineering Intern position in Bengaluru. Having built automated ETL workflows, structured relational models, and integrated data pipelines with Python and SQL, I am eager to contribute to Honeywell's industrial data platforms.\n\nCould we connect for a brief 10-minute introductory call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Honeywell Early Careers Team,\n\nI am excited to apply for the Data Engineering Intern position in Bengaluru. Having built automated ETL workflows, structured relational models, and integrated data pipelines with Python and SQL, I am eager to contribute to Honeywell's industrial data platforms.\n\nCould we connect for a brief 10-minute introductory call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Automated ETL development, SQL optimization, and Python data pipelines.",
         "status": "Not Applied",
         "notes": ""
@@ -218,7 +218,7 @@ targeted_roles = [
         "description": "AuthBridge is India's leading authentication and verification intelligence company. As an Intern in Data Analytics, you will analyze identity data pipelines, evaluate fraud anomaly patterns, and generate operational intelligence reports using Python, SQL, and data visualization tools.",
         "matchRationale": "Exceptional connection to Nitin's End-to-End Fraud Detection system and IDEMIA authentication data analysis experience.",
         "coldEmailSubject": "Data Analytics Intern – Fraud Anomaly & Python Analytics | Nitin Chander",
-        "coldEmailBody": "Hi AuthBridge Talent Team,\n\nI am writing to express my strong interest in the Data Analytics Intern position in Gurugram. Having built an end-to-end Machine Learning Fraud Detection system and previously analyzed identity verification datasets at IDEMIA, I am deeply familiar with authentication risk telemetry.\n\nCould we connect for a brief 10-minute conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi AuthBridge Talent Team,\n\nI am writing to express my strong interest in the Data Analytics Intern position in Gurugram. Having built an end-to-end Machine Learning Fraud Detection system and previously analyzed identity verification datasets at IDEMIA, I am deeply familiar with authentication risk telemetry.\n\nCould we connect for a brief 10-minute conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Direct fraud detection project, IDEMIA identity dataset experience, and Gurugram location.",
         "status": "Not Applied",
         "notes": ""
@@ -243,7 +243,7 @@ targeted_roles = [
         "description": "GE Vernova is accelerating the energy transition through advanced AI. We are seeking an AI & LLM Engineer in Noida to build generative AI solutions, design custom domain RAG systems, and deploy scalable ML services for energy and grid management.",
         "matchRationale": "Outstanding fit for Nitin's RAG architecture, LLM prompt engineering, and NTPC energy sector internship background.",
         "coldEmailSubject": "AI & LLM Engineer Application | Nitin Chander",
-        "coldEmailBody": "Hi GE Vernova AI Team,\n\nI am thrilled to apply for the AI & LLM Engineer position in Noida. Having engineered custom RAG systems using LangChain, vector databases, and FastAPI, combined with practical machine learning experience from my prior internship at NTPC, I understand the intersection of AI and energy infrastructure.\n\nCould we schedule a short 10-minute introductory call this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi GE Vernova AI Team,\n\nI am thrilled to apply for the AI & LLM Engineer position in Noida. Having engineered custom RAG systems using LangChain, vector databases, and FastAPI, combined with practical machine learning experience from my prior internship at NTPC, I understand the intersection of AI and energy infrastructure.\n\nCould we schedule a short 10-minute introductory call this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "NTPC energy domain familiarity, hands-on RAG architectures, and Noida on-site availability.",
         "status": "Not Applied",
         "notes": ""
@@ -268,7 +268,7 @@ targeted_roles = [
         "description": "Daice Labs is an applied AI startup building multimodal and generative workflows. As an AI/ML Engineering Intern, you will fine-tune open-source models, optimize vector similarity search, and deploy production endpoints in Python.",
         "matchRationale": "Strong alignment with Nitin's vector search, embeddings, and FastAPI microservices experience.",
         "coldEmailSubject": "AI/ML Engineering Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Daice Labs Team,\n\nI am writing to apply for the AI/ML Engineering Intern role. Having deployed vector search pipelines with ChromaDB and built performant Python microservices with FastAPI, I am excited about your generative workflows.\n\nCould we connect for a brief call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Daice Labs Team,\n\nI am writing to apply for the AI/ML Engineering Intern role. Having deployed vector search pipelines with ChromaDB and built performant Python microservices with FastAPI, I am excited about your generative workflows.\n\nCould we connect for a brief call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Vector database optimization, FastAPI endpoints, and open-source model experimentation.",
         "status": "Not Applied",
         "notes": ""
@@ -293,7 +293,7 @@ targeted_roles = [
         "description": "CV3 builds intelligent automation agents for enterprise workflows. You will design Python automation scripts, integrate LLM APIs, and build robotic and cognitive process automation pipelines in Gurugram.",
         "matchRationale": "Direct match for Nitin's automation scripting, API integrations, and Python backend skillset.",
         "coldEmailSubject": "AI Automation Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi CV3 Team,\n\nI am eager to apply for the AI Automation Intern position in Gurugram. With experience automating multi-step data pipelines and integrating LLM APIs into web services, I am excited to contribute to CV3's agentic workflows.\n\nCould we schedule a quick 10-minute conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi CV3 Team,\n\nI am eager to apply for the AI Automation Intern position in Gurugram. With experience automating multi-step data pipelines and integrating LLM APIs into web services, I am excited to contribute to CV3's agentic workflows.\n\nCould we schedule a quick 10-minute conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Python workflow automation, LLM API orchestration, and Gurugram availability.",
         "status": "Not Applied",
         "notes": ""
@@ -318,7 +318,7 @@ targeted_roles = [
         "description": "Hatch Group is looking for an AI Intern in New Delhi to explore applied machine learning tools, generative design algorithms, and data-driven simulation prototypes for engineering systems.",
         "matchRationale": "Good fit for Nitin's New Delhi location and machine learning simulation background.",
         "coldEmailSubject": "AI & Design Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Hatch Delhi Innovation Team,\n\nI am applying for the AI & Design Intern role in New Delhi. With experience developing machine learning models and automated data tools in Python, I am enthusiastic about applying AI to innovative engineering workflows.\n\nCould we connect for a brief conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Hatch Delhi Innovation Team,\n\nI am applying for the AI & Design Intern role in New Delhi. With experience developing machine learning models and automated data tools in Python, I am enthusiastic about applying AI to innovative engineering workflows.\n\nCould we connect for a brief conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "New Delhi on-site availability and hands-on Python/ML engineering.",
         "status": "Not Applied",
         "notes": ""
@@ -343,7 +343,7 @@ targeted_roles = [
         "description": "Siemens Energy is hiring a Gen AI Research Engineer to explore cutting-edge transformer models, domain-specific retrieval systems, and autonomous agent frameworks for mission-critical power and energy infrastructure.",
         "matchRationale": "Exceptional fit for Nitin's LangChain RAG system, transformer architectures, and prior NTPC energy sector internship.",
         "coldEmailSubject": "Gen AI Research Engineer Application | Nitin Chander",
-        "coldEmailBody": "Hi Siemens Energy Research Team,\n\nI am writing to express my strong enthusiasm for the Gen AI Research Engineer role in Gurugram. Having architected end-to-end RAG systems using vector embeddings and LangChain, complemented by real-world machine learning experience from my NTPC internship, I am prepared to contribute to your industrial AI research.\n\nCould we connect for a brief 10-minute call to discuss alignment?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Siemens Energy Research Team,\n\nI am writing to express my strong enthusiasm for the Gen AI Research Engineer role in Gurugram. Having architected end-to-end RAG systems using vector embeddings and LangChain, complemented by real-world machine learning experience from my NTPC internship, I am prepared to contribute to your industrial AI research.\n\nCould we connect for a brief 10-minute call to discuss alignment?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Energy domain context from NTPC + production LangChain RAG pipeline.",
         "status": "Not Applied",
         "notes": ""
@@ -368,7 +368,7 @@ targeted_roles = [
         "description": "Wissen Technology is looking for a Python AI Engineer to build LLM and Agentic AI platforms for tier-1 financial clients. You will implement autonomous agents, multi-step tool calling, vector search, and high-performance Python microservices.",
         "matchRationale": "Superb match for Nitin's Agentic AI workflows, LangChain tool calling, and fraud detection financial background.",
         "coldEmailSubject": "Python AI Engineer (LLM & Agentic AI) Application | Nitin Chander",
-        "coldEmailBody": "Hi Wissen AI Talent Team,\n\nI am excited to apply for the Python AI Engineer (LLM & Agentic AI) position. Having implemented vector indexing, tool calling, and RAG architectures in Python alongside machine learning models for financial fraud detection, I am eager to contribute to your AI engineering practice.\n\nCould we connect for a short conversation this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Wissen AI Talent Team,\n\nI am excited to apply for the Python AI Engineer (LLM & Agentic AI) position. Having implemented vector indexing, tool calling, and RAG architectures in Python alongside machine learning models for financial fraud detection, I am eager to contribute to your AI engineering practice.\n\nCould we connect for a short conversation this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "LLM agentic workflows, financial data modeling, and FastAPI backend services.",
         "status": "Not Applied",
         "notes": ""
@@ -393,7 +393,7 @@ targeted_roles = [
         "description": "Treva is building next-generation AI agents. As an AI Engineer Intern, you will train, evaluate, and deploy LLM applications, integrate vector databases, and develop clean Python APIs in an agile engineering environment.",
         "matchRationale": "Direct match for Nitin's vector search, Python API development, and LLM evaluation skillset.",
         "coldEmailSubject": "AI Engineer Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Treva Team,\n\nI am applying for the AI Engineer Intern role in Bengaluru. With direct experience developing RAG systems with LangChain and ChromaDB and deploying Python microservices, I am excited about Treva's agent applications.\n\nCould we connect for a brief 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Treva Team,\n\nI am applying for the AI Engineer Intern role in Bengaluru. With direct experience developing RAG systems with LangChain and ChromaDB and deploying Python microservices, I am excited about Treva's agent applications.\n\nCould we connect for a brief 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "FastAPI microservices, vector similarity search, and high-velocity shipping.",
         "status": "Not Applied",
         "notes": ""
@@ -418,7 +418,7 @@ targeted_roles = [
         "description": "Babaclick is building AI-native products and is seeking an Engineer Intern in Gurugram to develop intelligent web applications, connect backend Python AI pipelines to user interfaces, and optimize API responses.",
         "matchRationale": "Great match for Nitin's full-stack integration with Python and web technologies in Delhi NCR.",
         "coldEmailSubject": "Full-Stack AI-Native Engineer Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Babaclick Team,\n\nI am writing to apply for the Full-Stack AI-Native Engineer Internship in Gurugram. Having built end-to-end applications connecting Python machine learning backends with clean frontend interfaces, I am eager to contribute.\n\nCould we schedule a short introductory conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Babaclick Team,\n\nI am writing to apply for the Full-Stack AI-Native Engineer Internship in Gurugram. Having built end-to-end applications connecting Python machine learning backends with clean frontend interfaces, I am eager to contribute.\n\nCould we schedule a short introductory conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "End-to-end Python AI backend integration and Gurugram on-site availability.",
         "status": "Not Applied",
         "notes": ""
@@ -443,7 +443,7 @@ targeted_roles = [
         "description": "Gryphon Cyber is hiring a Business Intelligence & Research Intern in Delhi to gather telemetry on cybersecurity threats, build automated analytical reports, and maintain risk monitoring datasets in Python and SQL.",
         "matchRationale": "Good fit for Nitin's risk/anomaly detection experience from his Fraud Detection project and Delhi on-site availability.",
         "coldEmailSubject": "Business Intelligence & Research Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Gryphon Cyber Team,\n\nI am applying for the Business Intelligence & Research Intern role in Delhi. Having developed a Machine Learning Fraud Detection system and automated analytics pipelines with Python, I am enthusiastic about applying data intelligence to cyber telemetry.\n\nCould we connect for a brief 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Gryphon Cyber Team,\n\nI am applying for the Business Intelligence & Research Intern role in Delhi. Having developed a Machine Learning Fraud Detection system and automated analytics pipelines with Python, I am enthusiastic about applying data intelligence to cyber telemetry.\n\nCould we connect for a brief 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Anomaly detection foundations, Python data manipulation, and Delhi availability.",
         "status": "Not Applied",
         "notes": ""
@@ -468,7 +468,7 @@ targeted_roles = [
         "description": "BharatCode is an open engineering collective building developer infrastructure. You will work on Python backend microservices, API integrations, and database schemas for cloud applications.",
         "matchRationale": "Good match for Nitin's clean Python code, Git workflow, and API engineering skills.",
         "coldEmailSubject": "SDE Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi BharatCode Team,\n\nI am excited to apply for the Software Development Engineer Intern role. With solid foundations in Python, RESTful API design, and database schema management, I am eager to contribute to your core services.\n\nCould we connect for a brief introductory call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi BharatCode Team,\n\nI am excited to apply for the Software Development Engineer Intern role. With solid foundations in Python, RESTful API design, and database schema management, I am eager to contribute to your core services.\n\nCould we connect for a brief introductory call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Python microservice development, clean code standards, and agile remote delivery.",
         "status": "Not Applied",
         "notes": ""
@@ -493,7 +493,7 @@ targeted_roles = [
         "description": "Rempact is building impactful digital solutions in Delhi. We are seeking a Software Developer Intern to write backend APIs in Python, connect database models, and build responsive web interfaces.",
         "matchRationale": "Matches Nitin's full-stack development capability and Delhi on-site availability.",
         "coldEmailSubject": "Software Developer Intern Application | Nitin Chander",
-        "coldEmailBody": "Hi Rempact Team,\n\nI am applying for the Software Developer Intern position in Delhi. With experience building Python backend services and integrating dynamic web applications, I am eager to help develop Rempact's products.\n\nCould we connect for a brief call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Rempact Team,\n\nI am applying for the Software Developer Intern position in Delhi. With experience building Python backend services and integrating dynamic web applications, I am eager to help develop Rempact's products.\n\nCould we connect for a brief call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Full stack Python integration, agile delivery, and Delhi location.",
         "status": "Not Applied",
         "notes": ""
@@ -518,7 +518,7 @@ targeted_roles = [
         "description": "American Express is expanding its Global AI and Data Labs in Gurugram. As an AI Engineer II, you will develop machine learning models for fraud prevention, credit risk assessment, and customer personalization using Python, XGBoost, and distributed ML frameworks.",
         "matchRationale": "Direct match for Nitin's Fraud Detection machine learning project (XGBoost, class imbalance handling, ROC-AUC optimization).",
         "coldEmailSubject": "AI Engineer II – Fraud Prevention & ML Modeling | Nitin Chander",
-        "coldEmailBody": "Hi American Express AI Talent Team,\n\nI am writing to express my strong interest in the AI Engineer II position in Gurugram. Having engineered an End-to-End Fraud Detection system handling severe class imbalance with XGBoost and Random Forest, I am deeply aligned with Amex's risk and fraud intelligence mission.\n\nCould we schedule a short 10-minute call to discuss my alignment with Amex AI Labs?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi American Express AI Talent Team,\n\nI am writing to express my strong interest in the AI Engineer II position in Gurugram. Having engineered an End-to-End Fraud Detection system handling severe class imbalance with XGBoost and Random Forest, I am deeply aligned with Amex's risk and fraud intelligence mission.\n\nCould we schedule a short 10-minute call to discuss my alignment with Amex AI Labs?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Fraud detection machine learning pipeline, precision-recall optimization, and Gurugram location.",
         "status": "Not Applied",
         "notes": ""
@@ -543,7 +543,7 @@ targeted_roles = [
         "description": "Google is looking for Data and AI Engineers in Gurugram to architect large-scale data platforms, build automated ML and GenAI pipelines on Google Cloud (BigQuery, Vertex AI, Dataflow), and optimize model serving infrastructure in Python.",
         "matchRationale": "Exceptional fit for Nitin's BigQuery, cloud data ingestion, and Python AI pipeline development background.",
         "coldEmailSubject": "Data & AI Engineer Application | Nitin Chander",
-        "coldEmailBody": "Hi Google Talent Team,\n\nI am applying for the Data and AI Engineer position in Gurugram. Having architected data ingestion pipelines, tuned SQL queries in BigQuery, and built production-grade RAG and machine learning microservices with Python, I am thrilled by the prospect of contributing to Google's data systems.\n\nCould we connect for a brief 10-minute introductory conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Google Talent Team,\n\nI am applying for the Data and AI Engineer position in Gurugram. Having architected data ingestion pipelines, tuned SQL queries in BigQuery, and built production-grade RAG and machine learning microservices with Python, I am thrilled by the prospect of contributing to Google's data systems.\n\nCould we connect for a brief 10-minute introductory conversation?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "BigQuery & cloud data pipelines, Python AI serving, and Gurugram location.",
         "status": "Not Applied",
         "notes": ""
@@ -568,7 +568,7 @@ targeted_roles = [
         "description": "NatWest Group is hiring a Data Scientist in Gurugram to design predictive modeling tools, evaluate financial transactions for risk and customer intelligence, and deploy automated analytics microservices in Python.",
         "matchRationale": "Strong fit for Nitin's financial fraud modeling, predictive analytics, and Scikit-learn expertise.",
         "coldEmailSubject": "Data Scientist Application | Nitin Chander",
-        "coldEmailBody": "Hi NatWest Data & Analytics Team,\n\nI am excited to apply for the Data Scientist role in Gurugram. With practical experience developing predictive machine learning pipelines, handling imbalanced financial datasets with XGBoost, and optimizing database workflows, I am prepared to deliver value to NatWest's customer solutions.\n\nCould we connect for a short 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi NatWest Data & Analytics Team,\n\nI am excited to apply for the Data Scientist role in Gurugram. With practical experience developing predictive machine learning pipelines, handling imbalanced financial datasets with XGBoost, and optimizing database workflows, I am prepared to deliver value to NatWest's customer solutions.\n\nCould we connect for a short 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Predictive modeling, financial transaction data handling, and Gurugram availability.",
         "status": "Not Applied",
         "notes": ""
@@ -593,7 +593,7 @@ targeted_roles = [
         "description": "Noether Data Labs is an Enterprise AI company building production-grade Agentic AI and Generative AI workflows. As an AI Engineer Intern, you will develop multi-agent orchestration graphs, implement tool-calling LLM pipelines, and benchmark retrieval accuracy.",
         "matchRationale": "Direct match for Nitin's LangChain RAG pipeline, tool calling, and vector indexing experience.",
         "coldEmailSubject": "AI Engineer Intern (GenAI & Agentic AI) Application | Nitin Chander",
-        "coldEmailBody": "Hi Noether Data Labs Team,\n\nI was excited to discover your AI Engineer Intern opening in Agentic AI. Having built custom RAG pipelines with LangChain and vector stores alongside FastAPI microservices, I am passionate about enterprise agentic workflows.\n\nCould we connect for a brief 10-minute call to discuss my alignment with your stack?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Noether Data Labs Team,\n\nI was excited to discover your AI Engineer Intern opening in Agentic AI. Having built custom RAG pipelines with LangChain and vector stores alongside FastAPI microservices, I am passionate about enterprise agentic workflows.\n\nCould we connect for a brief 10-minute call to discuss my alignment with your stack?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "LangChain agentic workflows, vector search optimization, and remote delivery.",
         "status": "Not Applied",
         "notes": ""
@@ -618,7 +618,7 @@ targeted_roles = [
         "description": "Cremisoft AI builds GenAI and agentic AI solutions that help businesses automate workflows. We are seeking early-career engineers proficient in Python, LLM prompt engineering, RAG retrieval architectures, and REST API deployment.",
         "matchRationale": "Aligned with Nitin's prompt engineering, RAG development, and RESTful Python backends.",
         "coldEmailSubject": "Associate AI Engineer Application | Nitin Chander",
-        "coldEmailBody": "Hi Cremisoft AI Team,\n\nI am applying for the Associate AI Engineer role. With hands-on experience developing RAG architectures using LangChain and ChromaDB and deploying containerized Python backends with FastAPI, I am eager to help automate workflows.\n\nCould we schedule a quick call to connect?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Cremisoft AI Team,\n\nI am applying for the Associate AI Engineer role. With hands-on experience developing RAG architectures using LangChain and ChromaDB and deploying containerized Python backends with FastAPI, I am eager to help automate workflows.\n\nCould we schedule a quick call to connect?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Prompt engineering, RAG retrieval systems, and FastAPI deployment.",
         "status": "Not Applied",
         "notes": ""
@@ -643,7 +643,7 @@ targeted_roles = [
         "description": "Razorpay is India's leading fintech payment platform. Our AI engineering team builds real-time fraud mitigation, merchant intelligence, and automated dispute resolution models using high-scale Python data pipelines and ML architectures.",
         "matchRationale": "Direct match for Nitin's Machine Learning Fraud Detection system and payment data processing background.",
         "coldEmailSubject": "AI Engineer Application – Fraud Detection & ML Systems | Nitin Chander",
-        "coldEmailBody": "Hi Razorpay AI Team,\n\nI am thrilled to apply for the Artificial Intelligence Engineer position in Bengaluru. Having built an End-to-End Machine Learning Fraud Detection system utilizing XGBoost and Random Forest with experiment tracking via MLflow, I am deeply inspired by Razorpay's payments intelligence mission.\n\nCould we connect for a brief 10-minute introductory call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Razorpay AI Team,\n\nI am thrilled to apply for the Artificial Intelligence Engineer position in Bengaluru. Having built an End-to-End Machine Learning Fraud Detection system utilizing XGBoost and Random Forest with experiment tracking via MLflow, I am deeply inspired by Razorpay's payments intelligence mission.\n\nCould we connect for a brief 10-minute introductory call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Fintech fraud detection ML, XGBoost precision-recall tuning, and Python data pipelines.",
         "status": "Not Applied",
         "notes": ""
@@ -668,7 +668,7 @@ targeted_roles = [
         "description": "Swiggy is redefining hyper-local convenience across India. As a Data Scientist, you will develop algorithmic routing models, demand forecasting systems, and automated telemetry analyzers using Python, Scikit-learn, and cloud data platforms.",
         "matchRationale": "Matches Nitin's predictive modeling, tabular machine learning, and high-volume data analytics experience.",
         "coldEmailSubject": "Data Scientist II Application | Nitin Chander",
-        "coldEmailBody": "Hi Swiggy Data Science Team,\n\nI am applying for the Data Scientist position in Bengaluru. Having engineered predictive models with Scikit-learn, handled high-dimensional operational datasets in Pandas/NumPy, and built automated data evaluation pipelines, I am eager to contribute to Swiggy's convenience ecosystem.\n\nCould we connect for a brief 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Swiggy Data Science Team,\n\nI am applying for the Data Scientist position in Bengaluru. Having engineered predictive models with Scikit-learn, handled high-dimensional operational datasets in Pandas/NumPy, and built automated data evaluation pipelines, I am eager to contribute to Swiggy's convenience ecosystem.\n\nCould we connect for a brief 10-minute call?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Predictive modeling, tabular analytics, and Python data pipelines.",
         "status": "Not Applied",
         "notes": ""

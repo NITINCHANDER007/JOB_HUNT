@@ -66,7 +66,7 @@ def generate_cold_email(company, role, rationale):
         f"Could we schedule a short 10-minute conversation this week to discuss how my skillset aligns with your team's goals?\n\n"
         f"Best regards,\n"
         f"Nitin Chander\n"
-        f"+91-8130489303 | nitinchandra834@gmail.com\n"
+        f"+91-8130489303 | codernitin55@gmail.com\n"
         f"linkedin.com/in/nitin-chander-b6928120b"
     )
     return subject, body

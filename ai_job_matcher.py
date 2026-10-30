@@ -36,7 +36,7 @@ class AIJobMatcher:
         except Exception:
             return {
                 "full_name": "Nitin Chander",
-                "email": "nitinchandra834@gmail.com",
+                "email": "codernitin55@gmail.com",
                 "college": "Maharaja Agrasen Institute of Technology (MAIT)",
                 "degree": "B.Tech in Computer Science & Engineering",
                 "graduation_year": "2027",

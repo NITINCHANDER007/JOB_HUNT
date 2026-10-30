@@ -42,7 +42,7 @@ naukri_jobs = [
         "description": "Sarvam AI is developing foundational AI models and Agentic AI stacks tailored for Indian enterprise languages and systems. We are hiring a Generative AI & Python Intern to work directly on LLM fine-tuning, RAG data ingestion pipelines, and low-latency API serving using FastAPI, LangChain, and PyTorch.",
         "matchRationale": "Exceptional fit for Nitin's hands-on GenAI, LangChain, RAG architecture, and Python backend skillset.",
         "coldEmailSubject": "Generative AI & Python Intern – LangChain & RAG Pipeline Experience | Nitin Chander",
-        "coldEmailBody": "Hi Sarvam AI Team,\n\nI am writing to express my strong enthusiasm for the Generative AI & Python Engineer Intern role. Having engineered RAG architectures with LangChain, ChromaDB, and FastAPI across prior corporate internships at Paytm and IDEMIA, I am deeply aligned with Sarvam AI's mission.\n\nCould we connect for a brief 10-minute conversation this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Sarvam AI Team,\n\nI am writing to express my strong enthusiasm for the Generative AI & Python Engineer Intern role. Having engineered RAG architectures with LangChain, ChromaDB, and FastAPI across prior corporate internships at Paytm and IDEMIA, I am deeply aligned with Sarvam AI's mission.\n\nCould we connect for a brief 10-minute conversation this week?\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Direct hands-on experience in RAG, LangChain, and clean Python backend engineering.",
         "status": "Not Applied",
         "notes": ""
@@ -67,7 +67,7 @@ naukri_jobs = [
         "description": "Fractal is a global leader in artificial intelligence and enterprise analytics. As an AI & ML Engineer, you will design and deploy predictive models, build automated NLP and GenAI pipelines, and integrate ML algorithms into scalable client-facing platforms using Python, Scikit-learn, and cloud AI services.",
         "matchRationale": "Strong alignment with Nitin's background in machine learning models, Python data processing, and predictive analytics.",
         "coldEmailSubject": "AI & ML Engineer Application | Nitin Chander",
-        "coldEmailBody": "Hi Fractal Analytics Talent Team,\n\nI am eager to apply for the AI & Machine Learning Engineer position. With 3 prior engineering internships focusing on Python microservices, database query tuning, and RAG architectures, I build high-performance data systems.\n\nI would welcome the opportunity to discuss how I can contribute to Fractal's client solutions.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Fractal Analytics Talent Team,\n\nI am eager to apply for the AI & Machine Learning Engineer position. With 3 prior engineering internships focusing on Python microservices, database query tuning, and RAG architectures, I build high-performance data systems.\n\nI would welcome the opportunity to discuss how I can contribute to Fractal's client solutions.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Solid machine learning foundations, enterprise database optimization, and Python microservices.",
         "status": "Not Applied",
         "notes": ""
@@ -92,7 +92,7 @@ naukri_jobs = [
         "description": "GoodSpace AI is hiring a Machine Learning Intern at its Noida tech park. You will assist in developing recommendation algorithms, automated candidate-job matching graphs, and real-time inference endpoints using Python, FastAPI, and PostgreSQL.",
         "matchRationale": "Located in Noida/Delhi NCR, highly accessible, focusing on Python backend and recommendation/matching algorithms.",
         "coldEmailSubject": "Machine Learning Engineer Intern – Noida | Nitin Chander",
-        "coldEmailBody": "Hi GoodSpace AI Team,\n\nI am writing to express my interest in the Machine Learning Intern role in Noida. As a Computer Science undergrad at MAIT with experience building Python pipelines and vector-based semantic retrieval systems, I am excited about your matching technology.\n\nLooking forward to speaking with you.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi GoodSpace AI Team,\n\nI am writing to express my interest in the Machine Learning Intern role in Noida. As a Computer Science undergrad at MAIT with experience building Python pipelines and vector-based semantic retrieval systems, I am excited about your matching technology.\n\nLooking forward to speaking with you.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Local Delhi NCR candidate with proven technical projects and rapid onboarding capabilities.",
         "status": "Not Applied",
         "notes": ""
@@ -117,7 +117,7 @@ naukri_jobs = [
         "description": "Tiger Analytics is looking for bright engineering freshers and junior data scientists to develop advanced machine learning models, statistical analyses, and production data pipelines. Key technologies: Python, SQL, Git, and cloud data platforms.",
         "matchRationale": "Matches Python, SQL query optimization, and structured analytical modeling requirements.",
         "coldEmailSubject": "Application for Data Scientist / ML Engineer | Nitin Chander",
-        "coldEmailBody": "Hi Tiger Analytics Recruitment Team,\n\nI am applying for the Data Scientist / ML Engineer role. Having optimized backend databases at NTPC and built scalable Python services during internships, I bring strong problem-solving and software engineering fundamentals.\n\nThank you for considering my application.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Tiger Analytics Recruitment Team,\n\nI am applying for the Data Scientist / ML Engineer role. Having optimized backend databases at NTPC and built scalable Python services during internships, I bring strong problem-solving and software engineering fundamentals.\n\nThank you for considering my application.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Analytical problem solving backed by database optimization and clean code principles.",
         "status": "Not Applied",
         "notes": ""
@@ -142,7 +142,7 @@ naukri_jobs = [
         "description": "GlobalLogic is seeking an Associate Python Data Engineer in Noida. Responsibilities include building robust data ingestion pipelines, writing clean SQL scripts, debugging data transformation logic, and supporting enterprise cloud migrations.",
         "matchRationale": "Direct match for Noida location and foundational Python + SQL data engineering skills.",
         "coldEmailSubject": "Associate Python Data Engineer – Noida | Nitin Chander",
-        "coldEmailBody": "Hi GlobalLogic Talent Team,\n\nI am excited to apply for the Python Data Engineer role in Noida. With experience in PostgreSQL, FastAPI, and data pipeline design, I write maintainable, tested Python code.\n\nI look forward to discussing how I can add value to your engineering team.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi GlobalLogic Talent Team,\n\nI am excited to apply for the Python Data Engineer role in Noida. With experience in PostgreSQL, FastAPI, and data pipeline design, I write maintainable, tested Python code.\n\nI look forward to discussing how I can add value to your engineering team.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Noida-based candidate with hands-on Python data pipeline experience.",
         "status": "Not Applied",
         "notes": ""
@@ -167,7 +167,7 @@ naukri_jobs = [
         "description": "Ascendion delivers software engineering through generative AI. We are looking for an early-career GenAI Developer proficient in Python, LangChain, OpenAI APIs, and REST microservices to accelerate intelligent digital delivery.",
         "matchRationale": "Focuses on applied Generative AI and Python APIs, precisely matching Nitin's core strengths.",
         "coldEmailSubject": "Generative AI & Python Developer Application | Nitin Chander",
-        "coldEmailBody": "Hi Ascendion Team,\n\nI am writing to express my strong interest in the GenAI & Python Developer role. Having built LangChain-based RAG workflows and low-latency REST endpoints, I am enthusiastic about contributing to Ascendion's AI delivery initiatives.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Ascendion Team,\n\nI am writing to express my strong interest in the GenAI & Python Developer role. Having built LangChain-based RAG workflows and low-latency REST endpoints, I am enthusiastic about contributing to Ascendion's AI delivery initiatives.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Applied Generative AI, RAG architecture, and production Python API engineering.",
         "status": "Not Applied",
         "notes": ""
@@ -192,7 +192,7 @@ naukri_jobs = [
         "description": "Mu Sigma is hiring Associate Data Scientists to solve complex enterprise problems. Strong aptitude in Python programming, linear algebra, SQL databases, and data storytelling required.",
         "matchRationale": "Excellent entry point for data science, algorithm implementation, and mathematical modeling.",
         "coldEmailSubject": "Application for Associate Data Scientist | Nitin Chander",
-        "coldEmailBody": "Hi Mu Sigma Hiring Team,\n\nI am applying for the Associate Data Scientist position. Holding a solid academic grounding in Computer Science (8.0 CGPA at MAIT) and proven internship experience in Python and database engineering, I enjoy tackling analytical challenges.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Mu Sigma Hiring Team,\n\nI am applying for the Associate Data Scientist position. Holding a solid academic grounding in Computer Science (8.0 CGPA at MAIT) and proven internship experience in Python and database engineering, I enjoy tackling analytical challenges.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Strong CS fundamentals, mathematical problem-solving, and database engineering.",
         "status": "Not Applied",
         "notes": ""
@@ -217,7 +217,7 @@ naukri_jobs = [
         "description": "Quantiphi is an AI-first digital engineering company. We are looking for an Applied AI Engineer to build LLM agents, document parsing workflows, and multimodal AI solutions.",
         "matchRationale": "Direct match for AI applications, LangChain, and Python REST services.",
         "coldEmailSubject": "Applied AI Engineer Application | Nitin Chander",
-        "coldEmailBody": "Hi Quantiphi Talent Team,\n\nI am excited to apply for the Applied AI Engineer role. With project experience in building semantic search engines, RAG pipelines, and automated text extractors, I am eager to join Quantiphi's AI delivery teams.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Quantiphi Talent Team,\n\nI am excited to apply for the Applied AI Engineer role. With project experience in building semantic search engines, RAG pipelines, and automated text extractors, I am eager to join Quantiphi's AI delivery teams.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Applied AI, semantic retrieval, and enterprise software engineering.",
         "status": "Not Applied",
         "notes": ""
@@ -242,7 +242,7 @@ naukri_jobs = [
         "description": "HCLTech is seeking an early-career Python Developer for its Noida campus to develop REST APIs, integrate AI libraries, and manage relational database schemas using Python and PostgreSQL.",
         "matchRationale": "Great Noida-based opportunity with focus on clean backend development and relational databases.",
         "coldEmailSubject": "Python Backend & AI Developer – Noida Campus | Nitin Chander",
-        "coldEmailBody": "Hi HCLTech Team,\n\nI am writing to apply for the Python Backend Developer role in Noida. Having engineered backend services at Paytm and database queries at NTPC, I look forward to contributing to your enterprise projects.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi HCLTech Team,\n\nI am writing to apply for the Python Backend Developer role in Noida. Having engineered backend services at Paytm and database queries at NTPC, I look forward to contributing to your enterprise projects.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Noida local candidate with prior corporate backend internship credentials.",
         "status": "Not Applied",
         "notes": ""
@@ -267,7 +267,7 @@ naukri_jobs = [
         "description": "Makers Lab is Tech Mahindra's R&D arm exploring Quantum Computing, Generative AI, and Agentic Workflows. Looking for passionate AI/ML interns with strong Python skills.",
         "matchRationale": "R&D innovation lab offering high learning in advanced Generative AI and Python.",
         "coldEmailSubject": "GenAI Researcher Intern – Makers Lab | Nitin Chander",
-        "coldEmailBody": "Hi Makers Lab Team,\n\nI am eager to apply for the GenAI Intern position at Makers Lab. Experienced in designing RAG architectures and Python microservices, I am passionate about pushing generative models into real-world applications.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+        "coldEmailBody": "Hi Makers Lab Team,\n\nI am eager to apply for the GenAI Intern position at Makers Lab. Experienced in designing RAG architectures and Python microservices, I am passionate about pushing generative models into real-world applications.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
         "coldEmailAngle": "Curious, hands-on GenAI builder eager to push R&D into production.",
         "status": "Not Applied",
         "notes": ""
@@ -355,7 +355,7 @@ for item in raw_apify:
             "description": desc_clean,
             "matchRationale": f"Technical alignment for {title} matching Python, data pipelines, and AI systems.",
             "coldEmailSubject": f"Application for {title} | Nitin Chander",
-            "coldEmailBody": f"Hi {comp} Team,\n\nI am writing to express my strong interest in the {title} opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+            "coldEmailBody": f"Hi {comp} Team,\n\nI am writing to express my strong interest in the {title} opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
             "coldEmailAngle": "Applied AI and Python data pipelines.",
             "status": "Not Applied",
             "notes": ""

@@ -22,7 +22,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Level AI Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer (Bangalore/Noida Location) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer (Bangalore/Noida Location) | Nitin Chander",
-    "coldEmailBody": "Hi Level AI Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer (Bangalore/Noida Location) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Level AI Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer (Bangalore/Noida Location) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -48,7 +48,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "InvoLead Talent Team",
     "matchRationale": "Technical alignment for Generative AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Generative AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi InvoLead Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi InvoLead Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -74,7 +74,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Mobility Global Talent Team",
     "matchRationale": "Technical alignment for Associate Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Associate Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Mobility Global Team,\n\nI am writing to express my strong interest in the Associate Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Mobility Global Team,\n\nI am writing to express my strong interest in the Associate Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -100,7 +100,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Innova ESI Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer \u2013 AWS matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer \u2013 AWS | Nitin Chander",
-    "coldEmailBody": "Hi Innova ESI Team,\n\nI am writing to express my strong interest in the Senior Data Engineer \u2013 AWS opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Innova ESI Team,\n\nI am writing to express my strong interest in the Senior Data Engineer \u2013 AWS opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -126,7 +126,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Cognite Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Cognite Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Cognite Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -152,7 +152,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Srijan: Now Material Talent Team",
     "matchRationale": "Technical alignment for Material+ - Data Scientist - Machine Learning matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Material+ - Data Scientist - Machine Learning | Nitin Chander",
-    "coldEmailBody": "Hi Srijan: Now Material Team,\n\nI am writing to express my strong interest in the Material+ - Data Scientist - Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Srijan: Now Material Team,\n\nI am writing to express my strong interest in the Material+ - Data Scientist - Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -178,7 +178,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "PFI Innovation Centre India Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi PFI Innovation Centre India Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi PFI Innovation Centre India Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -204,7 +204,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Jumio Corporation Talent Team",
     "matchRationale": "Technical alignment for Data Engineer - II (Biometrics) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer - II (Biometrics) | Nitin Chander",
-    "coldEmailBody": "Hi Jumio Corporation Team,\n\nI am writing to express my strong interest in the Data Engineer - II (Biometrics) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Jumio Corporation Team,\n\nI am writing to express my strong interest in the Data Engineer - II (Biometrics) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -230,7 +230,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Ad Astra Consultants Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Ad Astra Consultants Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Ad Astra Consultants Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -256,7 +256,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Polestar Analytics Talent Team",
     "matchRationale": "Technical alignment for AI Engineer (Noida) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer (Noida) | Nitin Chander",
-    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the AI Engineer (Noida) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the AI Engineer (Noida) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -282,7 +282,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -308,7 +308,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Polestar Analytics Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -334,7 +334,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Alimentiv Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer (India) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer (India) | Nitin Chander",
-    "coldEmailBody": "Hi Alimentiv Team,\n\nI am writing to express my strong interest in the Senior Data Engineer (India) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Alimentiv Team,\n\nI am writing to express my strong interest in the Senior Data Engineer (India) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -360,7 +360,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "PwC Acceleration Center India Talent Team",
     "matchRationale": "Technical alignment for AI Led Data Engineer(AWS Redshift+Glue+Pyspark) - Associate 2 matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Led Data Engineer(AWS Redshift+Glue+Pyspark) - Associate 2 | Nitin Chander",
-    "coldEmailBody": "Hi PwC Acceleration Center India Team,\n\nI am writing to express my strong interest in the AI Led Data Engineer(AWS Redshift+Glue+Pyspark) - Associate 2 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi PwC Acceleration Center India Team,\n\nI am writing to express my strong interest in the AI Led Data Engineer(AWS Redshift+Glue+Pyspark) - Associate 2 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -386,7 +386,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "JATO Dynamics Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi JATO Dynamics Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi JATO Dynamics Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -412,7 +412,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Trail Talent Team",
     "matchRationale": "Technical alignment for Deep Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Deep Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Trail Team,\n\nI am writing to express my strong interest in the Deep Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Trail Team,\n\nI am writing to express my strong interest in the Deep Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -438,7 +438,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "SourcingXPress Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi SourcingXPress Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi SourcingXPress Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -464,7 +464,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Finacle Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Finacle Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Finacle Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -490,7 +490,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Epsilon Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist Client Analytics matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist Client Analytics | Nitin Chander",
-    "coldEmailBody": "Hi Epsilon Team,\n\nI am writing to express my strong interest in the Senior Data Scientist Client Analytics opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Epsilon Team,\n\nI am writing to express my strong interest in the Senior Data Scientist Client Analytics opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -516,7 +516,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "4flow Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi 4flow Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi 4flow Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -542,7 +542,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "IBM Talent Team",
     "matchRationale": "Technical alignment for Data Engineer-Data Platforms-Google matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer-Data Platforms-Google | Nitin Chander",
-    "coldEmailBody": "Hi IBM Team,\n\nI am writing to express my strong interest in the Data Engineer-Data Platforms-Google opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi IBM Team,\n\nI am writing to express my strong interest in the Data Engineer-Data Platforms-Google opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -568,7 +568,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Talent Team",
     "matchRationale": "Technical alignment for Databricks Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Databricks Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the Databricks Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the Databricks Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -594,7 +594,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Talent Team",
     "matchRationale": "Technical alignment for AI/ML Engineer (with AWS Cloud Skills) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI/ML Engineer (with AWS Cloud Skills) | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the AI/ML Engineer (with AWS Cloud Skills) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the AI/ML Engineer (with AWS Cloud Skills) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -620,7 +620,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Gabeo.ai Talent Team",
     "matchRationale": "Technical alignment for Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Gabeo.ai Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Gabeo.ai Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -646,7 +646,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Talent Team",
     "matchRationale": "Technical alignment for DAAI - AI/ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for DAAI - AI/ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the DAAI - AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the DAAI - AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -672,7 +672,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Uplers Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Uplers Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Uplers Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -698,7 +698,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "American Express Talent Team",
     "matchRationale": "Technical alignment for AI Engineer II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer II | Nitin Chander",
-    "coldEmailBody": "Hi American Express Team,\n\nI am writing to express my strong interest in the AI Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi American Express Team,\n\nI am writing to express my strong interest in the AI Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -724,7 +724,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Teleradiology Solutions Talent Team",
     "matchRationale": "Technical alignment for Junior AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Junior AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Teleradiology Solutions Team,\n\nI am writing to express my strong interest in the Junior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Teleradiology Solutions Team,\n\nI am writing to express my strong interest in the Junior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -750,7 +750,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Nians Talent Team",
     "matchRationale": "Technical alignment for Artificial Intelligence Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Artificial Intelligence Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Nians Team,\n\nI am writing to express my strong interest in the Artificial Intelligence Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Nians Team,\n\nI am writing to express my strong interest in the Artificial Intelligence Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -776,7 +776,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Ema Talent Team",
     "matchRationale": "Technical alignment for Software Engineer, Machine Learning matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Software Engineer, Machine Learning | Nitin Chander",
-    "coldEmailBody": "Hi Ema Team,\n\nI am writing to express my strong interest in the Software Engineer, Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Ema Team,\n\nI am writing to express my strong interest in the Software Engineer, Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -802,7 +802,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Insurity Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Insurity Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Insurity Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -828,7 +828,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Ecolab Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Ecolab Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Ecolab Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -854,7 +854,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Westfield Lead Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Westfield Lead Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Westfield Lead Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Westfield Lead Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -880,7 +880,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Pocketpills Talent Team",
     "matchRationale": "Technical alignment for Interesting Job Opportunity: PocketPills - AI Engineer - LLM &amp; Agentic AI matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Interesting Job Opportunity: PocketPills - AI Engineer - LLM &amp; Agentic AI | Nitin Chander",
-    "coldEmailBody": "Hi Pocketpills Team,\n\nI am writing to express my strong interest in the Interesting Job Opportunity: PocketPills - AI Engineer - LLM &amp; Agentic AI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Pocketpills Team,\n\nI am writing to express my strong interest in the Interesting Job Opportunity: PocketPills - AI Engineer - LLM &amp; Agentic AI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -906,7 +906,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Fractal Talent Team",
     "matchRationale": "Technical alignment for Gen AI Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Gen AI Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Fractal Team,\n\nI am writing to express my strong interest in the Gen AI Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Fractal Team,\n\nI am writing to express my strong interest in the Gen AI Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -932,7 +932,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Gen AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Gen AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Gen AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Gen AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -958,7 +958,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Amazon Talent Team",
     "matchRationale": "Technical alignment for Data Engineer I, CMT matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer I, CMT | Nitin Chander",
-    "coldEmailBody": "Hi Amazon Team,\n\nI am writing to express my strong interest in the Data Engineer I, CMT opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Amazon Team,\n\nI am writing to express my strong interest in the Data Engineer I, CMT opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -984,7 +984,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Talent Team",
     "matchRationale": "Technical alignment for AI ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the AI ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the AI ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1010,7 +1010,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "PayPay India Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi PayPay India Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi PayPay India Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1036,7 +1036,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Thermo Fisher Scientific Talent Team",
     "matchRationale": "Technical alignment for Data Engineer II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer II | Nitin Chander",
-    "coldEmailBody": "Hi Thermo Fisher Scientific Team,\n\nI am writing to express my strong interest in the Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Thermo Fisher Scientific Team,\n\nI am writing to express my strong interest in the Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1062,7 +1062,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Agentic/AI engineers with Claude/code/LLM skills1 matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Agentic/AI engineers with Claude/code/LLM skills1 | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Agentic/AI engineers with Claude/code/LLM skills1 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Agentic/AI engineers with Claude/code/LLM skills1 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1088,7 +1088,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Cognitive Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Cognitive Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Cognitive Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Cognitive Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1114,7 +1114,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Macquarie Group Talent Team",
     "matchRationale": "Technical alignment for Executive | Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Executive | Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Macquarie Group Team,\n\nI am writing to express my strong interest in the Executive | Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Macquarie Group Team,\n\nI am writing to express my strong interest in the Executive | Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1140,7 +1140,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Qure.ai Talent Team",
     "matchRationale": "Technical alignment for SDE - III, LLM matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for SDE - III, LLM | Nitin Chander",
-    "coldEmailBody": "Hi Qure.ai Team,\n\nI am writing to express my strong interest in the SDE - III, LLM opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Qure.ai Team,\n\nI am writing to express my strong interest in the SDE - III, LLM opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1166,7 +1166,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "dunnhumby Talent Team",
     "matchRationale": "Technical alignment for Big Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Big Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi dunnhumby Team,\n\nI am writing to express my strong interest in the Big Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi dunnhumby Team,\n\nI am writing to express my strong interest in the Big Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1192,7 +1192,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Delta Technology Hub Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Delta Technology Hub Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Delta Technology Hub Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1218,7 +1218,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "BOLD Talent Team",
     "matchRationale": "Technical alignment for Software Engineer/Senior Software Engineer- DataScience matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Software Engineer/Senior Software Engineer- DataScience | Nitin Chander",
-    "coldEmailBody": "Hi BOLD Team,\n\nI am writing to express my strong interest in the Software Engineer/Senior Software Engineer- DataScience opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi BOLD Team,\n\nI am writing to express my strong interest in the Software Engineer/Senior Software Engineer- DataScience opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1244,7 +1244,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Tata Consultancy Services Talent Team",
     "matchRationale": "Technical alignment for Generative AI Engineer / Developer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Generative AI Engineer / Developer | Nitin Chander",
-    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the Generative AI Engineer / Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the Generative AI Engineer / Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1270,7 +1270,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Data Scientist (GenAI/Core DS) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist (GenAI/Core DS) | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Data Scientist (GenAI/Core DS) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Data Scientist (GenAI/Core DS) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1296,7 +1296,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "SWITS DIGITAL Private Limited Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi SWITS DIGITAL Private Limited Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi SWITS DIGITAL Private Limited Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1322,7 +1322,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "UST Talent Team",
     "matchRationale": "Technical alignment for Data Scientist | 6+ yrs | Immediate Joiners only | PAN INDIA matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | 6+ yrs | Immediate Joiners only | PAN INDIA | Nitin Chander",
-    "coldEmailBody": "Hi UST Team,\n\nI am writing to express my strong interest in the Data Scientist | 6+ yrs | Immediate Joiners only | PAN INDIA opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi UST Team,\n\nI am writing to express my strong interest in the Data Scientist | 6+ yrs | Immediate Joiners only | PAN INDIA opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1348,7 +1348,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EcoRatings Talent Team",
     "matchRationale": "Technical alignment for AI/ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI/ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EcoRatings Team,\n\nI am writing to express my strong interest in the AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EcoRatings Team,\n\nI am writing to express my strong interest in the AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1374,7 +1374,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "JPMorganChase Talent Team",
     "matchRationale": "Technical alignment for Software Engineer III - Python LLM Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Software Engineer III - Python LLM Engineer | Nitin Chander",
-    "coldEmailBody": "Hi JPMorganChase Team,\n\nI am writing to express my strong interest in the Software Engineer III - Python LLM Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi JPMorganChase Team,\n\nI am writing to express my strong interest in the Software Engineer III - Python LLM Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1400,7 +1400,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "CNH Talent Team",
     "matchRationale": "Technical alignment for Global Credit Risk Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Global Credit Risk Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi CNH Team,\n\nI am writing to express my strong interest in the Global Credit Risk Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi CNH Team,\n\nI am writing to express my strong interest in the Global Credit Risk Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1426,7 +1426,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Enormous Enterprise LLC Talent Team",
     "matchRationale": "Technical alignment for AI/ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI/ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Enormous Enterprise LLC Team,\n\nI am writing to express my strong interest in the AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Enormous Enterprise LLC Team,\n\nI am writing to express my strong interest in the AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1452,7 +1452,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "American Express Talent Team",
     "matchRationale": "Technical alignment for Data Engineer II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer II | Nitin Chander",
-    "coldEmailBody": "Hi American Express Team,\n\nI am writing to express my strong interest in the Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi American Express Team,\n\nI am writing to express my strong interest in the Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1478,7 +1478,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "United Airlines India Knowledge Center Talent Team",
     "matchRationale": "Technical alignment for Analyst - Data Scientist Machine Learning matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Analyst - Data Scientist Machine Learning | Nitin Chander",
-    "coldEmailBody": "Hi United Airlines India Knowledge Center Team,\n\nI am writing to express my strong interest in the Analyst - Data Scientist Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi United Airlines India Knowledge Center Team,\n\nI am writing to express my strong interest in the Analyst - Data Scientist Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1504,7 +1504,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "SAP Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer - INT ABS \u2013 API Business Services matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer - INT ABS \u2013 API Business Services | Nitin Chander",
-    "coldEmailBody": "Hi SAP Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer - INT ABS \u2013 API Business Services opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi SAP Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer - INT ABS \u2013 API Business Services opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1530,7 +1530,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Anaplan Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Anaplan Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Anaplan Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1556,7 +1556,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Tata Consultancy Services Talent Team",
     "matchRationale": "Technical alignment for AIML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AIML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the AIML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the AIML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1582,7 +1582,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Siemens Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Siemens Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Siemens Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1608,7 +1608,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Albertsons Companies India Talent Team",
     "matchRationale": "Technical alignment for Advanced Engineer Software - AI/Agentic [T500-30273] matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Advanced Engineer Software - AI/Agentic [T500-30273] | Nitin Chander",
-    "coldEmailBody": "Hi Albertsons Companies India Team,\n\nI am writing to express my strong interest in the Advanced Engineer Software - AI/Agentic [T500-30273] opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Albertsons Companies India Team,\n\nI am writing to express my strong interest in the Advanced Engineer Software - AI/Agentic [T500-30273] opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1634,7 +1634,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Albertsons Companies India Talent Team",
     "matchRationale": "Technical alignment for Engineer Software - AI/Agentic AI [T500-30274] matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Engineer Software - AI/Agentic AI [T500-30274] | Nitin Chander",
-    "coldEmailBody": "Hi Albertsons Companies India Team,\n\nI am writing to express my strong interest in the Engineer Software - AI/Agentic AI [T500-30274] opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Albertsons Companies India Team,\n\nI am writing to express my strong interest in the Engineer Software - AI/Agentic AI [T500-30274] opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1660,7 +1660,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Mastercard Talent Team",
     "matchRationale": "Technical alignment for Data Scientist II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist II | Nitin Chander",
-    "coldEmailBody": "Hi Mastercard Team,\n\nI am writing to express my strong interest in the Data Scientist II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Mastercard Team,\n\nI am writing to express my strong interest in the Data Scientist II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1686,7 +1686,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Equinix Talent Team",
     "matchRationale": "Technical alignment for Senior Staff Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Staff Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Equinix Team,\n\nI am writing to express my strong interest in the Senior Staff Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Equinix Team,\n\nI am writing to express my strong interest in the Senior Staff Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1712,7 +1712,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Thomson Reuters Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Thomson Reuters Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Thomson Reuters Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1738,7 +1738,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EaseMyTrip.com Talent Team",
     "matchRationale": "Technical alignment for Generative AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Generative AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EaseMyTrip.com Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EaseMyTrip.com Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1764,7 +1764,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Amazon Talent Team",
     "matchRationale": "Technical alignment for Data Engineer I matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer I | Nitin Chander",
-    "coldEmailBody": "Hi Amazon Team,\n\nI am writing to express my strong interest in the Data Engineer I opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Amazon Team,\n\nI am writing to express my strong interest in the Data Engineer I opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1790,7 +1790,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Talent Team",
     "matchRationale": "Technical alignment for AWS Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AWS Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1816,7 +1816,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Pine Labs Talent Team",
     "matchRationale": "Technical alignment for Lead Engineer AI matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Engineer AI | Nitin Chander",
-    "coldEmailBody": "Hi Pine Labs Team,\n\nI am writing to express my strong interest in the Lead Engineer AI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Pine Labs Team,\n\nI am writing to express my strong interest in the Lead Engineer AI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1842,7 +1842,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Tata Consultancy Services Talent Team",
     "matchRationale": "Technical alignment for Generative AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Generative AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1868,7 +1868,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for AWS Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AWS Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1894,7 +1894,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Mopid Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist (SDS) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist (SDS) | Nitin Chander",
-    "coldEmailBody": "Hi Mopid Team,\n\nI am writing to express my strong interest in the Senior Data Scientist (SDS) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Mopid Team,\n\nI am writing to express my strong interest in the Senior Data Scientist (SDS) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1920,7 +1920,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "BCG X Talent Team",
     "matchRationale": "Technical alignment for Lead Forward Deployed AI Engineer, India - BCG X matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Forward Deployed AI Engineer, India - BCG X | Nitin Chander",
-    "coldEmailBody": "Hi BCG X Team,\n\nI am writing to express my strong interest in the Lead Forward Deployed AI Engineer, India - BCG X opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi BCG X Team,\n\nI am writing to express my strong interest in the Lead Forward Deployed AI Engineer, India - BCG X opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1946,7 +1946,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sopra Steria Talent Team",
     "matchRationale": "Technical alignment for GenAI- Senior Software Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for GenAI- Senior Software Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Sopra Steria Team,\n\nI am writing to express my strong interest in the GenAI- Senior Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sopra Steria Team,\n\nI am writing to express my strong interest in the GenAI- Senior Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1972,7 +1972,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Trantor Talent Team",
     "matchRationale": "Technical alignment for AWS Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AWS Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Trantor Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Trantor Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -1998,7 +1998,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Thales Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Thales Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Thales Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2024,7 +2024,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Amazon Science Talent Team",
     "matchRationale": "Technical alignment for Data Scientist II, Data Scientist, IES CFX & Prime matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist II, Data Scientist, IES CFX & Prime | Nitin Chander",
-    "coldEmailBody": "Hi Amazon Science Team,\n\nI am writing to express my strong interest in the Data Scientist II, Data Scientist, IES CFX & Prime opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Amazon Science Team,\n\nI am writing to express my strong interest in the Data Scientist II, Data Scientist, IES CFX & Prime opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2050,7 +2050,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Amazon Science Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist, IES CFX & Prime matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist, IES CFX & Prime | Nitin Chander",
-    "coldEmailBody": "Hi Amazon Science Team,\n\nI am writing to express my strong interest in the Senior Data Scientist, IES CFX & Prime opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Amazon Science Team,\n\nI am writing to express my strong interest in the Senior Data Scientist, IES CFX & Prime opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2076,7 +2076,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "SWITS DIGITAL Private Limited Talent Team",
     "matchRationale": "Technical alignment for Data Scientist - 5 - 8 Years matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist - 5 - 8 Years | Nitin Chander",
-    "coldEmailBody": "Hi SWITS DIGITAL Private Limited Team,\n\nI am writing to express my strong interest in the Data Scientist - 5 - 8 Years opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi SWITS DIGITAL Private Limited Team,\n\nI am writing to express my strong interest in the Data Scientist - 5 - 8 Years opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2102,7 +2102,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "ICF Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi ICF Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi ICF Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2128,7 +2128,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "CNH Talent Team",
     "matchRationale": "Technical alignment for AI/ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI/ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi CNH Team,\n\nI am writing to express my strong interest in the AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi CNH Team,\n\nI am writing to express my strong interest in the AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2154,7 +2154,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Kitopi Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Kitopi Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Kitopi Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2180,7 +2180,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "IBM Talent Team",
     "matchRationale": "Technical alignment for Data Engineer II - Confluent matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer II - Confluent | Nitin Chander",
-    "coldEmailBody": "Hi IBM Team,\n\nI am writing to express my strong interest in the Data Engineer II - Confluent opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi IBM Team,\n\nI am writing to express my strong interest in the Data Engineer II - Confluent opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2206,7 +2206,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Zorba AI Talent Team",
     "matchRationale": "Technical alignment for DS-Gen AI/Agnetic/LLM matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for DS-Gen AI/Agnetic/LLM | Nitin Chander",
-    "coldEmailBody": "Hi Zorba AI Team,\n\nI am writing to express my strong interest in the DS-Gen AI/Agnetic/LLM opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Zorba AI Team,\n\nI am writing to express my strong interest in the DS-Gen AI/Agnetic/LLM opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2232,7 +2232,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "UST Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi UST Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi UST Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2258,7 +2258,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Merck Healthcare Talent Team",
     "matchRationale": "Technical alignment for Data Engineer - Snowflakes Developer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer - Snowflakes Developer | Nitin Chander",
-    "coldEmailBody": "Hi Merck Healthcare Team,\n\nI am writing to express my strong interest in the Data Engineer - Snowflakes Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Merck Healthcare Team,\n\nI am writing to express my strong interest in the Data Engineer - Snowflakes Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2284,7 +2284,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "SimCorp Talent Team",
     "matchRationale": "Technical alignment for Lead AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi SimCorp Team,\n\nI am writing to express my strong interest in the Lead AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi SimCorp Team,\n\nI am writing to express my strong interest in the Lead AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2310,7 +2310,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Societe Generale Global Solution Centre Talent Team",
     "matchRationale": "Technical alignment for Lead Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Societe Generale Global Solution Centre Team,\n\nI am writing to express my strong interest in the Lead Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Societe Generale Global Solution Centre Team,\n\nI am writing to express my strong interest in the Lead Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2336,7 +2336,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Syneos Health Commercial Solutions Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Syneos Health Commercial Solutions Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Syneos Health Commercial Solutions Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2362,7 +2362,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Mobility Global Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Mobility Global Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Mobility Global Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2388,7 +2388,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NTT DATA North America Talent Team",
     "matchRationale": "Technical alignment for Sr AI / Agentic Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Sr AI / Agentic Engineer | Nitin Chander",
-    "coldEmailBody": "Hi NTT DATA North America Team,\n\nI am writing to express my strong interest in the Sr AI / Agentic Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NTT DATA North America Team,\n\nI am writing to express my strong interest in the Sr AI / Agentic Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2414,7 +2414,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NTT DATA North America Talent Team",
     "matchRationale": "Technical alignment for AI engineer - Advisor matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI engineer - Advisor | Nitin Chander",
-    "coldEmailBody": "Hi NTT DATA North America Team,\n\nI am writing to express my strong interest in the AI engineer - Advisor opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NTT DATA North America Team,\n\nI am writing to express my strong interest in the AI engineer - Advisor opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2440,7 +2440,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "IQVIA Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi IQVIA Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi IQVIA Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2466,7 +2466,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NetApp Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi NetApp Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NetApp Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2492,7 +2492,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Meesho Talent Team",
     "matchRationale": "Technical alignment for Data Scientist III matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist III | Nitin Chander",
-    "coldEmailBody": "Hi Meesho Team,\n\nI am writing to express my strong interest in the Data Scientist III opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Meesho Team,\n\nI am writing to express my strong interest in the Data Scientist III opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2518,7 +2518,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Outscale Partners Talent Team",
     "matchRationale": "Technical alignment for Senior AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Outscale Partners Team,\n\nI am writing to express my strong interest in the Senior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Outscale Partners Team,\n\nI am writing to express my strong interest in the Senior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2544,7 +2544,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "eGov Foundation Talent Team",
     "matchRationale": "Technical alignment for AI Engineer \u2014 Innovation Lab matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer \u2014 Innovation Lab | Nitin Chander",
-    "coldEmailBody": "Hi eGov Foundation Team,\n\nI am writing to express my strong interest in the AI Engineer \u2014 Innovation Lab opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi eGov Foundation Team,\n\nI am writing to express my strong interest in the AI Engineer \u2014 Innovation Lab opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2570,7 +2570,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Eli Lilly and Company Talent Team",
     "matchRationale": "Technical alignment for AI Developer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Developer | Nitin Chander",
-    "coldEmailBody": "Hi Eli Lilly and Company Team,\n\nI am writing to express my strong interest in the AI Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Eli Lilly and Company Team,\n\nI am writing to express my strong interest in the AI Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2596,7 +2596,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Litmus7 Talent Team",
     "matchRationale": "Technical alignment for Senior Engineer AI matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Engineer AI | Nitin Chander",
-    "coldEmailBody": "Hi Litmus7 Team,\n\nI am writing to express my strong interest in the Senior Engineer AI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Litmus7 Team,\n\nI am writing to express my strong interest in the Senior Engineer AI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2622,7 +2622,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EPAM Systems Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2648,7 +2648,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Bain & Company Talent Team",
     "matchRationale": "Technical alignment for Associate- PEG (AI Solutions Engineer) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Associate- PEG (AI Solutions Engineer) | Nitin Chander",
-    "coldEmailBody": "Hi Bain & Company Team,\n\nI am writing to express my strong interest in the Associate- PEG (AI Solutions Engineer) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Bain & Company Team,\n\nI am writing to express my strong interest in the Associate- PEG (AI Solutions Engineer) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2674,7 +2674,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EPAM Systems Talent Team",
     "matchRationale": "Technical alignment for Lead Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Lead Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Lead Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2700,7 +2700,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Karat Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Karat Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Karat Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2726,7 +2726,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Trinity Life Sciences Talent Team",
     "matchRationale": "Technical alignment for Data Scientist, Machine Learning matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist, Machine Learning | Nitin Chander",
-    "coldEmailBody": "Hi Trinity Life Sciences Team,\n\nI am writing to express my strong interest in the Data Scientist, Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Trinity Life Sciences Team,\n\nI am writing to express my strong interest in the Data Scientist, Machine Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2752,7 +2752,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EXL Talent Team",
     "matchRationale": "Technical alignment for Generative AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Generative AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EXL Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2778,7 +2778,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sutra.AI Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Sutra.AI Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sutra.AI Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2804,7 +2804,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Polestar Analytics Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2830,7 +2830,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Litmus7 Talent Team",
     "matchRationale": "Technical alignment for Senior Engineer - AIML matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Engineer - AIML | Nitin Chander",
-    "coldEmailBody": "Hi Litmus7 Team,\n\nI am writing to express my strong interest in the Senior Engineer - AIML opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Litmus7 Team,\n\nI am writing to express my strong interest in the Senior Engineer - AIML opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2856,7 +2856,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Mercari India Talent Team",
     "matchRationale": "Technical alignment for Software Engineer - Machine Learning, Trust and Safety matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Software Engineer - Machine Learning, Trust and Safety | Nitin Chander",
-    "coldEmailBody": "Hi Mercari India Team,\n\nI am writing to express my strong interest in the Software Engineer - Machine Learning, Trust and Safety opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Mercari India Team,\n\nI am writing to express my strong interest in the Software Engineer - Machine Learning, Trust and Safety opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2882,7 +2882,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NTT DATA North America Talent Team",
     "matchRationale": "Technical alignment for AI engineers - Advisor matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI engineers - Advisor | Nitin Chander",
-    "coldEmailBody": "Hi NTT DATA North America Team,\n\nI am writing to express my strong interest in the AI engineers - Advisor opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NTT DATA North America Team,\n\nI am writing to express my strong interest in the AI engineers - Advisor opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2908,7 +2908,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Adobe Talent Team",
     "matchRationale": "Technical alignment for Machine Learning Engineer 3 matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Machine Learning Engineer 3 | Nitin Chander",
-    "coldEmailBody": "Hi Adobe Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer 3 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Adobe Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer 3 opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2934,7 +2934,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Fractal Talent Team",
     "matchRationale": "Technical alignment for GenAI Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for GenAI Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Fractal Team,\n\nI am writing to express my strong interest in the GenAI Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Fractal Team,\n\nI am writing to express my strong interest in the GenAI Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2960,7 +2960,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Visit Health Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Visit Health Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Visit Health Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -2986,7 +2986,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Evarastaffing Talent Team",
     "matchRationale": "Technical alignment for Lead AI engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead AI engineer | Nitin Chander",
-    "coldEmailBody": "Hi Evarastaffing Team,\n\nI am writing to express my strong interest in the Lead AI engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Evarastaffing Team,\n\nI am writing to express my strong interest in the Lead AI engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3012,7 +3012,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "GLG Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi GLG Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi GLG Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3038,7 +3038,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Ecolab Talent Team",
     "matchRationale": "Technical alignment for Sr Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Sr Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Ecolab Team,\n\nI am writing to express my strong interest in the Sr Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Ecolab Team,\n\nI am writing to express my strong interest in the Sr Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3064,7 +3064,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sopra Steria Talent Team",
     "matchRationale": "Technical alignment for AI - Senior Software Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI - Senior Software Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Sopra Steria Team,\n\nI am writing to express my strong interest in the AI - Senior Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sopra Steria Team,\n\nI am writing to express my strong interest in the AI - Senior Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3090,7 +3090,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Wipro Talent Team",
     "matchRationale": "Technical alignment for Gen AI - Sr Software Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Gen AI - Sr Software Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Wipro Team,\n\nI am writing to express my strong interest in the Gen AI - Sr Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Wipro Team,\n\nI am writing to express my strong interest in the Gen AI - Sr Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3116,7 +3116,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Auxo AI Talent Team",
     "matchRationale": "Technical alignment for Auxo AI - Senior AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Auxo AI - Senior AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Auxo AI Team,\n\nI am writing to express my strong interest in the Auxo AI - Senior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Auxo AI Team,\n\nI am writing to express my strong interest in the Auxo AI - Senior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3142,7 +3142,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Infosys Talent Team",
     "matchRationale": "Technical alignment for Python Developer - Agentic AI / LLM / RAG Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Python Developer - Agentic AI / LLM / RAG Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the Python Developer - Agentic AI / LLM / RAG Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Infosys Team,\n\nI am writing to express my strong interest in the Python Developer - Agentic AI / LLM / RAG Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3168,7 +3168,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Optum India Talent Team",
     "matchRationale": "Technical alignment for Senior AI/ML Engineer - Bangalore matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior AI/ML Engineer - Bangalore | Nitin Chander",
-    "coldEmailBody": "Hi Optum India Team,\n\nI am writing to express my strong interest in the Senior AI/ML Engineer - Bangalore opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Optum India Team,\n\nI am writing to express my strong interest in the Senior AI/ML Engineer - Bangalore opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3194,7 +3194,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "RapidClaims Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi RapidClaims Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi RapidClaims Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3220,7 +3220,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sequoia Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Sequoia Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sequoia Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3246,7 +3246,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sequoia Talent Team",
     "matchRationale": "Technical alignment for Lead Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Sequoia Team,\n\nI am writing to express my strong interest in the Lead Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sequoia Team,\n\nI am writing to express my strong interest in the Lead Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3272,7 +3272,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Nuaav Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Nuaav Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Nuaav Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3298,7 +3298,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "RapidClaims Talent Team",
     "matchRationale": "Technical alignment for Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi RapidClaims Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi RapidClaims Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3324,7 +3324,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Shuru Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Shuru Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Shuru Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3350,7 +3350,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Level AI Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer - NLP (Bengaluru/Noida) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer - NLP (Bengaluru/Noida) | Nitin Chander",
-    "coldEmailBody": "Hi Level AI Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer - NLP (Bengaluru/Noida) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Level AI Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer - NLP (Bengaluru/Noida) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3376,7 +3376,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Polestar Analytics Talent Team",
     "matchRationale": "Technical alignment for Generative AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Generative AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Polestar Analytics Team,\n\nI am writing to express my strong interest in the Generative AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3402,7 +3402,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "VGreen Technology Solutions (VGreenTEK) Talent Team",
     "matchRationale": "Technical alignment for Senior Statistician/Senior Data Scientist_100% REMOTE matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Statistician/Senior Data Scientist_100% REMOTE | Nitin Chander",
-    "coldEmailBody": "Hi VGreen Technology Solutions (VGreenTEK) Team,\n\nI am writing to express my strong interest in the Senior Statistician/Senior Data Scientist_100% REMOTE opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi VGreen Technology Solutions (VGreenTEK) Team,\n\nI am writing to express my strong interest in the Senior Statistician/Senior Data Scientist_100% REMOTE opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3428,7 +3428,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Encardio Rite Talent Team",
     "matchRationale": "Technical alignment for ML Engineer (Senior) matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for ML Engineer (Senior) | Nitin Chander",
-    "coldEmailBody": "Hi Encardio Rite Team,\n\nI am writing to express my strong interest in the ML Engineer (Senior) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Encardio Rite Team,\n\nI am writing to express my strong interest in the ML Engineer (Senior) opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3454,7 +3454,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Bayzat Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Bayzat Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Bayzat Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3480,7 +3480,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Siemens Energy Talent Team",
     "matchRationale": "Technical alignment for AI/Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI/Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Siemens Energy Team,\n\nI am writing to express my strong interest in the AI/Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Siemens Energy Team,\n\nI am writing to express my strong interest in the AI/Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3506,7 +3506,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "UKG Talent Team",
     "matchRationale": "Technical alignment for AI Data Engineer II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Data Engineer II | Nitin Chander",
-    "coldEmailBody": "Hi UKG Team,\n\nI am writing to express my strong interest in the AI Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi UKG Team,\n\nI am writing to express my strong interest in the AI Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3532,7 +3532,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Comviva Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Comviva Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Comviva Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3558,7 +3558,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NK Securities Research Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi NK Securities Research Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NK Securities Research Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3584,7 +3584,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Recrew AI Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Recrew AI Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Recrew AI Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3610,7 +3610,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "DMI Finance Private Limited Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi DMI Finance Private Limited Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi DMI Finance Private Limited Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3636,7 +3636,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Tata Consultancy Services Talent Team",
     "matchRationale": "Technical alignment for AWS Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AWS Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the AWS Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3662,7 +3662,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Tata Consultancy Services Talent Team",
     "matchRationale": "Technical alignment for AWS Data Engineer_Bangalore / Hyderabad/Chennai/Pune/Mumbai_8 to 12 yrs matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AWS Data Engineer_Bangalore / Hyderabad/Chennai/Pune/Mumbai_8 to 12 yrs | Nitin Chander",
-    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the AWS Data Engineer_Bangalore / Hyderabad/Chennai/Pune/Mumbai_8 to 12 yrs opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Tata Consultancy Services Team,\n\nI am writing to express my strong interest in the AWS Data Engineer_Bangalore / Hyderabad/Chennai/Pune/Mumbai_8 to 12 yrs opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3688,7 +3688,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NewCold Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi NewCold Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NewCold Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3714,7 +3714,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NuPlay AI Talent Team",
     "matchRationale": "Technical alignment for Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi NuPlay AI Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NuPlay AI Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3740,7 +3740,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Accenture in India Talent Team",
     "matchRationale": "Technical alignment for Custom Software Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Custom Software Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Accenture in India Team,\n\nI am writing to express my strong interest in the Custom Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Accenture in India Team,\n\nI am writing to express my strong interest in the Custom Software Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3766,7 +3766,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Accenture in India Talent Team",
     "matchRationale": "Technical alignment for AI / ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI / ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Accenture in India Team,\n\nI am writing to express my strong interest in the AI / ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Accenture in India Team,\n\nI am writing to express my strong interest in the AI / ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3792,7 +3792,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Cvent Talent Team",
     "matchRationale": "Technical alignment for Data Engineer II/ Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer II/ Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Cvent Team,\n\nI am writing to express my strong interest in the Data Engineer II/ Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Cvent Team,\n\nI am writing to express my strong interest in the Data Engineer II/ Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3818,7 +3818,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Optum India Talent Team",
     "matchRationale": "Technical alignment for Senior AI/ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior AI/ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Optum India Team,\n\nI am writing to express my strong interest in the Senior AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Optum India Team,\n\nI am writing to express my strong interest in the Senior AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3844,7 +3844,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Optum India Talent Team",
     "matchRationale": "Technical alignment for AI/ML Engineer-NLP, Python, Machine learning, RAG, Langchain, etc matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI/ML Engineer-NLP, Python, Machine learning, RAG, Langchain, etc | Nitin Chander",
-    "coldEmailBody": "Hi Optum India Team,\n\nI am writing to express my strong interest in the AI/ML Engineer-NLP, Python, Machine learning, RAG, Langchain, etc opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Optum India Team,\n\nI am writing to express my strong interest in the AI/ML Engineer-NLP, Python, Machine learning, RAG, Langchain, etc opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3870,7 +3870,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Emarlex Multiventure Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Emarlex Multiventure Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Emarlex Multiventure Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3896,7 +3896,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Waters Corporation Talent Team",
     "matchRationale": "Technical alignment for Data Platforms Senior Engineer \u2013 Databricks matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Platforms Senior Engineer \u2013 Databricks | Nitin Chander",
-    "coldEmailBody": "Hi Waters Corporation Team,\n\nI am writing to express my strong interest in the Data Platforms Senior Engineer \u2013 Databricks opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Waters Corporation Team,\n\nI am writing to express my strong interest in the Data Platforms Senior Engineer \u2013 Databricks opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3922,7 +3922,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Oliver Wyman Talent Team",
     "matchRationale": "Technical alignment for Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India | Nitin Chander",
-    "coldEmailBody": "Hi Oliver Wyman Team,\n\nI am writing to express my strong interest in the Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Oliver Wyman Team,\n\nI am writing to express my strong interest in the Oliver Wyman - Lead Data Engineer - Data and Analytics (DNA) - Gurugram, India opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3948,7 +3948,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "WillWare Technologies Talent Team",
     "matchRationale": "Technical alignment for Azure Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Azure Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi WillWare Technologies Team,\n\nI am writing to express my strong interest in the Azure Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi WillWare Technologies Team,\n\nI am writing to express my strong interest in the Azure Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -3974,7 +3974,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Funding Societies | Modalku Group Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist - Credit Risk matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist - Credit Risk | Nitin Chander",
-    "coldEmailBody": "Hi Funding Societies | Modalku Group Team,\n\nI am writing to express my strong interest in the Senior Data Scientist - Credit Risk opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Funding Societies | Modalku Group Team,\n\nI am writing to express my strong interest in the Senior Data Scientist - Credit Risk opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4000,7 +4000,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "The Standard India Talent Team",
     "matchRationale": "Technical alignment for Data Engineer III - Databricks matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer III - Databricks | Nitin Chander",
-    "coldEmailBody": "Hi The Standard India Team,\n\nI am writing to express my strong interest in the Data Engineer III - Databricks opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi The Standard India Team,\n\nI am writing to express my strong interest in the Data Engineer III - Databricks opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4026,7 +4026,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Oliver Wyman Talent Team",
     "matchRationale": "Technical alignment for Oliver Wyman - Senior / Lead Data Scientist - Gurugram matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Oliver Wyman - Senior / Lead Data Scientist - Gurugram | Nitin Chander",
-    "coldEmailBody": "Hi Oliver Wyman Team,\n\nI am writing to express my strong interest in the Oliver Wyman - Senior / Lead Data Scientist - Gurugram opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Oliver Wyman Team,\n\nI am writing to express my strong interest in the Oliver Wyman - Senior / Lead Data Scientist - Gurugram opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4052,7 +4052,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EPAM Systems Talent Team",
     "matchRationale": "Technical alignment for Lead Generative AI Developer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Generative AI Developer | Nitin Chander",
-    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Lead Generative AI Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Lead Generative AI Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4078,7 +4078,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "VTION.AI Talent Team",
     "matchRationale": "Technical alignment for VTION - AI Engineer - Machine/Deep Learning matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for VTION - AI Engineer - Machine/Deep Learning | Nitin Chander",
-    "coldEmailBody": "Hi VTION.AI Team,\n\nI am writing to express my strong interest in the VTION - AI Engineer - Machine/Deep Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi VTION.AI Team,\n\nI am writing to express my strong interest in the VTION - AI Engineer - Machine/Deep Learning opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4104,7 +4104,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "EPAM Systems Talent Team",
     "matchRationale": "Technical alignment for Lead Snowflake Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Snowflake Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Lead Snowflake Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi EPAM Systems Team,\n\nI am writing to express my strong interest in the Lead Snowflake Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4130,7 +4130,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sparrow RMS Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Sparrow RMS Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sparrow RMS Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4156,7 +4156,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Oliver Wyman Talent Team",
     "matchRationale": "Technical alignment for Oliver Wyman - Data Engineer / Senior Data Engineer - Data and Analytics (DNA) - Gurugram, India matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Oliver Wyman - Data Engineer / Senior Data Engineer - Data and Analytics (DNA) - Gurugram, India | Nitin Chander",
-    "coldEmailBody": "Hi Oliver Wyman Team,\n\nI am writing to express my strong interest in the Oliver Wyman - Data Engineer / Senior Data Engineer - Data and Analytics (DNA) - Gurugram, India opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Oliver Wyman Team,\n\nI am writing to express my strong interest in the Oliver Wyman - Data Engineer / Senior Data Engineer - Data and Analytics (DNA) - Gurugram, India opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4182,7 +4182,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NextNation Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi NextNation Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NextNation Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4208,7 +4208,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "WPP Media Talent Team",
     "matchRationale": "Technical alignment for Data Scientist \u2013 Analytics matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist \u2013 Analytics | Nitin Chander",
-    "coldEmailBody": "Hi WPP Media Team,\n\nI am writing to express my strong interest in the Data Scientist \u2013 Analytics opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi WPP Media Team,\n\nI am writing to express my strong interest in the Data Scientist \u2013 Analytics opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4234,7 +4234,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Sigmoid Talent Team",
     "matchRationale": "Technical alignment for Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Sigmoid Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Sigmoid Team,\n\nI am writing to express my strong interest in the Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4260,7 +4260,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Narwal Talent Team",
     "matchRationale": "Technical alignment for Data Scientist-Artificial Intelligence matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist-Artificial Intelligence | Nitin Chander",
-    "coldEmailBody": "Hi Narwal Team,\n\nI am writing to express my strong interest in the Data Scientist-Artificial Intelligence opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Narwal Team,\n\nI am writing to express my strong interest in the Data Scientist-Artificial Intelligence opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4286,7 +4286,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "AppSierra Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi AppSierra Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi AppSierra Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4312,7 +4312,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "InXiteOut Talent Team",
     "matchRationale": "Technical alignment for Data Engineer II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer II | Nitin Chander",
-    "coldEmailBody": "Hi InXiteOut Team,\n\nI am writing to express my strong interest in the Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi InXiteOut Team,\n\nI am writing to express my strong interest in the Data Engineer II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4338,7 +4338,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Portcast Talent Team",
     "matchRationale": "Technical alignment for Senior Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Portcast Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Portcast Team,\n\nI am writing to express my strong interest in the Senior Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4364,7 +4364,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "ProcDNA Talent Team",
     "matchRationale": "Technical alignment for [India] Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for [India] Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi ProcDNA Team,\n\nI am writing to express my strong interest in the [India] Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi ProcDNA Team,\n\nI am writing to express my strong interest in the [India] Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4390,7 +4390,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Serko Talent Team",
     "matchRationale": "Technical alignment for Senior Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Serko Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Serko Team,\n\nI am writing to express my strong interest in the Senior Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4416,7 +4416,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Donaldson Talent Team",
     "matchRationale": "Technical alignment for Senior AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Donaldson Team,\n\nI am writing to express my strong interest in the Senior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Donaldson Team,\n\nI am writing to express my strong interest in the Senior AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4442,7 +4442,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Think Right Advisory Services Pvt. Ltd. Talent Team",
     "matchRationale": "Technical alignment for ML Engineer \u00b7 Mid\u2013Senior matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for ML Engineer \u00b7 Mid\u2013Senior | Nitin Chander",
-    "coldEmailBody": "Hi Think Right Advisory Services Pvt. Ltd. Team,\n\nI am writing to express my strong interest in the ML Engineer \u00b7 Mid\u2013Senior opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Think Right Advisory Services Pvt. Ltd. Team,\n\nI am writing to express my strong interest in the ML Engineer \u00b7 Mid\u2013Senior opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4468,7 +4468,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Carelon Global Solutions India Talent Team",
     "matchRationale": "Technical alignment for Interesting Job Opportunity: Carelon - Senior Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Interesting Job Opportunity: Carelon - Senior Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Carelon Global Solutions India Team,\n\nI am writing to express my strong interest in the Interesting Job Opportunity: Carelon - Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Carelon Global Solutions India Team,\n\nI am writing to express my strong interest in the Interesting Job Opportunity: Carelon - Senior Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4494,7 +4494,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Mihup.ai Talent Team",
     "matchRationale": "Technical alignment for Lead Engineer - LLM matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead Engineer - LLM | Nitin Chander",
-    "coldEmailBody": "Hi Mihup.ai Team,\n\nI am writing to express my strong interest in the Lead Engineer - LLM opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Mihup.ai Team,\n\nI am writing to express my strong interest in the Lead Engineer - LLM opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4520,7 +4520,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "UsefulBI Corporation Talent Team",
     "matchRationale": "Technical alignment for AI / ML Engineer - GenAI matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI / ML Engineer - GenAI | Nitin Chander",
-    "coldEmailBody": "Hi UsefulBI Corporation Team,\n\nI am writing to express my strong interest in the AI / ML Engineer - GenAI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi UsefulBI Corporation Team,\n\nI am writing to express my strong interest in the AI / ML Engineer - GenAI opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4546,7 +4546,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "FactoFlare AI Talent Team",
     "matchRationale": "Technical alignment for Machine Learning Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Machine Learning Engineer | Nitin Chander",
-    "coldEmailBody": "Hi FactoFlare AI Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi FactoFlare AI Team,\n\nI am writing to express my strong interest in the Machine Learning Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4572,7 +4572,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Impronics Digitech Talent Team",
     "matchRationale": "Technical alignment for Senior AI Engineer / Senior Machine Learning Specialist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior AI Engineer / Senior Machine Learning Specialist | Nitin Chander",
-    "coldEmailBody": "Hi Impronics Digitech Team,\n\nI am writing to express my strong interest in the Senior AI Engineer / Senior Machine Learning Specialist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Impronics Digitech Team,\n\nI am writing to express my strong interest in the Senior AI Engineer / Senior Machine Learning Specialist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4598,7 +4598,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "ClixLogix Talent Team",
     "matchRationale": "Technical alignment for Senior ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Senior ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi ClixLogix Team,\n\nI am writing to express my strong interest in the Senior ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi ClixLogix Team,\n\nI am writing to express my strong interest in the Senior ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4624,7 +4624,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "PeopleX Ventures Talent Team",
     "matchRationale": "Technical alignment for Artificial Intelligence Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Artificial Intelligence Engineer | Nitin Chander",
-    "coldEmailBody": "Hi PeopleX Ventures Team,\n\nI am writing to express my strong interest in the Artificial Intelligence Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi PeopleX Ventures Team,\n\nI am writing to express my strong interest in the Artificial Intelligence Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4650,7 +4650,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "TekSalt Solutions Talent Team",
     "matchRationale": "Technical alignment for AI Developer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Developer | Nitin Chander",
-    "coldEmailBody": "Hi TekSalt Solutions Team,\n\nI am writing to express my strong interest in the AI Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi TekSalt Solutions Team,\n\nI am writing to express my strong interest in the AI Developer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4676,7 +4676,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Digit Insurance Talent Team",
     "matchRationale": "Technical alignment for AI consulting lead matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI consulting lead | Nitin Chander",
-    "coldEmailBody": "Hi Digit Insurance Team,\n\nI am writing to express my strong interest in the AI consulting lead opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Digit Insurance Team,\n\nI am writing to express my strong interest in the AI consulting lead opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4702,7 +4702,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Relanto Talent Team",
     "matchRationale": "Technical alignment for Lead AI/ML Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Lead AI/ML Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Relanto Team,\n\nI am writing to express my strong interest in the Lead AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Relanto Team,\n\nI am writing to express my strong interest in the Lead AI/ML Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4728,7 +4728,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "KPMG India Talent Team",
     "matchRationale": "Technical alignment for AI Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AI Engineer | Nitin Chander",
-    "coldEmailBody": "Hi KPMG India Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi KPMG India Team,\n\nI am writing to express my strong interest in the AI Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4754,7 +4754,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "FINAGG Technologies Private Limited Talent Team",
     "matchRationale": "Technical alignment for AIML - AI ENGINEER matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for AIML - AI ENGINEER | Nitin Chander",
-    "coldEmailBody": "Hi FINAGG Technologies Private Limited Team,\n\nI am writing to express my strong interest in the AIML - AI ENGINEER opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi FINAGG Technologies Private Limited Team,\n\nI am writing to express my strong interest in the AIML - AI ENGINEER opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4780,7 +4780,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "NPS Prism Talent Team",
     "matchRationale": "Technical alignment for Data Scientist II matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist II | Nitin Chander",
-    "coldEmailBody": "Hi NPS Prism Team,\n\nI am writing to express my strong interest in the Data Scientist II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi NPS Prism Team,\n\nI am writing to express my strong interest in the Data Scientist II opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4806,7 +4806,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "GeoIQ Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi GeoIQ Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi GeoIQ Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4832,7 +4832,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "SourcingXPress Talent Team",
     "matchRationale": "Technical alignment for Artificial Intelligence Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Artificial Intelligence Engineer | Nitin Chander",
-    "coldEmailBody": "Hi SourcingXPress Team,\n\nI am writing to express my strong interest in the Artificial Intelligence Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi SourcingXPress Team,\n\nI am writing to express my strong interest in the Artificial Intelligence Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4858,7 +4858,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "CLOUDSUFI Talent Team",
     "matchRationale": "Technical alignment for Data Engineer - GCP matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer - GCP | Nitin Chander",
-    "coldEmailBody": "Hi CLOUDSUFI Team,\n\nI am writing to express my strong interest in the Data Engineer - GCP opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi CLOUDSUFI Team,\n\nI am writing to express my strong interest in the Data Engineer - GCP opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4884,7 +4884,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Fogwing\u00ae Operations Management Platform Talent Team",
     "matchRationale": "Technical alignment for Data Engineer matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Engineer | Nitin Chander",
-    "coldEmailBody": "Hi Fogwing\u00ae Operations Management Platform Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Fogwing\u00ae Operations Management Platform Team,\n\nI am writing to express my strong interest in the Data Engineer opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   },
@@ -4910,7 +4910,7 @@ window.INCOMING_JOB_POOL = [
     "contactName": "Gujarat Fluorochemicals Limited Talent Team",
     "matchRationale": "Technical alignment for Data Scientist matching Python, data pipelines, and AI systems.",
     "coldEmailSubject": "Application for Data Scientist | Nitin Chander",
-    "coldEmailBody": "Hi Gujarat Fluorochemicals Limited Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com",
+    "coldEmailBody": "Hi Gujarat Fluorochemicals Limited Team,\n\nI am writing to express my strong interest in the Data Scientist opening. With hands-on experience in Python backend development, LangChain RAG architectures, and REST APIs, I am eager to make an immediate impact.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com",
     "status": "Not Applied",
     "notes": ""
   }

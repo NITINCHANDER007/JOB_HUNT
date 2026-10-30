@@ -448,7 +448,9 @@ async def gmail_oauth_callback(code: str, redirect_uri: str = "http://localhost:
 async def gmail_send_test(req: EmailTestRequest):
     """Send a test email to verify Gmail connectivity."""
     from gmail_service import gmail_client
-    profile_email = req.to or get_safe_profile().get("email", "nitinchandra834@gmail.com")
+    from candidate_profile import sanitize_email
+    raw_email = req.to or get_safe_profile().get("email", "codernitin55@gmail.com")
+    profile_email = sanitize_email(raw_email)
     res = gmail_client.send_email(
         to=profile_email,
         subject=req.subject or "Test Email from Job Hunt Intelligence",

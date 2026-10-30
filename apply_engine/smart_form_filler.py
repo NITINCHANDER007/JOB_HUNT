@@ -191,3 +191,4 @@ class SmartFormFiller:
                     await r.check()
         except Exception:
             pass
+

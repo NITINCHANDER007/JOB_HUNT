@@ -1124,7 +1124,7 @@
         description: desc,
         matchRationale: 'Manually added high-interest opportunity.',
         coldEmailSubject: `Application for ${title} | Nitin Chander`,
-        coldEmailBody: `Hi ${comp} Team,\n\nI am writing to express my enthusiasm for the ${title} opportunity. With experience building Python data pipelines, RAG systems, and REST APIs, I would love to contribute to your engineering efforts.\n\nBest regards,\nNitin Chander\n+91-8130489303 | nitinchandra834@gmail.com`,
+        coldEmailBody: `Hi ${comp} Team,\n\nI am writing to express my enthusiasm for the ${title} opportunity. With experience building Python data pipelines, RAG systems, and REST APIs, I would love to contribute to your engineering efforts.\n\nBest regards,\nNitin Chander\n+91-8130489303 | codernitin55@gmail.com`,
         status: 'Not Applied',
         notes: ''
       };

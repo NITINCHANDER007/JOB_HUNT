@@ -232,3 +232,4 @@ class EmailMonitor:
 
 # Singleton
 email_monitor = EmailMonitor()
+
