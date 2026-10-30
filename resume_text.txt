@@ -1,0 +1,53 @@
+Nitin Chander
+♂phone+91-8130489303|✉nitinchandra834@gmail.com|/linkedinlinkedin.com/in/nitin-chander-b6928120b
+Professional Summar y
+Computer Science & Engineering student with hands-on experience in Python development, backend engineering, SQL, machine
+learning, NLP, and Generative AI. Experienced in building end-to-end data pipelines, ML systems, RAG applications, REST
+APIs, and AI-enabled backend workflows. Seeking opportunities in AI/ML Engineering, Data Science, Generative AI, AI
+Engineering, and Python Development.
+Educa tion
+Maharaja Agrasen Institute of Technology (GGSIPU)2023 – 2027
+B.Tech in Computer Science & Engineering CGPA: 8.0
+Mukherji Memorial Sr. Sec. School2023
+Class 12 (PCM) Score: 80%
+Technical Skills
+Languages:Python, SQL
+Data Science & ML:Pandas, NumPy, Scikit-learn, XGBoost, Statistics, Feature Engineering, Model Evaluation
+Core Subjects:DSA,DBMS,CN,OS,System Design
+AI & GenAI:NLP, Transformers, LLMs, RAG, LangChain, Hugging Face, Prompt Engineering, ChromaDB, FAISS
+Backend & APIs:Flask, FastAPI, REST APIs, JWT
+Databases:PostgreSQL, MySQL, SQLAlchemy
+MLOps & Cloud:MLflow, Docker, AWS (EC2, S3)
+Tools:Git, GitHub, Postman
+Experience
+IDEMIA Jun 2026 – Jul 2026
+Python Developer Intern
+–Engineered Python-based modules for AI-ready data ingestion and processing pipelines.
+–Built SQL-driven data pipelines using Pandas and NumPy to clean, transform, and structure large datasets.
+–Implemented NLP and RAG-enabled backend workflows to support intelligent document processing.
+Paytm Jul 2025 – Aug 2025
+Backend Developer Intern
+–Developed scalable backend services using Python, SQL, and REST APIs to support core business workflows.
+–Designed and implemented REST API endpoints for efficient request handling and database interactions.
+–Architected AI-ready backend workflows to support automated data processing and downstream analytics.
+NTPC Jul 2024 – Aug 2024
+Backend & Database Intern
+–Optimized SQL queries to improve data retrieval and reporting workflows.
+–Automated backend data processing tasks using Python and SQL, reducing repetitive manual effort.
+–Improved database query performance through indexing and query restructuring.
+Projects
+LearnForge – AI Learning Platform
+Python, Flask, PostgreSQL, REST APIs, JWT
+–Architected a modular Flask backend with PostgreSQL for a production-style learning platform, including user progress,
+badges, notes, and learning content.
+–Implemented JWT-based authentication and REST APIs for secure data access and learning content delivery.
+AI Travel Concierge
+Python, LangChain, ChromaDB, Gemini API, RAG
+–Developed a conversational AI travel assistant using RAG, LangChain, and Gemini API to generate context-aware responses.
+–Implemented semantic search with ChromaDB and vector embeddings, with conversational memory for multi-turn
+interactions.
+End-to-End Fraud Detection System
+Python, Pandas, Scikit-learn, XGBoost, FastAPI, MLflow
+–Developed an end-to-end fraud detection pipeline with data preprocessing, feature engineering, and class-imbalance handling.
+–Compared Logistic Regression, Random Forest, and XGBoost using Precision, Recall, F1-score, and ROC-AUC.
+–Deployed the trained model through FastAPI and tracked experiments using MLflow.

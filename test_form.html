@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Safe Local Demo — Job Application Test Form</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 700px; margin: 60px auto; padding: 0 20px; background: #f5f5f5; color: #222; }
+    h1 { color: #333; border-bottom: 2px solid #6366f1; padding-bottom: 12px; }
+    .notice { background: #fef9c3; border-left: 4px solid #f59e0b; padding: 12px 16px; border-radius: 4px; margin-bottom: 24px; font-size: 0.9rem; }
+    form { background: #fff; padding: 28px; border-radius: 10px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); }
+    .field { margin-bottom: 18px; }
+    label { display: block; font-weight: 600; margin-bottom: 5px; font-size: 0.88rem; color: #555; }
+    input[type="text"], input[type="email"], input[type="tel"], input[type="number"],
+    textarea, select { width: 100%; padding: 9px 12px; border: 1px solid #d1d5db; border-radius: 6px;
+      font-size: 0.95rem; box-sizing: border-box; }
+    input:focus, textarea:focus, select:focus { outline: none; border-color: #6366f1; box-shadow: 0 0 0 3px rgba(99,102,241,0.15); }
+    .row { display: flex; gap: 14px; }
+    .row .field { flex: 1; }
+    button[type="submit"] { background: #6366f1; color: #fff; border: none; padding: 12px 32px;
+      border-radius: 8px; font-size: 1rem; font-weight: 600; cursor: pointer; margin-top: 8px; }
+    button[type="submit"]:hover { background: #4f46e5; }
+    #submission-success { display: none; background: #d1fae5; border: 1px solid #10b981;
+      border-radius: 8px; padding: 20px; margin-top: 24px; text-align: center; }
+    #submission-success h2 { color: #065f46; margin: 0 0 8px; }
+    #submission-success p { color: #047857; margin: 0; }
+    .test-badge { background: #fee2e2; border: 1px solid #f87171; color: #991b1b;
+      font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 4px;
+      text-transform: uppercase; letter-spacing: 0.05em; }
+  </style>
+</head>
+<body>
+  <h1>🧪 Application Test Form <span class="test-badge">Local Demo Only</span></h1>
+
+  <div class="notice">
+    <strong>⚠️ This is a safe local test form.</strong>
+    It is used to verify that the Auto-Apply automation can fill fields and upload a resume
+    without touching any real employer system. No data is sent to any external server.
+  </div>
+
+  <form id="demo-apply-form">
+    <div class="row">
+      <div class="field">
+        <label for="full_name">Full Name *</label>
+        <input type="text" id="full_name" name="full_name" required placeholder="Your full name">
+      </div>
+      <div class="field">
+        <label for="email">Email Address *</label>
+        <input type="email" id="email" name="email" required placeholder="you@email.com">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label for="phone">Phone Number *</label>
+        <input type="tel" id="phone" name="phone" required placeholder="+91-XXXXXXXXXX">
+      </div>
+      <div class="field">
+        <label for="linkedin">LinkedIn Profile</label>
+        <input type="text" id="linkedin" name="linkedin" placeholder="https://linkedin.com/in/...">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label for="college">College / University *</label>
+        <input type="text" id="college" name="college" required placeholder="Institution name">
+      </div>
+      <div class="field">
+        <label for="degree">Degree *</label>
+        <input type="text" id="degree" name="degree" required placeholder="B.Tech Computer Science">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label for="graduation_year">Graduation Year</label>
+        <input type="number" id="graduation_year" name="graduation_year" placeholder="2027" min="2020" max="2030">
+      </div>
+      <div class="field">
+        <label for="cgpa">CGPA / GPA</label>
+        <input type="text" id="cgpa" name="cgpa" placeholder="8.0">
+      </div>
+      <div class="field">
+        <label for="github">GitHub Profile</label>
+        <input type="text" id="github" name="github" placeholder="https://github.com/...">
+      </div>
+    </div>
+
+    <div class="field">
+      <label for="skills">Key Skills (comma-separated)</label>
+      <textarea id="skills" name="skills" rows="3" placeholder="Python, FastAPI, LangChain, RAG, SQL…"></textarea>
+    </div>
+
+    <div class="field">
+      <label for="role_interest">Role Applying For</label>
+      <input type="text" id="role_interest" name="role_interest" placeholder="AI Engineer Intern">
+    </div>
+
+    <div class="field">
+      <label for="resume">Resume (PDF) *</label>
+      <input type="file" id="resume" name="resume" accept=".pdf,.doc,.docx" required>
+    </div>
+
+    <div class="field">
+      <label for="cover_note">Brief Cover Note (optional)</label>
+      <textarea id="cover_note" name="cover_note" rows="4"
+        placeholder="Optional — why you're a fit for this role…"></textarea>
+    </div>
+
+    <button type="submit">Submit Test Application</button>
+  </form>
+
+  <div id="submission-success">
+    <h2>✅ Test Submission Successful!</h2>
+    <p>The form was filled and submitted by the automation engine.<br>
+       This confirms the Auto-Apply pipeline is working correctly.</p>
+    <p style="margin-top:12px; font-size:0.85rem; color:#6b7280;">
+      This is a local test only. No data was sent to any real employer.
+    </p>
+  </div>
+
+  <script>
+    document.getElementById('demo-apply-form').addEventListener('submit', function(e) {
+      e.preventDefault();
+      this.style.display = 'none';
+      document.getElementById('submission-success').style.display = 'block';
+    });
+  </script>
+</body>
+</html>
+

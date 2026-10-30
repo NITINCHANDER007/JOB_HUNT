@@ -1,0 +1,42 @@
+{
+  "_comment": "Nitin Chander — Candidate Profile for Auto-Apply. Edit this file with accurate values. Do NOT invent data.",
+  "full_name": "Nitin Chander",
+  "email": "nitinchandra834@gmail.com",
+  "phone": "+91-8130489303",
+  "linkedin": "https://linkedin.com/in/nitin-chander-b6928120b",
+  "github": "",
+  "college": "Maharaja Agrasen Institute of Technology (GGSIPU)",
+  "college_short": "MAIT",
+  "degree": "B.Tech in Computer Science & Engineering",
+  "graduation_year": "2027",
+  "cgpa": "8.0",
+  "class_12_score": "80%",
+  "preferred_roles": [
+    "AI Engineer Intern",
+    "ML Engineer Intern",
+    "Generative AI Intern",
+    "Python Developer Intern",
+    "Backend Developer Intern",
+    "Data Science Intern"
+  ],
+  "preferred_locations": ["Delhi", "Noida", "Gurgaon", "Bengaluru", "Remote", "Hybrid"],
+  "resume_path": "c:/Users/Lenovo/desktop/projects/job_hunt/Nitin_resume.pdf",
+  "skills": [
+    "Python", "SQL", "LangChain", "RAG", "FastAPI", "Flask",
+    "ChromaDB", "FAISS", "Scikit-learn", "XGBoost", "MLflow",
+    "Docker", "AWS", "PostgreSQL", "MySQL", "Git", "GitHub",
+    "Pandas", "NumPy", "NLP", "Transformers", "LLMs", "Hugging Face",
+    "Prompt Engineering", "REST APIs", "JWT"
+  ],
+  "work_authorization": "Indian Citizen — authorized to work in India",
+  "_MANUAL_FIELDS": {
+    "_note": "The fields below require your explicit input before any form is filled. They are intentionally left blank to prevent inaccurate submissions.",
+    "expected_salary_inr_per_month": "",
+    "notice_period_days": "",
+    "languages_spoken": ["English", "Hindi"],
+    "disability_status": "",
+    "gender": "",
+    "diversity_category": ""
+  }
+}
+
